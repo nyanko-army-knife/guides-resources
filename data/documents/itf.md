@@ -1,17 +1,10 @@
 ItF + Early SoL Guide
 
-
-
-
-
-
-
 ##### Navigation panel
 
 [Contents](#)
 
 [Disclaimers](#disclaimers)
-
 
 ---
 
@@ -30,60 +23,50 @@ ItF + Early SoL Guide
 [User rank, Catfruit and Gacha True Forms](#user-rank)
 [Stories of Legend, Ururun and Event Stages](#sol-and-ururun)
 
-
 ---
 
 [Useful links](#useful-links)
 [Credits](#credits)
 
-A Beginner's Guide to Into the Future
-=====================================
+# A Beginner's Guide to Into the Future
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Disclaimers](#disclaimers)
-* [Treasures and why they matter](#treasures)
-* [When to start ItF?](#when-to-start-itf)
-* [Map layout, timed score rewards and outbreaks](#map-layout)
-* [Difficulty and Strategy](#difficulty-and-strategy)
-* [Finding reliable help](#finding-reliable-help)
-* [Normal Cat True Forms](#normal-cat-true-forms)
-* [Bahamut Cat](#bahamut-cat)
-* [Gacha](#gacha)
-* [Crazed Cats](#crazed-cats)
-  + [Crazed Cats Upgrading Priority](#crazed-cats-upgrading-priority)
-* [Farming and managing XP](#farming-and-managing-xp)
-* [User rank, Catfruit and Gacha True Forms](#user-rank)
-* [Stories of Legend, Ururun and Event Stages](#sol-and-ururun)
-* [Useful links](#useful-links)
-* [Credits](#credits)
-
-  
+- [Disclaimers](#disclaimers)
+- [Treasures and why they matter](#treasures)
+- [When to start ItF?](#when-to-start-itf)
+- [Map layout, timed score rewards and outbreaks](#map-layout)
+- [Difficulty and Strategy](#difficulty-and-strategy)
+- [Finding reliable help](#finding-reliable-help)
+- [Normal Cat True Forms](#normal-cat-true-forms)
+- [Bahamut Cat](#bahamut-cat)
+- [Gacha](#gacha)
+- [Crazed Cats](#crazed-cats)
+  - [Crazed Cats Upgrading Priority](#crazed-cats-upgrading-priority)
+- [Farming and managing XP](#farming-and-managing-xp)
+- [User rank, Catfruit and Gacha True Forms](#user-rank)
+- [Stories of Legend, Ururun and Event Stages](#sol-and-ururun)
+- [Useful links](#useful-links)
+- [Credits](#credits)
 
 Toggle navigation panel
 
-  
-
 Show/Hide navigation button
-  
 
 ##### Disclaimers
 
-* This guide primarily focuses on Into the Future, but most of what is here can also be applied to early-mid
+- This guide primarily focuses on Into the Future, but most of what is here can also be applied to early-mid
   game in general.
-* This guide is an unofficial sequel to [Lucas'
+- This guide is an unofficial sequel to [Lucas'
   Beginner's guide](https://youtu.be/9ATc_PTYVzA). If you haven't watched it, it is recommended you do, as multiple aspects Lucas talked
   about in his video will be brought up here as well.
-* While this guide provides multiple in-game tips and pieces of advice, it does not go in depth on game
+- While this guide provides multiple in-game tips and pieces of advice, it does not go in depth on game
   mechanics.
 
 ---
@@ -99,7 +82,7 @@ also for the EoC 3 drop reward: Bahamut Cat.
 
 ---
 
-Speaking of treasures, they are *extremely important*. This guide will not spend too much time talking
+Speaking of treasures, they are _extremely important_. This guide will not spend too much time talking
 about them since Lucas already covered them in detail, but know this: it's tedious farming treasures, but it's
 even more tedious trying to beat levels with a lack of treasures.
 
@@ -111,17 +94,15 @@ Heaven’s Fruit (angel).
 
 Here are the exact changes in multipliers once all treasures are collected :
 
-| Ability | Without treasures | With maxed out (300%) fruit treasures |
-| --- | --- | --- |
-| Slow, Freeze, Weaken, Dodge | - | +20% duration |
-| Knockback | - | +30% distance |
-| Strong Against | 1.5× damage dealt 0.5× damage taken (1/2) | 1.8× damage dealt 0.4× damage taken (2/5) |
-| Massive Damage | 3× damage dealt | 4× damage dealt |
-| Insane Damage | 5× damage dealt | 6× damage dealt |
-| Resistant | 0.25× damage taken (1/4) | 0.2× damage taken (1/5) |
-| Insane Resist | 0.166× damage taken (1/6) | 0.142× damage taken (1/7) |
-
-
+| Ability                     | Without treasures                         | With maxed out (300%) fruit treasures     |
+| --------------------------- | ----------------------------------------- | ----------------------------------------- |
+| Slow, Freeze, Weaken, Dodge | -                                         | +20% duration                             |
+| Knockback                   | -                                         | +30% distance                             |
+| Strong Against              | 1.5× damage dealt 0.5× damage taken (1/2) | 1.8× damage dealt 0.4× damage taken (2/5) |
+| Massive Damage              | 3× damage dealt                           | 4× damage dealt                           |
+| Insane Damage               | 5× damage dealt                           | 6× damage dealt                           |
+| Resistant                   | 0.25× damage taken (1/4)                  | 0.2× damage taken (1/5)                   |
+| Insane Resist               | 0.166× damage taken (1/6)                 | 0.142× damage taken (1/7)                 |
 
 ItF does not include any fruits for Zombies and Aliens as those can be found in Cats of the Cosmos (CotC), the next set of story mode chapters. As of BCEN 10.5, there are no fruit treasures for Traitless or Relic in any chapter.
 
@@ -146,13 +127,13 @@ with leaderships as an added bonus.
 This is more of an opinion than something you should follow very precisely, but here’s an example of
 progression:
 
-* EoC 1 - 3
-* SoL 1 - 12
-* ItF Ch. I
-* SoL 12 - 18
-* ItF Ch. II
-* SoL 18 - 20
-* ItF Ch. III
+- EoC 1 - 3
+- SoL 1 - 12
+- ItF Ch. I
+- SoL 12 - 18
+- ItF Ch. II
+- SoL 18 - 20
+- ItF Ch. III
 
 It’s also a good idea to play some of the earlier SoL chapters in higher star difficulties, as you’ll have to do
 it eventually anyways: might as well clear them while the chapters are still somewhat challenging/enjoyable.
@@ -188,11 +169,11 @@ possible causes:
 3. You are using the wrong lineup or the wrong strategy.
 
 Every time you lose, try to rethink what you did and what went wrong.
-*(Disclaimer: the following is an oversimplification)*
+_(Disclaimer: the following is an oversimplification)_
 
-* Were the enemies pushing through your meatshields like there weren't any? Try using more meatshields.
-* Did you run out of money? Try stalling for longer before starting the fight if the stage lets you do so.
-* Were all your units getting outranged? Try bringing a longer ranged cat, etc.
+- Were the enemies pushing through your meatshields like there weren't any? Try using more meatshields.
+- Did you run out of money? Try stalling for longer before starting the fight if the stage lets you do so.
+- Were all your units getting outranged? Try bringing a longer ranged cat, etc.
 
 Essentially, don’t give up after a single failed run.
 
@@ -206,7 +187,7 @@ places you can look for this: most of them will be covered here, starting with t
 Since anyone can edit the wiki, a lot of the strats include Ubers, sometimes even continues, and many of them
 are unreliable. Many of the more reliable strats are copied from YouTube tutorials. If you want to quickly look
 up enemy or cat stats, the wiki is generally good, but stage information and strategic insight are a mixed bag.
-  
+
 Simply put, don’t use the wiki to look up strategies.
 
 The more reliable sources for this are
@@ -236,7 +217,7 @@ Most guidemakers don’t have a lot of reliable guides for ItF specifically thou
 [Waran-Ess](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ).
 
 If you can't find a reliable guide for your needs, another option is joining a battle cats Discord server
-*(if you’re reading this, there’s a good chance you’re in one of them right now)*. There are a good number
+_(if you’re reading this, there’s a good chance you’re in one of them right now)_. There are a good number
 of them, but the recommended one is the subreddit's Discord. There are tons of people over there who are glad to
 give helpful advice to anyone who may need it.
 
@@ -248,26 +229,26 @@ While you're progressing through ItF, ideally you'd want to obtain some of your 
 course, this is RNG dependent, but you can farm tickets and log in every day to try and speed up the process.
 Here are some details on each of them:
 
-* **Mohawk**, the true form of the basic cat. Nothing much to say about this one: it's just Cat with better
+- **Mohawk**, the true form of the basic cat. Nothing much to say about this one: it's just Cat with better
   stats, sometimes allowing him to take more hits and kill weak peons faster.
-* **Eraser**, the true form of Tank cat. A staple meatshield, absolute must-have throughout the game. You
+- **Eraser**, the true form of Tank cat. A staple meatshield, absolute must-have throughout the game. You
   can do without it for quite a while, but the earlier you get it, the better.
-* **Dark**, the true form of Axe cat. While it grants better stats, Axe cat's TF doesn't solve its main
+- **Dark**, the true form of Axe cat. While it grants better stats, Axe cat's TF doesn't solve its main
   problems, that being its high cost for a meatshield and low range for an “attacker”.
-* **Macho Legs**, the true form of Gross cat. Not only does Macho Legs get significantly stronger, it also
+- **Macho Legs**, the true form of Gross cat. Not only does Macho Legs get significantly stronger, it also
   gains a new ability: strong against Alien enemies. As with Eraser, you don't absolutely need Macho Legs for
   ItF, but it's a great and cost effective ranged attacker, even outside of Aliens.
-* **Lion**, the true form of Cow cat. Lion is a decent enough unit, but its usage remains very limited.
+- **Lion**, the true form of Cow cat. Lion is a decent enough unit, but its usage remains very limited.
   Decently useful for early speedrunning, but that's about it.
-* **Flying**, the true form of Bird cat. A very powerful Aoe (Area of effect) attacker, though its low
+- **Flying**, the true form of Bird cat. A very powerful Aoe (Area of effect) attacker, though its low
   range remains a problem. It's still good to use against some shorter ranged enemies like Cyberhorn, or
   against single target enemies like LeMurr.
-* **Island**, the true form of Fish cat. Despite Island gaining better stats, enemies also get stronger in
+- **Island**, the true form of Fish cat. Despite Island gaining better stats, enemies also get stronger in
   ItF, mostly limiting its usage to red enemies.
-* **King Dragon**, the true form of Lizard cat. Lizard was already very good, his TF mostly makes him more
+- **King Dragon**, the true form of Lizard cat. Lizard was already very good, his TF mostly makes him more
   cost efficient (better stats but longer cooldown). Do note that the improvements in stats are minor enough
   that using the second form is still better most of the time.
-* **Jamiera**, the true form of Titan cat. This one is a very powerful unit, a tanker. Pretty niche, but
+- **Jamiera**, the true form of Titan cat. This one is a very powerful unit, a tanker. Pretty niche, but
   very nice to have.
 
 ### Bahamut Cat
@@ -289,19 +270,19 @@ At this point in the game, you've most certainly obtained at least a few gacha u
 every single one of them in detail, but here's a list of those worth upgrading (in no particular order, and
 without taking true forms into account):
 
-* Surfer/Castaway
-* Salon/Paris
-* Rocker/Artist
-* Psychocat (for Nimoy Bore and Cyberhorn)
-* Hip Hop/Dancing Flasher
-* Swimmer/Butterfly
-* Figure Skating/Drama
-* Vaulter
+- Surfer/Castaway
+- Salon/Paris
+- Rocker/Artist
+- Psychocat (for Nimoy Bore and Cyberhorn)
+- Hip Hop/Dancing Flasher
+- Swimmer/Butterfly
+- Figure Skating/Drama
+- Vaulter
 
 The top three recommended gacha banners at this point in the game are Almighties, Dark Heroes and Ultra Souls.
 
 This guide does not cover specific ubers: if you want to learn more about them, you can refer to the Fandom and
-r/bc Discord servers, either through #gacha\_advice or the help channels.
+r/bc Discord servers, either through #gacha_advice or the help channels.
 
 ### Crazed Cats
 
@@ -312,31 +293,31 @@ notable ones are Crazed Cats— essentially stronger variants of your Normal Cat
 
 Here’s a quick description of each of their stages:
 
-* **Cat:** pretty straightforward, stacking Bahamut does the trick
-* **Tank:** an endurance stage, definitely annoying but far from the hardest
-* **Axe:** arguably the hardest. Features the annoying boss and endless waves of red enemies.
-* **Gross:** pretty difficult, unless you have Awakened Bahamut or Octopus Cat/any other wave blocker.
+- **Cat:** pretty straightforward, stacking Bahamut does the trick
+- **Tank:** an endurance stage, definitely annoying but far from the hardest
+- **Axe:** arguably the hardest. Features the annoying boss and endless waves of red enemies.
+- **Gross:** pretty difficult, unless you have Awakened Bahamut or Octopus Cat/any other wave blocker.
   Either of these makes the stage completely free.
-* **Cow:** damage spam
-* **Bird:** another endurance level, though not too difficult with the right units
-* **Fish:** Ranged damage dealers + a critical hitter, usually Space Cat
-* **Dragon:** you can use tanky cats, or rush it with Awakened Bahamut
-* **Titan:** stack dragons and get lucky
+- **Cow:** damage spam
+- **Bird:** another endurance level, though not too difficult with the right units
+- **Fish:** Ranged damage dealers + a critical hitter, usually Space Cat
+- **Dragon:** you can use tanky cats, or rush it with Awakened Bahamut
+- **Titan:** stack dragons and get lucky
 
 You don’t need to get all of these right away, but the most important ones are Cat and Tank. The other ones are
-also very good (for the most part), but they’re not quite as vital for ItF.  
+also very good (for the most part), but they’re not quite as vital for ItF.
 Apart from **better overall stats**, here are the main differences between Normals and Crazed:
 
-* **Cat:** the basic cat, except it’s faster.
-* **Tank:** Wall Cat, except it’s… faster…
-* **Axe:** really just a better Axe, though it still has the same problems (low range and high cost)
-* **Gross:** able to produce wave attacks, though this comes at the cost of a significantly longer cooldown.
-* **Cow:** like Lion, but a lot faster and has Aoe.
-* **Bird:** has longer range than normal Flying, which allows it to counter many enemies his basic
+- **Cat:** the basic cat, except it’s faster.
+- **Tank:** Wall Cat, except it’s… faster…
+- **Axe:** really just a better Axe, though it still has the same problems (low range and high cost)
+- **Gross:** able to produce wave attacks, though this comes at the cost of a significantly longer cooldown.
+- **Cow:** like Lion, but a lot faster and has Aoe.
+- **Bird:** has longer range than normal Flying, which allows it to counter many enemies his basic
   counterpart cannot. Still has short range for spammable Aoe, but a very powerful unit overall.
-* **Fish:** really just a better Island, while also being faster and cheaper.
-* **Dragon:** better dragon.
-* **Titan:** compared to Jamiera, loses the knockback for a 10% wave chance (and higher speed). Can be
+- **Fish:** really just a better Island, while also being faster and cheaper.
+- **Dragon:** better dragon.
+- **Titan:** compared to Jamiera, loses the knockback for a 10% wave chance (and higher speed). Can be
   better in some situations, but Normal Jamiera is overall more reliable (except at low levels) due to the
   shorter attack animation.
 
@@ -344,17 +325,17 @@ Apart from **better overall stats**, here are the main differences between Norma
 
 ---
 
-| Crazed unit | Priority |
-| --- | --- |
-| Cat/Macho | Low |
-| Tank/Wall | Top |
-| Axe/Brave | Don't bother |
-| Gross/Sexy Legs | High |
-| Cow/Giraffe | Mid/Low (depending how much you want unit that’s mostly used for speedrunning/treasure farming) |
-| Bird/UFO | Mid (less important if you have Surfer/Salon/Figure Skating) |
-| Fish/Whale | Mid |
-| Lizard/Dragon | High |
-| Titan | Mid |
+| Crazed unit     | Priority                                                                                        |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Cat/Macho       | Low                                                                                             |
+| Tank/Wall       | Top                                                                                             |
+| Axe/Brave       | Don't bother                                                                                    |
+| Gross/Sexy Legs | High                                                                                            |
+| Cow/Giraffe     | Mid/Low (depending how much you want unit that’s mostly used for speedrunning/treasure farming) |
+| Bird/UFO        | Mid (less important if you have Surfer/Salon/Figure Skating)                                    |
+| Fish/Whale      | Mid                                                                                             |
+| Lizard/Dragon   | High                                                                                            |
+| Titan           | Mid                                                                                             |
 
 Since Crazed Cats cost so much XP to level up, you’ll need to grind for some.
 
@@ -370,9 +351,9 @@ is playing Legend Stages for XP (refer to the [When should I start ItF?](#when-t
 Lucas made an entire video on the topic and it is highly recommended to check it out, but here are some of the
 important points:
 
-* Upgrade units to their max level… or don’t upgrade **at all.**
-* **Never** spread your XP: upgrade one unit fully, then move on to the next.
-* If you have XP saved up, you don't *have* to use it. Save it for something important.
+- Upgrade units to their max level… or don’t upgrade **at all.**
+- **Never** spread your XP: upgrade one unit fully, then move on to the next.
+- If you have XP saved up, you don't _have_ to use it. Save it for something important.
 
 Really, go watch the video. It's worth the fifteen minutes.
 
@@ -383,17 +364,17 @@ Really, go watch the video. It's worth the fifteen minutes.
 While upgrading your units, you might have noticed how you can only upgrade them up to a certain point. Higher
 level caps are unlocked from User Rank.
 
-| User Rank | Rarity | Level cap |
-| --- | --- | --- |
-| 900 | Rare | 25 |
-| 1000 | Super Rare |
-| 1100 | Uber Rare |
-| 1110 | Legend Rare |
-| 1200 | Rare | 30 |
-| 1300 | Super Rare |
-| 1400 | Uber Rare |
-| 1410 | Legend Rare |
-| 1600 | Special |
+| User Rank | Rarity      | Level cap |
+| --------- | ----------- | --------- |
+| 900       | Rare        | 25        |
+| 1000      | Super Rare  |
+| 1100      | Uber Rare   |
+| 1110      | Legend Rare |
+| 1200      | Rare        | 30        |
+| 1300      | Super Rare  |
+| 1400      | Uber Rare   |
+| 1410      | Legend Rare |
+| 1600      | Special     |
 
 With higher levels unlocked, you will get the opportunity to upgrade gacha units to their third form, or True
 Form. Evolving a unit to its true form (referred to as “true forming”) requires XP and Catfruit, the amount of
@@ -406,16 +387,16 @@ harder, though keep in mind they give better rewards.
 
 Here are some good gacha units to True Form early:
 
-* **Cyborg** (Paris)
-* **Catasaurus** (Jurassic)
-* **Sanzo** (Bishop)
-* **Corrupted Psychocat** (Psychocat)
-* **Ramen** (Rocker)
-* **Cameraman** (Mer-Cat)
-* **Can Can** (Hip Hop)
-* **Fishman** (Swimmer)
-* **Seafarer** (Surfer)
-* **Pizza** (Weightlifter)
+- **Cyborg** (Paris)
+- **Catasaurus** (Jurassic)
+- **Sanzo** (Bishop)
+- **Corrupted Psychocat** (Psychocat)
+- **Ramen** (Rocker)
+- **Cameraman** (Mer-Cat)
+- **Can Can** (Hip Hop)
+- **Fishman** (Swimmer)
+- **Seafarer** (Surfer)
+- **Pizza** (Weightlifter)
 
 There are many other good ones, but those listed here are the ones you should worry about at first.
 Underlined True Forms are those that do great in ItF specifically, while the others are just good early
@@ -454,48 +435,43 @@ his original beginner’s guide, some guidemakers, the link to the subreddit’s
 
 ##### Communities
 
-**[The official Battle Cats subreddit](http://www.reddit.com/r/battlecats/)**  
-**[The subreddit's Discord server](https://discord.gg/battlecats)**  
-**[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**   
-  
+**[The official Battle Cats subreddit](http://www.reddit.com/r/battlecats/)**
+**[The subreddit's Discord server](https://discord.gg/battlecats)**
+**[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**
 
 ##### Stats & Information
 
-**[The official Battle Cats wiki](http://www.battle-cats.wikia.com)**  
-**[Mygamatoto](https://mygamatoto.com/)**  
-**[Spica](https://battlecats-db.com/)**  
-  
+**[The official Battle Cats wiki](http://www.battle-cats.wikia.com)**
+**[Mygamatoto](https://mygamatoto.com/)**
+**[Spica](https://battlecats-db.com/)**
 
 ##### Guidemakers
 
 (the best known and most reliable)
 
-**[Wuffa](https://www.youtube.com/user/nurseluka)**  
-**[Lucas](https://www.youtube.com/user/Gameandwatch97)**  
-**[yohane](https://www.youtube.com/user/misterhappy444)**  
-**[Anthony](https://www.youtube.com/channel/UCtNXKH6K6wHCAHbZS4tq-RQ)**  
-**[Jones](https://www.youtube.com/user/SilumanTomcat)**  
-  
+**[Wuffa](https://www.youtube.com/user/nurseluka)**
+**[Lucas](https://www.youtube.com/user/Gameandwatch97)**
+**[yohane](https://www.youtube.com/user/misterhappy444)**
+**[Anthony](https://www.youtube.com/channel/UCtNXKH6K6wHCAHbZS4tq-RQ)**
+**[Jones](https://www.youtube.com/user/SilumanTomcat)**
 
 ##### Extra guidemakers
 
 (not as notable as the aforementioned ones, but can still be good to check out)
 
-**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**  
-**[Jack](https://www.youtube.com/channel/UCp63pm4faWdHzamCFkNimwQ)**  
-**[Coby](https://www.youtube.com/channel/UC-bPqQtL-6x5LUkJChRoi9g)**  
-**[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)**  
-**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**  
-**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**  
-  
+**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**
+**[Jack](https://www.youtube.com/channel/UCp63pm4faWdHzamCFkNimwQ)**
+**[Coby](https://www.youtube.com/channel/UC-bPqQtL-6x5LUkJChRoi9g)**
+**[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)**
+**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**
+**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**
 
 ##### Lucas videos
 
-**[Beginner's Guide](https://www.youtube.com/watch?v=9ATc_PTYVzA)**  
-**[Farming and managing XP](https://www.youtube.com/watch?v=UVHgxje56IU)**  
-**[Stage schematics](https://www.youtube.com/watch?v=OL6gVLaZmcc)**  
-**[Important ranges](https://www.youtube.com/watch?v=3hxh3Xoa8h8)**  
-  
+**[Beginner's Guide](https://www.youtube.com/watch?v=9ATc_PTYVzA)**
+**[Farming and managing XP](https://www.youtube.com/watch?v=UVHgxje56IU)**
+**[Stage schematics](https://www.youtube.com/watch?v=OL6gVLaZmcc)**
+**[Important ranges](https://www.youtube.com/watch?v=3hxh3Xoa8h8)**
 
 ### Credits
 

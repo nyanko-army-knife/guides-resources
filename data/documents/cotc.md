@@ -1,43 +1,32 @@
 CotC Guide
 
-
-
-
-
-
-
-
-A Guide to Cats of the Cosmos
-=============================
+# A Guide to Cats of the Cosmos
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Disclaimer](#disclaimer)
-* [When to start CotC](#when-to-start-cotc)
-* [Treasures and why they matter](#treasures-and-why-they-matter)
-  + [Mystery Mask](#mystery-mask)
-  + [Crystals](#crystals)
-  + [Fruits](#fruits)
-  + [Energy and XP rewards](#energy-and-xp-rewards)
-  + [Supplemental notes on treasure grinding](#supplemental-treasure-farming-notes)
-* [Deploy Restrictions](#deploy-restrictions)
-* [Gacha Units and Preparations](#gacha-units-and-preparation)
-  + [Mandatory units](#mandatory-units)
-  + [Recommended True Forms](#recommended-true-forms)
-  + [Recommended Talents](#recommended-talents)
-  + [Recommended Gacha Banners](#recommended-banners)
-* [Roadblock stages and getting stuck](#roadblocks-and-getting-stuck)
-* [Useful links](#useful-links)
-* [Credits](#credits)
+- [Disclaimer](#disclaimer)
+- [When to start CotC](#when-to-start-cotc)
+- [Treasures and why they matter](#treasures-and-why-they-matter)
+  - [Mystery Mask](#mystery-mask)
+  - [Crystals](#crystals)
+  - [Fruits](#fruits)
+  - [Energy and XP rewards](#energy-and-xp-rewards)
+  - [Supplemental notes on treasure grinding](#supplemental-treasure-farming-notes)
+- [Deploy Restrictions](#deploy-restrictions)
+- [Gacha Units and Preparations](#gacha-units-and-preparation)
+  - [Mandatory units](#mandatory-units)
+  - [Recommended True Forms](#recommended-true-forms)
+  - [Recommended Talents](#recommended-talents)
+  - [Recommended Gacha Banners](#recommended-banners)
+- [Roadblock stages and getting stuck](#roadblocks-and-getting-stuck)
+- [Useful links](#useful-links)
+- [Credits](#credits)
 
 ##### Disclaimer
 
@@ -57,11 +46,11 @@ side for this. Not to mention completing ItF also gives you access to talents.
 
 Here's an example of progression you can use as a general guideline:
 
-* ItF Ch. III + SoL 1 - 18
-* CotC Ch. I & II
-* SoL 19 - 49
-* UL 1
-* CotC Ch. III
+- ItF Ch. III + SoL 1 - 18
+- CotC Ch. I & II
+- SoL 19 - 49
+- UL 1
+- CotC Ch. III
 
 Why this order?
 
@@ -118,14 +107,14 @@ Not needed, but good for making progression easier without affecting in-battle g
 
 #### Supplemental notes on treasure grinding
 
-* Starred Aliens have a base magnification at 1600%. Each (completed) crystal treasure set decreases their
+- Starred Aliens have a base magnification at 1600%. Each (completed) crystal treasure set decreases their
   magnification by 100% (eventually bringing the default magnification down to 100%). The magnification is
   multiplicative, not additive: this means that a 200% Starred Alien enemy would have a default magnification
   of 3200% (200% × 1600%).
-* ItF crystals have no effect on starred aliens, but they do affect unstarred aliens appearing in CotC.
-* BCEN only has a scheduled treasure festival on the 22nd of every month.
-* BCJP has scheduled festivals every day.
-* It is generally considered acceptable to use treasure radars on some of the later CotC III stages, such as
+- ItF crystals have no effect on starred aliens, but they do affect unstarred aliens appearing in CotC.
+- BCEN only has a scheduled treasure festival on the 22nd of every month.
+- BCJP has scheduled festivals every day.
+- It is generally considered acceptable to use treasure radars on some of the later CotC III stages, such as
   Skelling and Andromeda, due to their notable difficulty.
 
 ### Deploy Restrictions
@@ -135,19 +124,19 @@ Not needed, but good for making progression easier without affecting in-battle g
 Most stages in CotC have deploy restrictions, with one of them having two and a handful having none. Here are all
 the possible restrictions:
 
-* Normal, Rare, Super Rare, Uber Rare, Legend Rare Cats only
-* Normal, Special, Uber Rare, Legend Rare Cats only
-* Special, Rare, Uber Rare, Legend Rare Cats only
-* Special, Rare, Super Rare Cats only
-* Special Cats only
-* Cats with ≥300¢ deployment cost
-* Cats with ≤1200¢ deployment cost
-* Cats with ≥1200¢ deployment cost
-* Cats with ≤4000¢ deployment cost
-* MAX number of 20 Cats (as opposed to the usual cat limit of 50)
-* MAX number of 15 Cats
-* MAX number of 10 Cats
-* First row (5 slots) only
+- Normal, Rare, Super Rare, Uber Rare, Legend Rare Cats only
+- Normal, Special, Uber Rare, Legend Rare Cats only
+- Special, Rare, Uber Rare, Legend Rare Cats only
+- Special, Rare, Super Rare Cats only
+- Special Cats only
+- Cats with ≥300¢ deployment cost
+- Cats with ≤1200¢ deployment cost
+- Cats with ≥1200¢ deployment cost
+- Cats with ≤4000¢ deployment cost
+- MAX number of 20 Cats (as opposed to the usual cat limit of 50)
+- MAX number of 15 Cats
+- MAX number of 10 Cats
+- First row (5 slots) only
 
 ### Gacha Units and Preparations
 
@@ -158,37 +147,37 @@ the possible restrictions:
 The following units/things are highly recommended and you should ideally obtain them before diving
 into CotC:
 
-* 100% EoC ch. I - III + ItF ch. I - III treasures
-* Awakened Bahamut Cat
-* Ururun Wolf
-* Every Crazed Cat except Crazed Moneko
-* Li’l Macho Legs *or* Loincloth Cat (to break barriers in special units only restriction in Ch. II/III)
+- 100% EoC ch. I - III + ItF ch. I - III treasures
+- Awakened Bahamut Cat
+- Ururun Wolf
+- Every Crazed Cat except Crazed Moneko
+- Li’l Macho Legs _or_ Loincloth Cat (to break barriers in special units only restriction in Ch. II/III)
 
 #### Recommended True Forms
 
 Asterisks\* indicate units that need a boost from talents before being good enough for CotC usage.
 
-* **Seafarer** (Surfer / Castaway)
-  + Most of the dangerous starred aliens have short range, and seafarer can counter them very well.
-* **Chill** (Wheel / Solar)
-  + Good for more or less the same reasons as Seafarer, but focuses on damage rather than CC.
-* **Catellite** (Rover / Rover Mk II)
-  + Meatshield with warp immunity, good to have for some warp-heavy stages.
-* **Can Can** (Hip Hop / Dancing Flasher)
-  + Extremely good physical stats, even better with talents.
-* **Corrupted Psychocat** (Psychocat / Neo Psychocat)
-  + Can assist Seafarer against some of the more threatening aliens like Nimoy Bore.
-* **iCat** (Apple Cat / Face Cat)
-  + For some of the stages that feature red enemies (Bore)
-* **The Kitty of Liberty** (Fencer / Kendo)
-  + Great to have around, especially for enemies whose barriers can't be broken by other means
+- **Seafarer** (Surfer / Castaway)
+  - Most of the dangerous starred aliens have short range, and seafarer can counter them very well.
+- **Chill** (Wheel / Solar)
+  - Good for more or less the same reasons as Seafarer, but focuses on damage rather than CC.
+- **Catellite** (Rover / Rover Mk II)
+  - Meatshield with warp immunity, good to have for some warp-heavy stages.
+- **Can Can** (Hip Hop / Dancing Flasher)
+  - Extremely good physical stats, even better with talents.
+- **Corrupted Psychocat** (Psychocat / Neo Psychocat)
+  - Can assist Seafarer against some of the more threatening aliens like Nimoy Bore.
+- **iCat** (Apple Cat / Face Cat)
+  - For some of the stages that feature red enemies (Bore)
+- **The Kitty of Liberty** (Fencer / Kendo)
+  - Great to have around, especially for enemies whose barriers can't be broken by other means
     (UltraBaaBaa)
-* **Cameraman** (Mer-cat / Commando)
-* **Pizza** (Weightlifter / Ring Girl)
-* **Roe\*** (Sushi / Fried Shrimp)
-* **Cyberpunk\*** (Nerd / Hacker)
-  + Pretty much only needed for a handful of stages in chapter III
-* Honorable mention: **Miter Saw Cat** (doesn't have a true form as of BCEN 10.5, but still performs very
+- **Cameraman** (Mer-cat / Commando)
+- **Pizza** (Weightlifter / Ring Girl)
+- **Roe\*** (Sushi / Fried Shrimp)
+- **Cyberpunk\*** (Nerd / Hacker)
+  - Pretty much only needed for a handful of stages in chapter III
+- Honorable mention: **Miter Saw Cat** (doesn't have a true form as of BCEN 10.5, but still performs very
   well in CotC overall)
 
 Note: None of these true forms are mandatory. You can skip any of them if you wish, but they are among
@@ -196,22 +185,22 @@ the most helpful to get.
 
 #### Recommended Talents
 
-* Can Can Cat – Extra money (bounty) + Speed Up
-* Cyberpunk Cat – Barrier Breaker + Slow Up
-* Pizza Cat – Wave attack
-* Roe Cat – Cost down to level 5
+- Can Can Cat – Extra money (bounty) + Speed Up
+- Cyberpunk Cat – Barrier Breaker + Slow Up
+- Pizza Cat – Wave attack
+- Roe Cat – Cost down to level 5
   (1200¢ price is compatible with both ≤1200¢ and ≥1200¢ deployment cost restrictions)
-* Chill Cat – Cost Down (NOT knockback, it makes the unit worse)
+- Chill Cat – Cost Down (NOT knockback, it makes the unit worse)
 
 Note: Again, none of these talents are mandatory. You can skip any of them if you wish, but they are
 among the most helpful to get.
 
 #### Recommended Gacha Banners
 
-* Dark Heroes
-* Almighties
-* Ultra Souls
-* Elemental Pixies
+- Dark Heroes
+- Almighties
+- Ultra Souls
+- Elemental Pixies
 
 ### A point on roadblock stages and "getting stuck"
 
@@ -220,12 +209,12 @@ among the most helpful to get.
 It is likely you will encounter a roadblock at least once when playing through CotC. Here are some tips to help
 with the situation:
 
-* If you go in blind and lose to a stage, make sure to study the schematics and adjust your lineup accordingly.
-* Are you missing any crucial units or true forms to beat the stage? If yes, consider getting them.
-* Consider grinding treasures if you haven't already. Any activated crystal helps a lot.
-* If you fail in Big Bang (Cat God) stages, there is a high chance that you do not have the Mystery Mask at
+- If you go in blind and lose to a stage, make sure to study the schematics and adjust your lineup accordingly.
+- Are you missing any crucial units or true forms to beat the stage? If yes, consider getting them.
+- Consider grinding treasures if you haven't already. Any activated crystal helps a lot.
+- If you fail in Big Bang (Cat God) stages, there is a high chance that you do not have the Mystery Mask at
   full power. The first thing you should do is getting the Mystery Mask to 100%.
-* If you still fail after doing all the above, you should look for reliable help. The best places for it are
+- If you still fail after doing all the above, you should look for reliable help. The best places for it are
   YouTube tutorial videos and Discord servers.
 
 ---
@@ -243,34 +232,31 @@ as well as other links in the following section.
 
 ##### Communities
 
-**[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)**  
-**[The subreddit's Discord server](https://discord.gg/battlecats)**  
-**[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**   
-  
+**[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)**
+**[The subreddit's Discord server](https://discord.gg/battlecats)**
+**[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**
 
 ##### Stats & Information
 
-**[The official Battle Cats wiki](https://www.battle-cats.wikia.com)**  
-**[Mygamatoto](https://mygamatoto.com/)**  
-**[Spica](https://battlecats-db.com/)**  
-  
+**[The official Battle Cats wiki](https://www.battle-cats.wikia.com)**
+**[Mygamatoto](https://mygamatoto.com/)**
+**[Spica](https://battlecats-db.com/)**
 
 ##### Guidemakers
 
 (most of these have at least a few guides on CotC stages)
 
-**[Wuffa](https://www.youtube.com/user/nurseluka)**  
-**[Jones](https://www.youtube.com/user/SilumanTomcat)**  
-**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**  
-**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**  
-**[yohane](https://www.youtube.com/user/misterhappy444)**  
-**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**  
-  
+**[Wuffa](https://www.youtube.com/user/nurseluka)**
+**[Jones](https://www.youtube.com/user/SilumanTomcat)**
+**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**
+**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**
+**[yohane](https://www.youtube.com/user/misterhappy444)**
+**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**
 
 ### Credits
 
 ---
 
-**Tungnon**#1337 (original guide redaction)  
-**Huubinhdang**#9005 and **Mickey**#9335 (providing feedback)  
+**Tungnon**#1337 (original guide redaction)
+**Huubinhdang**#9005 and **Mickey**#9335 (providing feedback)
 **Waran-Ess**#9801 (providing feedback, grammar checks, and web conversion)

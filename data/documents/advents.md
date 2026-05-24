@@ -1,78 +1,67 @@
 A Guide to Advent Stages
 
-
-
-
-
-
-
-
-A Guide to Advents
-==================
+# A Guide to Advents
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Introduction](#introduction)
-* [Queen B](#queen-b)
-  + [Honey Trap](#honey-trap)
-  + [Honey Drip](#honey-drip)
-  + [Royal Jelly Hell](#royal-jelly-hell)
-* [Queen Mother V](#queen-v)
-  + [I'll Be Bug](#ill-be-bug)
-* [Daboo of the Dead](#daboo)
-  + [Parade of the Dead](#parade-of-the-dead)
-  + [Prisoner's Progress](#prisoners-progress)
-  + [March to Death](#march-to-death)
-* [Heavenly Herald Papuu](#papuu)
-  + [Saintly Sister](#saintly-sister)
-* [King Wahwah](#wahwah)
-  + [King Wahwah's Revenge](#king-wahwahs-revenge)
-  + [Revenge of N-1](#revenge-of-n1)
-  + [Wrath of The Dogelord](#wrath-of-the-dogelord)
-* [Everlord Wanwan](#wanwan)
-  + [Dogsville](#dogsville)
-* [Cruel Angel Clionel](#clionel)
-  + [No Plan A](#no-plan-a)
-  + [New Testament](#new-testament)
-  + [A Cat Screaming Love](#a-cat-screaming-love)
-* [Death Angel Z-Onel](#z-onel)
-  + [Last of The Dead](#last-of-the-dead)
-* [Bakoo](#bakoo)
-  + [Bombergirl](#bombergirl)
-  + [Wrath of The Dreamer](#wrath-of-the-dreamer)
-  + [Revenge of The Dreamer](#revenge-of-the-dreamer)
-* [Doremi](#doremi)
-  + [Baby Fake](#baby-fake)
-* [Hannya](#hannya)
-  + [Realm of Carnage](#realm-of-carnage)
-  + [Wrath of Carnage](#wrath-of-carnage)
-  + [Revenge of Carnage](#revenge-of-carnage)
-* [Black Okame](#kurokame)
-  + [The Pure Land](#the-pure-land)
-  + [Heaven and Hell](#heaven-and-hell)
-  + [Okame's Teahouse](#okames-teahouse)
-* [Sathankhamun VIII](#sathankhamun)
-  + [Aku Reincarnation](#aku-reincarnation)
-* [Possessed Empress Cat](#empress)
-  + [Aku Melody](#aku-melody)
-* [Evil Emperor Cat](#tyrant)
-  + [Prelude to Ruin](#prelude-to-ruin)
-* [Kappy](#kappy)
-  + [Flow Like The Stream](#flow-like-the-stream)
-  + [Guided by Currents](#guided-by-currents)
-  + [Water Conservancy](#water-conservancy)
-* [Puffsley's Comet](#puffsley)
-  + [Puffer Planet](#puffer-planet)
-* [Credits](#credits)
+- [Introduction](#introduction)
+- [Queen B](#queen-b)
+  - [Honey Trap](#honey-trap)
+  - [Honey Drip](#honey-drip)
+  - [Royal Jelly Hell](#royal-jelly-hell)
+- [Queen Mother V](#queen-v)
+  - [I'll Be Bug](#ill-be-bug)
+- [Daboo of the Dead](#daboo)
+  - [Parade of the Dead](#parade-of-the-dead)
+  - [Prisoner's Progress](#prisoners-progress)
+  - [March to Death](#march-to-death)
+- [Heavenly Herald Papuu](#papuu)
+  - [Saintly Sister](#saintly-sister)
+- [King Wahwah](#wahwah)
+  - [King Wahwah's Revenge](#king-wahwahs-revenge)
+  - [Revenge of N-1](#revenge-of-n1)
+  - [Wrath of The Dogelord](#wrath-of-the-dogelord)
+- [Everlord Wanwan](#wanwan)
+  - [Dogsville](#dogsville)
+- [Cruel Angel Clionel](#clionel)
+  - [No Plan A](#no-plan-a)
+  - [New Testament](#new-testament)
+  - [A Cat Screaming Love](#a-cat-screaming-love)
+- [Death Angel Z-Onel](#z-onel)
+  - [Last of The Dead](#last-of-the-dead)
+- [Bakoo](#bakoo)
+  - [Bombergirl](#bombergirl)
+  - [Wrath of The Dreamer](#wrath-of-the-dreamer)
+  - [Revenge of The Dreamer](#revenge-of-the-dreamer)
+- [Doremi](#doremi)
+  - [Baby Fake](#baby-fake)
+- [Hannya](#hannya)
+  - [Realm of Carnage](#realm-of-carnage)
+  - [Wrath of Carnage](#wrath-of-carnage)
+  - [Revenge of Carnage](#revenge-of-carnage)
+- [Black Okame](#kurokame)
+  - [The Pure Land](#the-pure-land)
+  - [Heaven and Hell](#heaven-and-hell)
+  - [Okame's Teahouse](#okames-teahouse)
+- [Sathankhamun VIII](#sathankhamun)
+  - [Aku Reincarnation](#aku-reincarnation)
+- [Possessed Empress Cat](#empress)
+  - [Aku Melody](#aku-melody)
+- [Evil Emperor Cat](#tyrant)
+  - [Prelude to Ruin](#prelude-to-ruin)
+- [Kappy](#kappy)
+  - [Flow Like The Stream](#flow-like-the-stream)
+  - [Guided by Currents](#guided-by-currents)
+  - [Water Conservancy](#water-conservancy)
+- [Puffsley's Comet](#puffsley)
+  - [Puffer Planet](#puffer-planet)
+- [Credits](#credits)
 
 ### Introduction
 
@@ -117,8 +106,7 @@ oddballs anyway. 5~10 levels here and there can be typically compensated for by 
 said, guidemakers tend to be rather conservative in this regard, so your levels will most likely be higher
 than those in the guide.
 
-Queen B
--------
+## Queen B
 
 ---
 
@@ -136,30 +124,30 @@ The stage contains Queen B paired with The Sloth. Peons include occasional Broll
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Awakened Bahamut is perfect for this stage. With high speed and solid DPS, he'll
+- **Awakened Bahamut** - Awakened Bahamut is perfect for this stage. With high speed and solid DPS, he'll
   be your primary source of damage. A crucial part of all rush strats.
-* **Sadako** - Serves as a wall that stops Brollows from killing your higher range units. Great unit to
+- **Sadako** - Serves as a wall that stops Brollows from killing your higher range units. Great unit to
   bring
   even if you're not rushing.
 
 ##### Great-To-Have Units
 
-* **Butterfly / Fishman** - Can one-shot Brollows, and deals good damage to Queen B. High speed lets her
+- **Butterfly / Fishman** - Can one-shot Brollows, and deals good damage to Queen B. High speed lets her
   enter Queen B's blindspot easily. Also decent for chipping other enemies.
-* **Can Can, preferably with Speed Up** - Damage output is good for cleaning up all kinds of peons, and
+- **Can Can, preferably with Speed Up** - Damage output is good for cleaning up all kinds of peons, and
   contributes in rush strat as well.
-* **Castaway / Seafarer / Necromancer** - Can freeze Queen B, making it easy for other units to enter her
+- **Castaway / Seafarer / Necromancer** - Can freeze Queen B, making it easy for other units to enter her
   blind spot.
-* **Magica / Thaumaturge** - Might weaken The Sloth, allowing your Bahamut to survive a hit from it. With
+- **Magica / Thaumaturge** - Might weaken The Sloth, allowing your Bahamut to survive a hit from it. With
   that
   it's possible to rush Queen B in just one Bahamut chain.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Floating / Anti-Traitless / Generalist Rushers:** Meow-sketeer / Valiant D'arktanyan,
+- **Anti-Floating / Anti-Traitless / Generalist Rushers:** Meow-sketeer / Valiant D'arktanyan,
   Li'l Valkyrie / Li'l Valkyrie Dark, Divine Kalisa, etc.
-* **Certain Slow-Immunes:** High-Lord Babel, Strike Unit R.E.I., Rock Revengers / One-Hit Wonders.
-* **Generalist Tankers:** Divine Kai, Hades the Deathdealer, Cats in the Cradle
+- **Certain Slow-Immunes:** High-Lord Babel, Strike Unit R.E.I., Rock Revengers / One-Hit Wonders.
+- **Generalist Tankers:** Divine Kai, Hades the Deathdealer, Cats in the Cradle
 
 ##### Lineups and Strategies
 
@@ -187,25 +175,25 @@ Cost <= 3900. The consequence of this is that you cannot use Awakened Bahamut [o
 
 ##### Must-Have Units
 
-* **Catellite** - Since the approach here is to outlast the Brollow waves, having Catellite for stalling is
+- **Catellite** - Since the approach here is to outlast the Brollow waves, having Catellite for stalling is
   a high priority.
-* **Sadako / Octopus** - Serves as a wall that stops Brollows from killing your higher range units. Great
+- **Sadako / Octopus** - Serves as a wall that stops Brollows from killing your higher range units. Great
   unit to bring especially since you're not rushing.
-* **Fishman** - Can one-shot Brollows, and deals good damage to Queen B. Great for chipping almost every
+- **Fishman** - Can one-shot Brollows, and deals good damage to Queen B. Great for chipping almost every
   enemy on this stage. Thanks to high speed, it can make it into Queen B's blindspot without needing too much
   timing.
 
 ##### Great-To-Have Units
 
-* **Can Can, preferably with Speed Up** - Damage output is good for cleaning up all kinds of peons,
+- **Can Can, preferably with Speed Up** - Damage output is good for cleaning up all kinds of peons,
   although performance without speed up isn't very remarkable.
-* **Maglev** - Kills a single peon, and gives double bounty. Good to stop Queen B from pushing just after
+- **Maglev** - Kills a single peon, and gives double bounty. Good to stop Queen B from pushing just after
   The Sloth attacks, and reduces pressure during Brollow waves.
-* **Vendor** - Can knockback The Sloth, helping you to recover ground.
+- **Vendor** - Can knockback The Sloth, helping you to recover ground.
 
 ##### Useful Uber Rare Cats
 
-* **Ubers with <=3900 Cost and Decent Speed:** Gigavolta, Divine Twinstars, etc.
+- **Ubers with <=3900 Cost and Decent Speed:** Gigavolta, Divine Twinstars, etc.
 
 ##### Lineups and Strategies
 
@@ -233,25 +221,25 @@ relatively slow rate. Arguably easier than the two stages that come before it.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Awakened Bahamut is important to kill Cyberhorn before Queen B gets to your base.
-* **Corrupted Psychocat / Seafarer** - Crowd Control units are important for stalling Cyberhorn. Note that
+- **Awakened Bahamut** - Awakened Bahamut is important to kill Cyberhorn before Queen B gets to your base.
+- **Corrupted Psychocat / Seafarer** - Crowd Control units are important for stalling Cyberhorn. Note that
   true formed Psychocat makes a significant difference, and Freeze Up Seafarer is great here too.
   Alternatively, Can Can with Target Alien talent works too. Either of these three will be good, but bringing
   more is always welcome.
-* **Chill Cat** - For busting down Cyberhorn quickly.
-* **Bomber Cat** - To stop Dark Otter so your other units can kill it.
+- **Chill Cat** - For busting down Cyberhorn quickly.
+- **Bomber Cat** - To stop Dark Otter so your other units can kill it.
 
 ##### Great-To-Have Units
 
-* **fishman** - For rushing Queen B, preferably before having to fight the second Cyberhorn.
-* **Power Saw** - Same use as Chill, except does slightly better damage for it's cost. Cooldown is high
+- **fishman** - For rushing Queen B, preferably before having to fight the second Cyberhorn.
+- **Power Saw** - Same use as Chill, except does slightly better damage for it's cost. Cooldown is high
   though, so only put it in a filler slot.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Alien / Generalist Rushers:** Meow-sketeer / Valiant D'arktanyan, Li'l Valkyrie /
+- **Anti-Alien / Generalist Rushers:** Meow-sketeer / Valiant D'arktanyan, Li'l Valkyrie /
   Li'l Valkyrie Dark, Divine Kalisa, etc.
-* **Melee Units with High DPS:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
+- **Melee Units with High DPS:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
 
 ##### Lineups and Strategies
 
@@ -269,8 +257,7 @@ him. By the time Queen B arrives, Cyberhorn should be dead. Try to Cannon Cancel
 so don't fret if you can't do it]. Try to get a few units into her blindspot, and attempt rush similar to the
 original stage. Bahamut should also enter her blindspot once his slow expires, which will help too.
 
-Queen Mother V
---------------
+## Queen Mother V
 
 ---
 
@@ -288,38 +275,38 @@ worse against Professor A. So, some seriously good timing is required here.
 
 ##### Must-Have Units
 
-* **Manic Island** - Comes in use for chipping Professor A, killing peons, everything. Any level lower than
+- **Manic Island** - Comes in use for chipping Professor A, killing peons, everything. Any level lower than
   40
   will struggle to survive for long enough, unless you have strong up combos.
-* **Roe** - Your primary tank. You’ll use this to hold back the enemies while your other units keep coming
+- **Roe** - Your primary tank. You’ll use this to hold back the enemies while your other units keep coming
   and dying.
-* **Awakened Bahamut** - For attacking Professor A, preferably landing multiple hits while doing so.
-* **Bullet Train** - For killing Ginger Snache and Relic Doge, can also be used to chip Professor A if
+- **Awakened Bahamut** - For attacking Professor A, preferably landing multiple hits while doing so.
+- **Bullet Train** - For killing Ginger Snache and Relic Doge, can also be used to chip Professor A if
   needed. Great as you don’t really need to time it to work.
 
 ##### Great-To-Have Units
 
-* **NEO Cutter** - Does the same damage as an Awakened Bahamut hit to red enemies once strengthened,
+- **NEO Cutter** - Does the same damage as an Awakened Bahamut hit to red enemies once strengthened,
   although it doesn’t always land in a hit. 41s cooldown is half that of Bahamut, which means you get more
   opportunities when you bring both.
-* **Can Can** - Great for killing One Horn, stalling it with slow, and killing Relic Doge.
-* **Island** - Works as a second M.Island. Especially good if you’re bringing Strong Up Combos.
-* **Cyberpunk (Max Slow Up Talent)** - Good for stalling / slow chipping if you manage to have 2 Prof. A on
+- **Can Can** - Great for killing One Horn, stalling it with slow, and killing Relic Doge.
+- **Island** - Works as a second M.Island. Especially good if you’re bringing Strong Up Combos.
+- **Cyberpunk (Max Slow Up Talent)** - Good for stalling / slow chipping if you manage to have 2 Prof. A on
   the field, at which point most of your units won't be able to hit them. Stands outside Relic V range if any
   other enemies are at front.
 
 ##### Useful Uber Rare Cats
 
-* **Bulky Anti-Reds:**
+- **Bulky Anti-Reds:**
   [Pai Pai](https://youtu.be/OOmbUijs1eE),
   [Talented Mer-Queen Ruri](https://youtu.be/G1hMJQG-Vvk),
   [Cat Machine](https://youtu.be/CDJvmmpH7mM),
   [Divine Kuu](https://youtu.be/x9E3XxqsF90)
-* **Anti-Red LD Snipers:**
+- **Anti-Red LD Snipers:**
   [Eva-02](https://youtu.be/qQLktk6k1v4),
   [Sharpshooter Saki](https://youtu.be/RDTpcH0oAhk)
-* **Solid Generalist LD Snipers:** Dark Kasli, Kyosaka Nanaho
-* **Boosted Solid Tankers / Rushers:** Cats in the Cradle, Immortal Yukimura
+- **Solid Generalist LD Snipers:** Dark Kasli, Kyosaka Nanaho
+- **Boosted Solid Tankers / Rushers:** Cats in the Cradle, Immortal Yukimura
 
 ##### Lineups and Strategies
 
@@ -378,29 +365,29 @@ down, giving you a clear shot on Daboo.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Awakened Bahamut is very important to rush down the Angel peons, otherwise they
+- **Awakened Bahamut** - Awakened Bahamut is very important to rush down the Angel peons, otherwise they
   can be a massive nuisance to kill.
-* **Shigong** - Survives two Daboo hits, is Slow immune. Great for dealing with Zombie peons as well.
+- **Shigong** - Survives two Daboo hits, is Slow immune. Great for dealing with Zombie peons as well.
 
 ##### Great-To-Have Units
 
-* **Can Can** - Solid DPS, good bulk, double bounty with talents helps too.
-* **Ramen** - Solid at stalling Angels, allowing your other units to kill them.
-* **Courier** - Moves fast and deals decent damage to enemies.
+- **Can Can** - Solid DPS, good bulk, double bounty with talents helps too.
+- **Ramen** - Solid at stalling Angels, allowing your other units to kill them.
+- **Courier** - Moves fast and deals decent damage to enemies.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Zombies:** Subterra Sentinels, BCS Tigerclaw.
-* **Tankers:** Divine Kai, Almighty Hades, Mighty Aegis Garu, etc..
-* **One-Hit Wonders:** Exceptionally great here thanks to solid range, great bulk, great DPS, and Slow
+- **Anti-Zombies:** Subterra Sentinels, BCS Tigerclaw.
+- **Tankers:** Divine Kai, Almighty Hades, Mighty Aegis Garu, etc..
+- **One-Hit Wonders:** Exceptionally great here thanks to solid range, great bulk, great DPS, and Slow
   Immunity on top of it all.
-* **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
+- **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
 
 ##### Lineups and Strategies
 
 **BioBone Strat**
 
-+ Sniper
+- Sniper
 
 [Video](https://youtu.be/Q6RAgsM-Fu4) - courtesy Lucas IV
 
@@ -424,9 +411,9 @@ need Titans or Ubers.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Zombies:** One-Hit Wonders, Subterra Sentinels, BCS Tigerclaw.
-* **Tankers:** Divine Kai, Almighty Hades, Mighty Aegis Garu, etc..
-* **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
+- **Anti-Zombies:** One-Hit Wonders, Subterra Sentinels, BCS Tigerclaw.
+- **Tankers:** Divine Kai, Almighty Hades, Mighty Aegis Garu, etc..
+- **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
 
 ##### Lineups and Strategies
 
@@ -461,21 +448,21 @@ Omni Pushers is very lethal, and this stage is a prime example of it.
 
 ##### Must-Have Units
 
-* **Crazed Moneko** - Crit Up M combo raises crit rate of your attackers by 2%, which is very helpful.
-* **Waitress / Soba** - Deals solid damage to the Sir Metal Seal, and also to Super Metal Hippoe.
+- **Crazed Moneko** - Crit Up M combo raises crit rate of your attackers by 2%, which is very helpful.
+- **Waitress / Soba** - Deals solid damage to the Sir Metal Seal, and also to Super Metal Hippoe.
   Guaranteed crit is also valuable here.
-* **Puppetmaster / Mochi** - Disposable CC. Enemies will push like hell without them.
+- **Puppetmaster / Mochi** - Disposable CC. Enemies will push like hell without them.
 
 ##### Great-To-Have Units
 
-* **Talented Cameraman** - AoE Crit can be humongously helpful for the Super Metal Hippoes. A crit from
+- **Talented Cameraman** - AoE Crit can be humongously helpful for the Super Metal Hippoes. A crit from
   Cameraman can take off anywhere from 60% [at level 40] to 100% [at level 69] of the SMHs HP.
-* **Noodle** - Good ranged meatshield, occasionally kills Metal Doge.
-* **Catyphoon** - Great for clearing up Metal Doge, but the cooldown is rather long.
+- **Noodle** - Good ranged meatshield, occasionally kills Metal Doge.
+- **Catyphoon** - Great for clearing up Metal Doge, but the cooldown is rather long.
 
 ##### Useful Uber Rare Cats
 
-* **Critical Hitters:** Paladin, Hayabusa, Nanaho, Lufalan Pasalan.* **Anti-Metal Tankers / Proc:** Poseidon, Sakura Sonic, Gudetama Machine.
+- **Critical Hitters:** Paladin, Hayabusa, Nanaho, Lufalan Pasalan.\* **Anti-Metal Tankers / Proc:** Poseidon, Sakura Sonic, Gudetama Machine.
 
 ##### Lineups and Strategies
 
@@ -505,12 +492,11 @@ Waitress will be a consistent source of good damage, and you can always try your
 regular Moneko] here. This is a "Do or Die" sort of situation so you want to send everything you got.
 
 Once the SMS is dead, you should have a clear win. Bringing Rich Cat is mandatory for this stage, and Sniper is
-helpful for the cleanup [but far from needed]. Unfortunately, this stage is *very heavily* RNG dependent,
+helpful for the cleanup [but far from needed]. Unfortunately, this stage is _very heavily_ RNG dependent,
 and can waste a ton of Rich Cats [I speak from experience]. Be prepared to sink some resources here if you're
 not boosted.
 
-Heavenly Herald Papuu
----------------------
+## Heavenly Herald Papuu
 
 ---
 
@@ -532,31 +518,31 @@ lineup and approach.
 
 ##### Must-Have Units
 
-* **Can Can** - Big damage, one shots sir rels at level 41 or higher. Also great for killing basically
+- **Can Can** - Big damage, one shots sir rels at level 41 or higher. Also great for killing basically
   every other peon, and survives two papuu hits.
-* **Bullet Train** - Secondary Sir Rel killer. Works great to kill peons when they're close to your base,
+- **Bullet Train** - Secondary Sir Rel killer. Works great to kill peons when they're close to your base,
   or to snipe them while papuu is attacking.
-* **Manic Island** - Great for killing peons. Survives two Papuu hits, and has enough endurance to tank a
+- **Manic Island** - Great for killing peons. Survives two Papuu hits, and has enough endurance to tank a
   sir rel hit. Deals great damage too.
-* **Awakened Bahamut** - Great for damaging Papuu quickly, especially if you're bringing curseblast.
+- **Awakened Bahamut** - Great for damaging Papuu quickly, especially if you're bringing curseblast.
 
 ##### Great-To-Have Units
 
-* **Talented Riceball** - A little bit more bulk than Manic Eraser, plus toxic immune. Great for the stage
+- **Talented Riceball** - A little bit more bulk than Manic Eraser, plus toxic immune. Great for the stage
   if you can afford the NP.
-* **Slime** - Not the most accessible unit for this stage, but a great pick. Big wave damage good for
+- **Slime** - Not the most accessible unit for this stage, but a great pick. Big wave damage good for
   killing peons [obviously].
-* **Ramen** - Great bulk for tanking Papuu hits, and good for chipping her when peons aren't around.
+- **Ramen** - Great bulk for tanking Papuu hits, and good for chipping her when peons aren't around.
 
 ##### Useful Uber Rare Cats
 
-* **Ubers that can Curse Papuu:**
+- **Ubers that can Curse Papuu:**
   [Dark Kasli](https://youtu.be/r_22jAQNV2Y), Kinrangers Gigaforce
-* **Toxic Immune:**
+- **Toxic Immune:**
   [Almighty Hades](https://youtu.be/TTZRjEyWHuI),
   Lasvoss Reborn
-* **Rushers:** D'arktanyan, Li'l Valkyrie, Immortal Yukimura, etc.
-* **Balrog:** Balrog
+- **Rushers:** D'arktanyan, Li'l Valkyrie, Immortal Yukimura, etc.
+- **Balrog:** Balrog
 
 ##### Lineups and Strategies
 
@@ -606,11 +592,11 @@ situation where 99% of players will be using heavy Ubercarry for this stage.
 
 Note: This list is not comprehensive.
 
-* **Spammable Attackers:** Kasa Jizo, to a lesser extent Momotaro.
-* **Tankers:** Divine Kai, Almighty Hades, etc. Bonus points if they're KB immune.
-* **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
-* **Anti-Zombies / Anti-Aliens:** Eva Unit-01, One-Hit Wonders, Bazibastra, etc.
-* **Epicfests:** Dark Kasli, Valiant D'arktanyan.
+- **Spammable Attackers:** Kasa Jizo, to a lesser extent Momotaro.
+- **Tankers:** Divine Kai, Almighty Hades, etc. Bonus points if they're KB immune.
+- **Rushers / Melee:** Immortal Yukimura, Greater Balrog, Cats in the Cradle, etc.
+- **Anti-Zombies / Anti-Aliens:** Eva Unit-01, One-Hit Wonders, Bazibastra, etc.
+- **Epicfests:** Dark Kasli, Valiant D'arktanyan.
 
 ##### Lineups and Strategies
 
@@ -638,23 +624,23 @@ Bloggers, and Brollows can be seen in the enemy roster.
 
 ##### Must-Have Units
 
-* **Slime** - Insanely good for clearing peons, especially if boosted.
-* **Slapsticks / Seafarer / Pizza** - Stackable and affordable AoE DPS with enough bulk to take a beating
+- **Slime** - Insanely good for clearing peons, especially if boosted.
+- **Slapsticks / Seafarer / Pizza** - Stackable and affordable AoE DPS with enough bulk to take a beating
   form Wahwah.
-* **Cyborg** - Fast enough to work [unlike Cameraman], decent range, decent damage, stackable. Cost isn't
+- **Cyborg** - Fast enough to work [unlike Cameraman], decent range, decent damage, stackable. Cost isn't
   an issue as the stage has basically infinite money.
 
 ##### Great-To-Have Units
 
-* **Talented Cyberpunk** - Can come in clutch towards the end, by slowing Wahwah while you're fighting
+- **Talented Cyberpunk** - Can come in clutch towards the end, by slowing Wahwah while you're fighting
   Brollows.
-* **Bullet Train** - Excellent for keeping Wahwah pinned to base in startoff and fetching some money. Fails
+- **Bullet Train** - Excellent for keeping Wahwah pinned to base in startoff and fetching some money. Fails
   later on due to the peon spam nature of the stage, though.
-* **Green Shell** - Knockback immunity allows it to stall Wahwah for some time.
+- **Green Shell** - Knockback immunity allows it to stall Wahwah for some time.
 
 ##### Useful Uber Rare Cats
 
-* **Kasa Jizo:** Kasa Jizo.* **LD / Wave attackers:** Cats in the Cradle, D'artanyan, etc.
+- **Kasa Jizo:** Kasa Jizo.\* **LD / Wave attackers:** Cats in the Cradle, D'artanyan, etc.
 
 ##### Lineups and Strategies
 
@@ -688,39 +674,39 @@ this stage.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Great for damaging Capy IF you're not using any other uber for the same job.
-* **Slime** - Can knock back Wanwan from a distance. Great at getting him off your base, especially when
+- **Awakened Bahamut** - Great for damaging Capy IF you're not using any other uber for the same job.
+- **Slime** - Can knock back Wanwan from a distance. Great at getting him off your base, especially when
   fighting Capies. Also chips hordes of peons much better than other options [if timed well].
-* **Can Can** - One-shots Sir Rels at level 41, and deals solid damage to Relic Doge. Tanks a lot of damage
+- **Can Can** - One-shots Sir Rels at level 41, and deals solid damage to Relic Doge. Tanks a lot of damage
   and repositions frequently. On top of that, he has warp immunity, making him phenomenally useful here.
-* **Manic Lion** - Fast attack rate is great for killing Croconators. Preferred over crit units because of
+- **Manic Lion** - Fast attack rate is great for killing Croconators. Preferred over crit units because of
   his short cooldown, and ability to act as a secondary meatshield.
-* **Bullet Train** - Great for getting peons off your base if they're putting pressure [especially Sir
+- **Bullet Train** - Great for getting peons off your base if they're putting pressure [especially Sir
   Rel].
 
 ##### Great-To-Have Units
 
-* **NEO Cutter** - Does big damage to Capy if it can land a strengthened hit. Even one strengthened hit can
+- **NEO Cutter** - Does big damage to Capy if it can land a strengthened hit. Even one strengthened hit can
   make your life much easier, especially for the second Capy. You can also use it for combo kills on Sir Rels
   with BTrain / Slime, but this is not recommended outside of emergencies.
-* **Cyberpunk (Max Slow Up Talent, preferably Max Survivor)** - Can slow Wanwan for a distance, which can
+- **Cyberpunk (Max Slow Up Talent, preferably Max Survivor)** - Can slow Wanwan for a distance, which can
   stall him for long if followed up with a knockback from Slime [or from Cyberpunk's own damage]. You can also
   use him to slow down Capy and fight a bit far from the base. Whichever way you choose to use him, he's a
   great pick for this stage.
-* **Catellite** - Warp Immune meatshield that helps to keep cat limit empty. Can also clear Those Guys,
+- **Catellite** - Warp Immune meatshield that helps to keep cat limit empty. Can also clear Those Guys,
   which helps your other units [Can Can / BTrain] miss less often.
-* **Stone** - Warp Immunity with tremendous HP and suicide allows Stone to stall very effectively here.
-* **Courier** - Courier is great for chipping Capy due to his LD reach and high DPS output.
+- **Stone** - Warp Immunity with tremendous HP and suicide allows Stone to stall very effectively here.
+- **Courier** - Courier is great for chipping Capy due to his LD reach and high DPS output.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Reds with Solid DPS:** Pai-Pai DX, Headmistress Jeanne,
+- **Anti-Reds with Solid DPS:** Pai-Pai DX, Headmistress Jeanne,
   [Eva-02](https://youtu.be/S2pvcw2tJ04)
-* **Warp-Immunes:**
+- **Warp-Immunes:**
   [Bazibastra](https://youtu.be/RbLdglhV6Vc), Li'l Valkyrie, Dark Kasli, Meowsketeer /
   [Valiant D'arktanyan](https://youtu.be/2rf8LB_HzVY), etc.
-* **Great Generalist Rushers / Melee:** Yukimura, Balrog
-* **Chun-Li:** Can potentially pin Wanwan to the base with a
+- **Great Generalist Rushers / Melee:** Yukimura, Balrog
+- **Chun-Li:** Can potentially pin Wanwan to the base with a
   [proper setup](https://youtu.be/Z-mWMQ1I6jA).
 
 ##### Lineups and Strategies
@@ -758,11 +744,11 @@ buy you time for other units to attack.
 More important than WHAT to do in Wanwan, is WHAT NOT to do. There are many pitfalls in this stage, and even
 expert players will fall for them from time to time. Without go into too much detail, remember these few points.
 
-* Do NOT send Slime unless Wanwan has just finished attacking, it will just die.
-* Do NOT spam all meatshields rapidly. You will clog up the Cat Limit.
-* Do NOT panic. Everyone makes mistakes, and with Slime it isn't too tough to recover from them.
-* Do NOT be impatient. If you spam everything, there's a good chance some of your units will get warped.
-* Do NOT let the Sir Rels live. Prioritise killing them as quickly as possible, through whatver damage combo
+- Do NOT send Slime unless Wanwan has just finished attacking, it will just die.
+- Do NOT spam all meatshields rapidly. You will clog up the Cat Limit.
+- Do NOT panic. Everyone makes mistakes, and with Slime it isn't too tough to recover from them.
+- Do NOT be impatient. If you spam everything, there's a good chance some of your units will get warped.
+- Do NOT let the Sir Rels live. Prioritise killing them as quickly as possible, through whatver damage combo
   you can get. Reserve Bullet Train / Green Shell for them if you need to. They will tear through your
   meatshields if you're not careful.
 
@@ -804,23 +790,23 @@ Angelic Gories who plow through your defenses.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Awakened Bahamut is a must-have for rushing the Angelic Sleipnir.
-* **Ramen** - Almost mandatory for stalling Angels, especially the Angelic Gory waves.
+- **Awakened Bahamut** - Awakened Bahamut is a must-have for rushing the Angelic Sleipnir.
+- **Ramen** - Almost mandatory for stalling Angels, especially the Angelic Gory waves.
 
 ##### Great-To-Have Units
 
-* **Maglev** - Snipes Trolly Bloggers for good money, and rebounds on Sleipnir KB, great for chipping it in
+- **Maglev** - Snipes Trolly Bloggers for good money, and rebounds on Sleipnir KB, great for chipping it in
   the startoff.
-* **Manic Macho Legs / Medalist** - Good for cleaning up Trolly Bloggers.
-* **Can Can, preferably with Double Bounty** - Good damage on Angelic Gories.
-* **Seafarer / Pizza** - Also for Angelic Gories. Note that Seafarer's Speed and Survivor ability make him
+- **Manic Macho Legs / Medalist** - Good for cleaning up Trolly Bloggers.
+- **Can Can, preferably with Double Bounty** - Good damage on Angelic Gories.
+- **Seafarer / Pizza** - Also for Angelic Gories. Note that Seafarer's Speed and Survivor ability make him
   better of the two to bring on this stage.
 
 ##### Useful Uber Rare Cats
 
-* **Disposable Anti-Angels:** Divine Kalisa, Kasa Jizo.
-* **Tanky Anti-Angels:** King Gamereon, Ushiwakamaru, etc.
-* **Yukimura:** Yukimura. Almost no other rushers have viability here.
+- **Disposable Anti-Angels:** Divine Kalisa, Kasa Jizo.
+- **Tanky Anti-Angels:** King Gamereon, Ushiwakamaru, etc.
+- **Yukimura:** Yukimura. Almost no other rushers have viability here.
 
 ##### Lineups and Strategies
 
@@ -840,14 +826,14 @@ tougher now.
 
 ##### New Must-Have Units
 
-* **Maglev** - Great for same reasons as the original, but almost necessary here because the stage is
+- **Maglev** - Great for same reasons as the original, but almost necessary here because the stage is
   tougher.
 
 ##### Useful Uber Rare Cats
 
-* **Disposable Anti-Angels:**Divine Kalisa, Kasa Jizo.
-* **Tanky Anti-Angels:** King Gamereon, Colossal Benkei, etc.
-* **Yukimura:** Yukimura.
+- **Disposable Anti-Angels:**Divine Kalisa, Kasa Jizo.
+- **Tanky Anti-Angels:** King Gamereon, Colossal Benkei, etc.
+- **Yukimura:** Yukimura.
 
 ##### Lineups and Strategies
 
@@ -857,7 +843,7 @@ tougher now.
 
 Attack and Defense combos can be replaced with Resist combos if you don't have the needed units. Base Defense
 combos are usable here as well. Alternatively, you could try Manic Eraser / Zamboney / Seafarer instead of
-those. Level 40s are *heavily* recommended. Can Can and Pizza talents are great to have as well.
+those. Level 40s are _heavily_ recommended. Can Can and Pizza talents are great to have as well.
 
 Send off a lone MML to kill Bloggers for money. If you've brought Crazed Cow you can use it here as well. When
 Sleipnir moves in front of Clionel send Maglev. If you're lucky, you'll get 3-4 hits out of Maglev, which will
@@ -875,16 +861,16 @@ fighting the stage "normally"]
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Mandatory for rush strat.
-* **Zamboney** - Necessary to stall enemies while Bahamut does his Bahamuting.
-* **Roe** - Serves the same purpose as Zamboney.
-* **Well-levelled Slow Beam** - 3~4 is sufficient, but 8~9 would be recommended. Refer to the strat given
+- **Awakened Bahamut** - Mandatory for rush strat.
+- **Zamboney** - Necessary to stall enemies while Bahamut does his Bahamuting.
+- **Roe** - Serves the same purpose as Zamboney.
+- **Well-levelled Slow Beam** - 3~4 is sufficient, but 8~9 would be recommended. Refer to the strat given
   below for reasons.
 
 ##### Useful Uber Rare Cats
 
-* **Rushers:** Divine Kalisa, Meow-sketeer, Immortal Yukimura, etc.
-* **Melee Units:** Balrog, Cats in the Cradle, etc.
+- **Rushers:** Divine Kalisa, Meow-sketeer, Immortal Yukimura, etc.
+- **Melee Units:** Balrog, Cats in the Cradle, etc.
 
 ##### Lineups and Strategies
 
@@ -932,25 +918,25 @@ crystals are mandatory for this stage.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Very helpful for rushing down the first Z-Onel, which makes the stage considerably
+- **Awakened Bahamut** - Very helpful for rushing down the first Z-Onel, which makes the stage considerably
   easier.
-* **Slime** - Disposable attacker who can take out Zuche and Zoge conveniently, and helps for chip on
+- **Slime** - Disposable attacker who can take out Zuche and Zoge conveniently, and helps for chip on
   tankier peons as well.
-* **Bullet Train** - For killing Zuche before they fuck up your everything.
+- **Bullet Train** - For killing Zuche before they fuck up your everything.
 
 ##### Great-To-Have Units
 
-* **A Well-levelled Holy Blast** - Z-Kill snipe strat uses level 18~20 Holy Blast, Li'l Flying / Chadbear
+- **A Well-levelled Holy Blast** - Z-Kill snipe strat uses level 18~20 Holy Blast, Li'l Flying / Chadbear
   strat uses level ~10. Even higher levels are achievable, and the more levelled your cannon is the easier
   this stage gets.
-* **Can Can / Chill / Seafarer** - All are good at dealing with the Starred Aliens, but you might not have
+- **Can Can / Chill / Seafarer** - All are good at dealing with the Starred Aliens, but you might not have
   enough slots for all three.
-* **Li'l Flying / Cadaver Bear** - Allow you to get Z-Kill on Z-Onel if you're not using Holy Blast Snipe
+- **Li'l Flying / Cadaver Bear** - Allow you to get Z-Kill on Z-Onel if you're not using Holy Blast Snipe
   strat.
 
 ##### Useful Uber Rare Cats
 
-* **Melee / Mid-range Bruisers / Rushers:** Li'l Valkyrie, Greater Balrog, Immortal Yukimura, etc.* **Melee / Mid-range / Disposable Anti-Aliens:** Gravolodon, Bazibastra, etc.
+- **Melee / Mid-range Bruisers / Rushers:** Li'l Valkyrie, Greater Balrog, Immortal Yukimura, etc.\* **Melee / Mid-range / Disposable Anti-Aliens:** Gravolodon, Bazibastra, etc.
 
 ##### Lineups and Strategies
 
@@ -998,16 +984,16 @@ Wall Doge follow after, and another Bore spawns after a while.
 
 ##### Must-Have Units
 
-* **iCat** - Allows guaranteed and effective crowd control for the Bores. With him you can use them as LD
+- **iCat** - Allows guaranteed and effective crowd control for the Bores. With him you can use them as LD
   stepping stones to kill Bakoo.
-* **Medalist / Vaulter / Cyborg** - Any decent LD unit works really, but these two are great. You could
+- **Medalist / Vaulter / Cyborg** - Any decent LD unit works really, but these two are great. You could
   always try Cyborg as well. These will help you to chip Bakoo [and hopefully KB her before she attacks your
   stack].
 
 ##### Useful Uber Rare Cats
 
-* **Momotaro:** Works as a substitute for iCat.
-* **Kasa Jizo:** Works as a substitute for LD Unit / Cyborg.
+- **Momotaro:** Works as a substitute for iCat.
+- **Kasa Jizo:** Works as a substitute for LD Unit / Cyborg.
 
 Most other Ubers are unnecessary here, if not counterproductive.
 
@@ -1034,17 +1020,17 @@ LD / Cyborg], it becomes less consistent in execution.
 
 ##### Must-Have Units
 
-* **Dread Pirate Catley** - Your only reliable source of crowd control with these restrictions.
+- **Dread Pirate Catley** - Your only reliable source of crowd control with these restrictions.
 
 ##### Great-to-Have Units
 
-* **Thaumtaurge** - Occasionally hits and procs weaken, allowing your other units to live a bit longer.
+- **Thaumtaurge** - Occasionally hits and procs weaken, allowing your other units to live a bit longer.
 
 ##### Useful Uber Rare Cats
 
-* **Momotaro / Ice Cat:** A solid upgrade over Catley in terms of crowd control.
-* **Kasa Jizo:** Can OHKB or 2HKB Bakoo, able to consistently handle her after hitting base.
-* **LD Snipers/ Good-ranged anti-Blacks:** Meow-sketeer, Adventurer Kanna, Glorious Amaterasu, etc.
+- **Momotaro / Ice Cat:** A solid upgrade over Catley in terms of crowd control.
+- **Kasa Jizo:** Can OHKB or 2HKB Bakoo, able to consistently handle her after hitting base.
+- **LD Snipers/ Good-ranged anti-Blacks:** Meow-sketeer, Adventurer Kanna, Glorious Amaterasu, etc.
 
 ##### Lineups and Strategies
 
@@ -1071,18 +1057,18 @@ occasionally a few SBKS.
 
 ##### Must-Have Units
 
-* **Seafarer** - Can freeze Elder Sloth, which is obviously a good thing. Also a decent generalist.
-* **Bomber** - Freezes Bakoo, also great for Shadow Boxer Ks
-* **Cameraman** - Great as a ranged meatshielding, especially with Survivor talent.
+- **Seafarer** - Can freeze Elder Sloth, which is obviously a good thing. Also a decent generalist.
+- **Bomber** - Freezes Bakoo, also great for Shadow Boxer Ks
+- **Cameraman** - Great as a ranged meatshielding, especially with Survivor talent.
 
 ##### Great-To-Have Units
 
-* **Pizza** - Takes care of dealing damage to black enemies.
+- **Pizza** - Takes care of dealing damage to black enemies.
 
 ##### Useful Uber Rare Cats
 
-* **Kasa Jizo:** self explanatory.
-* **Melee Tanker / Rusher Ubers:** Immortal Yukimura, Blanka, Cats in the Cradle, etc.
+- **Kasa Jizo:** self explanatory.
+- **Melee Tanker / Rusher Ubers:** Immortal Yukimura, Blanka, Cats in the Cradle, etc.
 
 ##### Lineups and Strategies
 
@@ -1118,7 +1104,7 @@ Bloggers, Mr. Angels, and Director Kurosawah as support.
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - gg no re
+- **Awakened Bahamut** - gg no re
 
 ##### Useful Uber Rare Cats
 
@@ -1158,25 +1144,25 @@ two enemies keep cycling. Ginger Snache are sent intermittently, with Sir Seals 
 
 ##### Must-Have Units
 
-* **Awakened Bahamut** - Awakened Bahamut is used against either Hannya or R.Ost, depending upon the
+- **Awakened Bahamut** - Awakened Bahamut is used against either Hannya or R.Ost, depending upon the
   strategy. Either way, he's a mandatory unit.
-* **iCat** - Mandatory for the rush strat, great to have for regular approach too. Makes stalling the Bore
+- **iCat** - Mandatory for the rush strat, great to have for regular approach too. Makes stalling the Bore
   easy, and can permafreeze Hannya when stacked. Speed is a bit of an issue, but this can be fixed with Speed
   / Research combos or Speed Up talent.
 
 ##### Great-To-Have Units
 
-* **Can Can** - Solid DPS, good crowd control for Bore.
-* **Roe** - Stalls Bore consistently allowing your other units to proc on it. Can also weaken Hannya,
+- **Can Can** - Solid DPS, good crowd control for Bore.
+- **Roe** - Stalls Bore consistently allowing your other units to proc on it. Can also weaken Hannya,
   allowing your units to tank a hit from her in case ICat permafreeze fails.
-* **Crazed Whale / Elemental Duelist** - Anti-Red DPS.
-* **Courier** - Fast anti-red DPS that hits both Bore and Hannya effectively. Also great for clearing out
+- **Crazed Whale / Elemental Duelist** - Anti-Red DPS.
+- **Courier** - Fast anti-red DPS that hits both Bore and Hannya effectively. Also great for clearing out
   Ginger Snache.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Reds:** Eva 02, Pai Pai, Ice Cat.
-* **Certain Weaken-Immunes:** Balrog, to an extent Lasvoss.* **Epicfests / General rushers:** D'arktanyan, Shadow Gao, Divine Kalisa
+- **Anti-Reds:** Eva 02, Pai Pai, Ice Cat.
+- **Certain Weaken-Immunes:** Balrog, to an extent Lasvoss.\* **Epicfests / General rushers:** D'arktanyan, Shadow Gao, Divine Kalisa
 
 ##### Lineups and Strategies
 
@@ -1186,6 +1172,7 @@ lineups that can make it work will work better with a conventional Rush.
 **General Rush Strat**
 
 [Playlist](https://youtube.com/playlist?list=PLRLFn2k4qKxM3A-_4NUVwJSJoNWigJZBt)
+
 - courtesy Waran-Ess
 
 BioBone helps to rush down the Bore quickly, and allows you to get more iCats, which means more chance of
@@ -1229,23 +1216,23 @@ Normals, and the other is Ubercarry. Most people stick with the latter.
 
 ##### Must-Have Units [Uberless, no EX Talents]
 
-* **Awakened Bahamut** - For rushing down R. Osts.
-* **Boosted Island** - Anti-Red tank / DPS. Stops the Bore from shredding your frontline since you don't
+- **Awakened Bahamut** - For rushing down R. Osts.
+- **Boosted Island** - Anti-Red tank / DPS. Stops the Bore from shredding your frontline since you don't
   have access to Manic Eraser. Also good for chipping Hannya, even through weaken.
-* **Boosted Eraser** - Meatshield.
-* **Boosted Li'l Island** - Same purpose as Island, but needs slightly higher levels as it has less base
+- **Boosted Eraser** - Meatshield.
+- **Boosted Li'l Island** - Same purpose as Island, but needs slightly higher levels as it has less base
   stats.
 
 ##### Talented EX Alternatives
 
-* **Dark Lazer** - Attack and Defense are must-have, Wave talent is almost necessary, but Weaken Immunity
+- **Dark Lazer** - Attack and Defense are must-have, Wave talent is almost necessary, but Weaken Immunity
   works too.
-* **Ultimate Bondage** - Only needs Defense up talent. Can substitute Islands after this.
+- **Ultimate Bondage** - Only needs Defense up talent. Can substitute Islands after this.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Reds:** Eva 02, Pai Pai, Cat Machine, Mer-Queen Ruri.
-* **Melee Tankers / Rushers:** Divine Kai, Greater Balrog, Immortal Yukimura.* **Epicfests / General rushers:** D'arktanyan, Shadow Gao, Divine Kalisa
+- **Anti-Reds:** Eva 02, Pai Pai, Cat Machine, Mer-Queen Ruri.
+- **Melee Tankers / Rushers:** Divine Kai, Greater Balrog, Immortal Yukimura.\* **Epicfests / General rushers:** D'arktanyan, Shadow Gao, Divine Kalisa
 
 ##### Lineups and Strategies
 
@@ -1295,20 +1282,20 @@ Hannya.
 
 ##### Must-Have Units
 
-* **Housewife** - Good range. Slow is helpful against the peons. Can get Z-Kills occasionally [much more
+- **Housewife** - Good range. Slow is helpful against the peons. Can get Z-Kills occasionally [much more
   potent with Savage Blow talent]
-* **Pizza** - Great mid-range DPS and cash-efficient as well. Especially great if
+- **Pizza** - Great mid-range DPS and cash-efficient as well. Especially great if
   you have his Wave Attack talent.
-* **Maglev and Roe** - Only really there for the cleanup, which can be painfully slow without them.
+- **Maglev and Roe** - Only really there for the cleanup, which can be painfully slow without them.
 
 ##### Great-To-Have Units
 
-* **Shigong** - To stall Zombie peons.
-* **Cyberpunk** - Provides CC from a distance.
+- **Shigong** - To stall Zombie peons.
+- **Cyberpunk** - Provides CC from a distance.
 
 ##### Useful Uber Rare Cats
 
-* **Z-Killers with good CD:** Li'l Valkyrie, Mighty Aethur, Sarukani, etc.* **Low CD Melee Ubers / Rushers:** Balrog, Cats in the Cradle, Immortal Yukimura, Meow-sketeer, etc.
+- **Z-Killers with good CD:** Li'l Valkyrie, Mighty Aethur, Sarukani, etc.\* **Low CD Melee Ubers / Rushers:** Balrog, Cats in the Cradle, Immortal Yukimura, Meow-sketeer, etc.
 
 ##### Lineups and Strategies
 
@@ -1348,20 +1335,20 @@ you have a free shot on Okame.
 
 ##### Must-Have Units
 
-* **Roe** - Pretty much your only way of maintaining a stable frontline.
-* **Manic Island** - Great for both chipping Okame, and giving you some buffer time till your Pizzas arrive
+- **Roe** - Pretty much your only way of maintaining a stable frontline.
+- **Manic Island** - Great for both chipping Okame, and giving you some buffer time till your Pizzas arrive
   to kill Gory Blacks. Also kills Ginger Snache on the side, and help in stalling.
-* **Pizza** - Kills black peons effectively, although he gets stunlocked by Okame if no peons are around.
+- **Pizza** - Kills black peons effectively, although he gets stunlocked by Okame if no peons are around.
 
 ##### Great-To-Have Units
 
-* **NEO Cutter** - Can dispose of Ginger Snache immediately, and decent for chipping Okame as well.
-* **Assassin Bear Cat** - Relatively fast, good chance of hitting Black peons, and deals great damage to
+- **NEO Cutter** - Can dispose of Ginger Snache immediately, and decent for chipping Okame as well.
+- **Assassin Bear Cat** - Relatively fast, good chance of hitting Black peons, and deals great damage to
   them.
-* **Talented Box Cats** - Kill Black peons very easily.
-* **Cyberpunk (Max Slow Up Talent)** - Send when Okame is close to your base to gain some extra Crowd
+- **Talented Box Cats** - Kill Black peons very easily.
+- **Cyberpunk (Max Slow Up Talent)** - Send when Okame is close to your base to gain some extra Crowd
   Control. Not much else to explain.
-* **Sniper the Deadeye** - Stands outside of Okame's range, and is great for regaining ground.
+- **Sniper the Deadeye** - Stands outside of Okame's range, and is great for regaining ground.
 
 ##### Useful Uber Rare Cats
 
@@ -1369,8 +1356,8 @@ Note: Many ubers that would otherwise have great for these traits can suffer gre
 to Okame's stunlock. Watch out for anything with high Foreswing or slow Speed, because it will probably not
 work.
 
-* **Anti-Blacks [mainly for peons]:** Immortal Yukimura, Kasa Jizo, Legendary Musashi.* **Anti-Black / Red KB:** God Emperor Raiden, Immortal Kenshin, etc. These are great for buying ground.* **KB Immune Tanks:** Almighty Hades, Divine Kai. These aren't fantastic here, but can definitely be
-      useful for stalling Okame.
+- **Anti-Blacks [mainly for peons]:** Immortal Yukimura, Kasa Jizo, Legendary Musashi._ **Anti-Black / Red KB:** God Emperor Raiden, Immortal Kenshin, etc. These are great for buying ground._ **KB Immune Tanks:** Almighty Hades, Divine Kai. These aren't fantastic here, but can definitely be
+  useful for stalling Okame.
 
 ##### Lineups and Strategies
 
@@ -1398,21 +1385,21 @@ Unit Limit: This stage has a unit limit of 5. While typically a severe restricti
 
 ##### Must-Have Units
 
-* **Manic Island** - Anti-Red tank / DPS. Can survive enough Okame hits to stay on the frontline.
-* **Roe** - Same role as Manic Island, although more for stalling than damaging.
-* **Bullet Train** - Capable of dealing quick chip damage to kill off peons.
-* **Assassin Bear** - Pizza is too slow for this stage, so Assassin Bear serves as your source of DPS.
-* **Stone** - Stops enemies from pushing after an Okame attack, if you don't have units on the frontline.
+- **Manic Island** - Anti-Red tank / DPS. Can survive enough Okame hits to stay on the frontline.
+- **Roe** - Same role as Manic Island, although more for stalling than damaging.
+- **Bullet Train** - Capable of dealing quick chip damage to kill off peons.
+- **Assassin Bear** - Pizza is too slow for this stage, so Assassin Bear serves as your source of DPS.
+- **Stone** - Stops enemies from pushing after an Okame attack, if you don't have units on the frontline.
 
 ##### Great-to-Have Units
 
-* **Cats in a Box** - Box Cats act as a combination of Bullet Train and Assassin Bear, making them excellent for this stage.
-* **Awakened Bahamut** - Can deal a lot of damage to an enemy wave if it goes out of control. Works best with Rich Cat.
-* **Power Cutter** - Great for an Attack Up Sm combo, and can also kill a snache quickly.
+- **Cats in a Box** - Box Cats act as a combination of Bullet Train and Assassin Bear, making them excellent for this stage.
+- **Awakened Bahamut** - Can deal a lot of damage to an enemy wave if it goes out of control. Works best with Rich Cat.
+- **Power Cutter** - Great for an Attack Up Sm combo, and can also kill a snache quickly.
 
 ##### Useful Uber Rare Cats
 
-* **Disposable Tankers / Rushers:**Yukimura, Cats in the Cradle.
+- **Disposable Tankers / Rushers:**Yukimura, Cats in the Cradle.
 
 ##### Lineups and Strategies
 
@@ -1444,18 +1431,18 @@ point you've won.
 
 ##### Must-Have Units
 
-* **Roe** - Pretty much your only way of maintaining a stable frontline, same as other Okame stages.
-* **Slime** - Slime is consistently capable of hitting all Miz Devils in a wave, and lands hits more
+- **Roe** - Pretty much your only way of maintaining a stable frontline, same as other Okame stages.
+- **Slime** - Slime is consistently capable of hitting all Miz Devils in a wave, and lands hits more
   consistently than what one might think.
-* **Seafarer / Housewife / Cyborg**  - Any of these are good for taking on Miz Devils, but I personally
+- **Seafarer / Housewife / Cyborg** - Any of these are good for taking on Miz Devils, but I personally
   prefer Seafarer because of his bulk and Survivor ability.
 
 ##### Great-To-Have Units
 
-* **Stone** - great for stalling Okame after she attacks. Stops Miz Devils from pushing too much. Green
+- **Stone** - great for stalling Okame after she attacks. Stops Miz Devils from pushing too much. Green
   Shell might also work in its absence.
-* **Cyberpunk** - Stalls Okame, can potentially buy you 4-5 seconds to take out a wave.
-* **Awakened Bahamut** - You won't get a lot of value of him, but he can take out a Miz Devil wave and
+- **Cyberpunk** - Stalls Okame, can potentially buy you 4-5 seconds to take out a wave.
+- **Awakened Bahamut** - You won't get a lot of value of him, but he can take out a Miz Devil wave and
   helps for chipping later.
 
 ##### Useful Uber Rare Cats
@@ -1499,21 +1486,21 @@ you should be done with the stage. Note that the stage is quite long, and somewh
 
 ##### Must-Have Units
 
-* **Seafarer / Chill / Can Can** - Essential for rushing down the first Bore.
-* **Cyberpunk / Stone** - These stop the enemies from pushing immediately after a Rashomon attack (which
+- **Seafarer / Chill / Can Can** - Essential for rushing down the first Bore.
+- **Cyberpunk / Stone** - These stop the enemies from pushing immediately after a Rashomon attack (which
   will knock back everything that it hits).
-* **Slime / Bullet Train / Awakened Bahamut** - There are very few units that can deal significant damage
+- **Slime / Bullet Train / Awakened Bahamut** - There are very few units that can deal significant damage
   given the amount of DPS on the frontline. These three are realistically the only ones who will land hits,
   although Fishman has also been reported to be usable.
 
 ##### Great-To-Have Units
 
-* **Idi** - Idi can make quick work of Puffington, and makes this stage much easier.
-* **Doron** - Freezing Puffington gives you a clean easy hit on Chik-ful-a.
+- **Idi** - Idi can make quick work of Puffington, and makes this stage much easier.
+- **Doron** - Freezing Puffington gives you a clean easy hit on Chik-ful-a.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Angel Damage-Dealers:** Jizo's Mega-Castle, Divine Kalisa.* **Anti-Puffington Tech:** Catman, Greater Balrog, Cats in the Cradle, Immortal Yukimura, Lasvoss.
+- **Anti-Angel Damage-Dealers:** Jizo's Mega-Castle, Divine Kalisa.\* **Anti-Puffington Tech:** Catman, Greater Balrog, Cats in the Cradle, Immortal Yukimura, Lasvoss.
 
 ##### Lineups and Strategies
 
@@ -1569,22 +1556,22 @@ protecting Nyandam and you have an easy win.
 
 ##### Must-Have Units
 
-* **Slime** - Can damage Emperor from a distance. Also great for chipping Sir Seals / Capies while the
+- **Slime** - Can damage Emperor from a distance. Also great for chipping Sir Seals / Capies while the
   Oldhorn is at front.
-* **Can Can** - One shots Sir Rels at level 41 or higher, and deals good damage to Ginger Snache too.
+- **Can Can** - One shots Sir Rels at level 41 or higher, and deals good damage to Ginger Snache too.
   Overall a great pick because of solid survivability and damage.
-* **Manic Island** - Works for roughly the same reasons that Can Can does. The boosted DPS against Red
+- **Manic Island** - Works for roughly the same reasons that Can Can does. The boosted DPS against Red
   enemies also helps against Capy / Sir Seal.
 
 ##### Great-To-Have Units
 
-* **Slapsticks** - Very helpful against Oldhorn if your Can Can / Manic Island aren't levelled enough to
+- **Slapsticks** - Very helpful against Oldhorn if your Can Can / Manic Island aren't levelled enough to
   take it down by themselves.
-* **Courier** - Fantastic unit for taking out Capy. Can be used to rush the stage.
+- **Courier** - Fantastic unit for taking out Capy. Can be used to rush the stage.
 
 ##### Useful Uber Rare Cats
 
-* **Melee / Rushers:** Greater Balrog, Immortal Yukimura, Cats in the Cradle, Gravolodon.* **Surge-Immune Attackers:** Lasvoss Reborn, Kasli the Bane.
+- **Melee / Rushers:** Greater Balrog, Immortal Yukimura, Cats in the Cradle, Gravolodon.\* **Surge-Immune Attackers:** Lasvoss Reborn, Kasli the Bane.
 
 ##### Lineups and Strategies
 
@@ -1640,20 +1627,20 @@ There is an enemy limit of 4 (Effectively 3 due to the enemy base). Doge Dark, A
 
 ##### Must-Have Units
 
-* **Aku Researcher** - This stage is basically impossible without a Shield Breaker.
-* **Can Can / Pizza / Slime** - Generalists to kill peons quickly.
-* **Bullet Train** - can be used to snipe peons now and then.
-* **Octopus** - Blocks mini-waves which saves your Researchers.
+- **Aku Researcher** - This stage is basically impossible without a Shield Breaker.
+- **Can Can / Pizza / Slime** - Generalists to kill peons quickly.
+- **Bullet Train** - can be used to snipe peons now and then.
+- **Octopus** - Blocks mini-waves which saves your Researchers.
 
 ##### Great-To-Have Units
 
-* **Ramen / Manic Eraser** - Meatshields that aren't affected if + Levels are sealed.
-* **Awakened Bahamut** - Effective at taking out peon waves.
-* **Stone** - Can stop enemies from pushing after Empress attacks. Especially useful against SBKs.
+- **Ramen / Manic Eraser** - Meatshields that aren't affected if + Levels are sealed.
+- **Awakened Bahamut** - Effective at taking out peon waves.
+- **Stone** - Can stop enemies from pushing after Empress attacks. Especially useful against SBKs.
 
 ##### Useful Uber Rare Cats
 
-* **Melee / Rushers:** Greater Balrog, Immortal Yukimura, Cats in the Cradle, Gravolodon.* **Shield Breakers:** Divine Kai, Lilin, Hevijak.
+- **Melee / Rushers:** Greater Balrog, Immortal Yukimura, Cats in the Cradle, Gravolodon.\* **Shield Breakers:** Divine Kai, Lilin, Hevijak.
 
 ##### Lineups and Strategies
 
@@ -1661,7 +1648,7 @@ There is an enemy limit of 4 (Effectively 3 due to the enemy base). Doge Dark, A
 
 [Video](https://youtu.be/mRoavmNVqG8) - courtesy LordBlu144
 
-Researcher is *usable* for shield breaks. Other Shield Breakers like Ubers or Li'l Jamiera would be preferable. The levels that matter most are Octo tanking an Empress hit when hypermaxed and Bahamut surviving a hit when at Lv 40 with a defense combo, if you bring it.
+Researcher is _usable_ for shield breaks. Other Shield Breakers like Ubers or Li'l Jamiera would be preferable. The levels that matter most are Octo tanking an Empress hit when hypermaxed and Bahamut surviving a hit when at Lv 40 with a defense combo, if you bring it.
 
 Try not to let the enemies hit your base like Blu ended up doing. Save your cash to deal with the SBKs and starting enemies, from then on it is just Aku Doges and Aku Gories, which should be pretty harmless as long as you don't fuck up. Li'l Eraser + Camera combo ended up not doing much in this lineup, so you could switch in some other useful unit like Bahamut to speed up the stage.
 
@@ -1697,12 +1684,12 @@ regular and wrath stage are merged, as they both can use the same lineup.
 
 ##### Great-To-Have Units
 
-* **Slime / Tourist / Crystal** - Only necessary for stone-less setups.
-* **Pizza** - Cost-effective bonus damage on top of Cameraman.
+- **Slime / Tourist / Crystal** - Only necessary for stone-less setups.
+- **Pizza** - Cost-effective bonus damage on top of Cameraman.
 
 ##### Useful Uber Rare Cats
 
-* **Surge-Immune Attackers:** Kasli the Bane, Lasvoss Reborn.
+- **Surge-Immune Attackers:** Kasli the Bane, Lasvoss Reborn.
 
 ##### Lineups and Strategies
 
@@ -1733,20 +1720,20 @@ Relic Doge and Trolly Bloggers for further support.
 
 ##### Must-Have Units
 
-* **Stone** - Great for same reasons as the previous stages.
-* **Fishman / Talented Housewife / Medalist** - Good for clearing Owlbrows.
-* **Slapsticks** - Deals with Relic Doge, and has good survivability.
+- **Stone** - Great for same reasons as the previous stages.
+- **Fishman / Talented Housewife / Medalist** - Good for clearing Owlbrows.
+- **Slapsticks** - Deals with Relic Doge, and has good survivability.
 
 ##### Great-To-Have Units
 
-* **Talented Cyberpunk** - Crowd Control can be useful, and he has good survivability, but you might not
+- **Talented Cyberpunk** - Crowd Control can be useful, and he has good survivability, but you might not
   have the slots for him.
-* **Idi** - *Incredibly* situational, but could kill Loris a hell lot faster if you time her right.
+- **Idi** - _Incredibly_ situational, but could kill Loris a hell lot faster if you time her right.
   Doron also works but you probably won't have him here.
 
 ##### Useful Uber Rare Cats
 
-* **Surge-Immune Attackers** Kasli the Bane, Lasvoss Reborn* **Certain Anti-traitless / Epicfest Ubers:** D'arktanyan, Kasli the Bane.
+- **Surge-Immune Attackers** Kasli the Bane, Lasvoss Reborn\* **Certain Anti-traitless / Epicfest Ubers:** D'arktanyan, Kasli the Bane.
 
 ##### Lineups and Strategies
 
@@ -1781,19 +1768,19 @@ of Star Pengs. 1500% CotC crystals are mandatory for this stage.
 
 ##### Must-Have Units
 
-* **Talented Can Can / Seafarer** - Crowd Control and DPS against the Star Pengs.
-* **Chill with Cost Down talent** - DPS against Star Pengs, allows you to kill one before the next arrives.
-* **Catellite** - Warp Immune meatshield which stops Star Pengs from warping your defenses away. Also tanks
+- **Talented Can Can / Seafarer** - Crowd Control and DPS against the Star Pengs.
+- **Chill with Cost Down talent** - DPS against Star Pengs, allows you to kill one before the next arrives.
+- **Catellite** - Warp Immune meatshield which stops Star Pengs from warping your defenses away. Also tanks
   a Puffsley hit at level 40 or higher.
 
 ##### Great-To-Have Units
 
-* **NEO Saw** - Effectively a combination of Catellite, Green Shell, and Manic Island. Very cost efficient,
+- **NEO Saw** - Effectively a combination of Catellite, Green Shell, and Manic Island. Very cost efficient,
   and great for stalling enemies here.
 
 ##### Useful Uber Rare Cats
 
-* **Anti-Aliens:** Bazibastra, Aphrodite, Sharpshooter Saki, etc. Bonus points if they can either tank Puffsley hits or stand far enough to avoid them.* **Disposable Rushers / Melee:** Greater Balrog, Immortal Yukimura, Cats in the Cradle.
+- **Anti-Aliens:** Bazibastra, Aphrodite, Sharpshooter Saki, etc. Bonus points if they can either tank Puffsley hits or stand far enough to avoid them.\* **Disposable Rushers / Melee:** Greater Balrog, Immortal Yukimura, Cats in the Cradle.
 
 ##### Lineups and Strategies
 
@@ -1805,7 +1792,7 @@ of Star Pengs. 1500% CotC crystals are mandatory for this stage.
 
 Aerial Recon is brought for Research Up M, and it also includes Saucers within it which is a Massive Damage Up
 Sm combo [good for Chill]. Bullet Train can deal extra damage if it gets warped, and the Double Bounty is nice
-to have. Awakened Bahamut is mostly there for cleanup, but you *could* send him for Star Pengs as well if
+to have. Awakened Bahamut is mostly there for cleanup, but you _could_ send him for Star Pengs as well if
 you had the money [which, you most likely won't]. BioBone and Uber research combos work as well. Cyberpunk in
 top row also gives IT Crowd when combined with TTraveller [which is an accounting combo], so it can be brought.
 Seafarer isn't used here, but it's a decent pick, especially if talented.
@@ -1822,5 +1809,5 @@ your Can Can / Chill makes this stage much more consistent.
 
 ---
 
-**LucasIV, Yohane, Kaxzer, Waran-Ess, Anthony** (for many of the guide videos used here)  
+**LucasIV, Yohane, Kaxzer, Waran-Ess, Anthony** (for many of the guide videos used here)
 **Pandango**#2883 (web conversion)

@@ -1,18 +1,10 @@
 Almost Everything About Attacks
 
-
-
-
-
-
-
-
 ##### Navigation panel
 
 [Contents](#)
 
 [Disclaimer](#disclaimer)
-
 
 ---
 
@@ -32,49 +24,39 @@ Almost Everything About Attacks
 [Tradeoffs in Stats](#tradeoffs-in-stats)
 [Afterword](#afterword)
 
-
 ---
 
 [Credits](#credits)
 
-Almost Everything About Attacks
-===============================
+# Almost Everything About Attacks
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Disclaimer](#disclaimer)
-* [Introduction](#introduction)
-* [Attack Cycle](#attack-cycle)
-* [Types of Attack](#types-of-attack)
-* [Damage, Damage-Altering Abilities and DPS](#damage)
-  + [Other abilities](#other-abilities)
-  + [DPS (Damage Per Second)](#dps)
-* [Attack Range and Movement Speed](#range-and-speed)
-  + [Range](#range)
-  + [Movement Speed](#speed)
-* [Knockback Mechanics and Endurance](#knockback-mechanics)
-* [Assessing Cats: Theory vs Practice](#assessing-cats-theory-vs-practice)
-* [Tradeoffs in Stats](#tradeoffs-in-stats)
-* [Afterword](#afterword)
-* [Credits](#credits)
-
-  
+- [Disclaimer](#disclaimer)
+- [Introduction](#introduction)
+- [Attack Cycle](#attack-cycle)
+- [Types of Attack](#types-of-attack)
+- [Damage, Damage-Altering Abilities and DPS](#damage)
+  - [Other abilities](#other-abilities)
+  - [DPS (Damage Per Second)](#dps)
+- [Attack Range and Movement Speed](#range-and-speed)
+  - [Range](#range)
+  - [Movement Speed](#speed)
+- [Knockback Mechanics and Endurance](#knockback-mechanics)
+- [Assessing Cats: Theory vs Practice](#assessing-cats-theory-vs-practice)
+- [Tradeoffs in Stats](#tradeoffs-in-stats)
+- [Afterword](#afterword)
+- [Credits](#credits)
 
 Toggle navigation panel
 
-  
-
 Show/Hide navigation button
-  
 
 #### Disclaimer
 
@@ -99,8 +81,7 @@ to understand the fundamentals of attacking.
 There are some things missing in here, hence "almost". Some of them are known, and it's possible there are some
 things that are still not discovered.
 
-Attack Cycle
-------------
+## Attack Cycle
 
 ---
 
@@ -145,8 +126,6 @@ themselves.
 The proper attack cycle is:
 
 ![attack cycle image (if it doesn't display properly here, refer to the one in the original document.)](../static/images/attack%20cycle.png)
-  
-  
 
 What's this **attack cooldown**? Simply, its the time between the actual attack, and the start of the next
 attack animation. In reality, it is not the backswing or the time between attacks that dictate the attack cycle.
@@ -185,26 +164,26 @@ Now, these parts of the attack cycle all last for some duration, and are innate 
 There are some desirable standards in these stats depending on the cat being analysed. The desirable standard
 also changes depending on the enemies or stages that the cat is used against.
 
-* Generalist ubers prefer to have short attack animation. This minimises the chances they miss due to the
+- Generalist ubers prefer to have short attack animation. This minimises the chances they miss due to the
   enemy that they are about to hit being knocked back, or they don't attack at all due to being knocked back.
   A partial exception, you'll see later.
-* Excessively long attack rate is typically bad. It equates to hard hits with long time in between, which
+- Excessively long attack rate is typically bad. It equates to hard hits with long time in between, which
   means they can get overwhelmed by rushing enemies before they get the next hit in. On the other hand,
   sometimes hard hits are very preferable, like for breaking barriers, and long attack rate can allow the cat
   to be stacked. Sometimes it doesn't matter. More recent content usually involves rushes, so that's why long
   attack rate is more undesirable these days.
-* Long backswing generally is good or doesn't hurt to have. It may be bad against enemy LD attackers as the
+- Long backswing generally is good or doesn't hurt to have. It may be bad against enemy LD attackers as the
   cat may linger in the LD range. It may also sometimes reduce their presence in the battle if they also have
   bad speed, as they might fall behind easily
 
 Some examples can help you understand these ideas:
 
-* On the topic of attack animation, you've probably raged at Bahamut winding up his attack, only to be killed
+- On the topic of attack animation, you've probably raged at Bahamut winding up his attack, only to be killed
   before he finishes the attack animation.
-* On the topic of attack rate, Bahamut vs Ururun is a good example. It matters a lot more against enemies with
+- On the topic of attack rate, Bahamut vs Ururun is a good example. It matters a lot more against enemies with
   many knockbacks, notably Black enemy spam. Yet, Bahamut stacking is very useful for ensuring victory in some
   early game stages.
-* For backswing, the classic case for long backswing being good are Awakened Bahamut/Yukimura/Maglev. These
+- For backswing, the classic case for long backswing being good are Awakened Bahamut/Yukimura/Maglev. These
   units are strong at rushing, and when knocked back, can attack again instantly. This lets them output a lot
   of damage in a shorter time. The disadvantage is best seen in the Awakened Bahamut vs Mr Mole matchup. If Mr
   Mole attacks immediately after being knocked back by Awakened Bahamut, he will hit Awakened Bahamut who had
@@ -220,14 +199,14 @@ Explain qualitatively why, in The Path of Kung Fu, when Bahamut and Ururun are d
 Dancer Cat before Ururun even though he has more range, and the factor that causes this scenario to be more
 frequent than expected. Assume the lineup and setup to be something old school like
 [this](https://media.discordapp.net/attachments/693183674887438469/850780734015799346/unknown.png)
-+ Sniper Cat item.
+
+- Sniper Cat item.
 
 ![Lineup image](https://media.discordapp.net/attachments/693183674887438469/850780734015799346/unknown.png)
 
 That's about all for this section, the next two sections are much simpler.
 
-Types of Attack
----------------
+## Types of Attack
 
 ---
 
@@ -268,8 +247,7 @@ were units that had negative LD range, notably Daboo.
 Omnistrike will always be Area Attack, but LD can be single target, and it will apply the rules of single target
 on what enemy it hits.
 
-Damage, Damage-Altering Abilities and DPS
------------------------------------------
+## Damage, Damage-Altering Abilities and DPS
 
 ---
 
@@ -285,14 +263,14 @@ addition/subtractions and are applied first, while Cat Combo buffs are multiplie
 multipliers (plus some that aren't here) in
 [the ItF Guide](itf.html#treasures), or just read them below.
 
-* Strong against increases the damage done to, and reduces damage taken from the given enemy type. Initially,
+- Strong against increases the damage done to, and reduces damage taken from the given enemy type. Initially,
   damage done will be 1.5×, and damage taken will be 0.5×. With full treasures, damage done is 1.8×, and
   damage taken will be 0.4×. Cat Combos apply a multiplier to the damage done, and divides the damage taken
   with the same factor.
-* Massive damage purely increases damage dealt, but by a larger factor. It is initially a 3× multiplier.
+- Massive damage purely increases damage dealt, but by a larger factor. It is initially a 3× multiplier.
   Treasures increase the multiplier by 1, to ×4 if no combos are in effect. Cat Combos apply a multiplier to
   the damage done.
-* Resistant Against purely reduces damage taken, but by a larger factor. It is initially a 0.25× factor, which
+- Resistant Against purely reduces damage taken, but by a larger factor. It is initially a 0.25× factor, which
   improves to 0.2× with full treasures. It helps to put this in the other perspective, which is that against
   that type, it goes from having 4× the health to 5×. Cat combos buffs the ability by dividing the factor,
   same as with Strong Against.
@@ -315,18 +293,18 @@ limit and a stack of weak Faces to create something like a reverse fuse. When yo
 with a wave of Bores. When busted gacha TFs didn't exist, we were still relying on mainly offensive tactics
 for Reds, and we had no reliable non-uber area Red CC unit. It was basically game over.
 
-[Here](https://media.discordapp.net/attachments/693183674887438469/850785322472177694/unknown.png) was the first strategy that was spread (taken from Wuffa’s vid)  
-  
-![Lineup image](https://media.discordapp.net/attachments/693183674887438469/850785322472177694/unknown.png)  
-  
+[Here](https://media.discordapp.net/attachments/693183674887438469/850785322472177694/unknown.png) was the first strategy that was spread (taken from Wuffa’s vid)
+
+![Lineup image](https://media.discordapp.net/attachments/693183674887438469/850785322472177694/unknown.png)
+
 It was not totally reliable. Having higher level units doesn't even necessarily help, since that accelerates
 the rate that damage is done to the Faces. The strategy stacked King Dragons which in hindsight is very odd.
 
 It's unknown when exactly, but soon people noticed the Strong Wombo Combo.
-[Here](https://media.discordapp.net/attachments/693183674887438469/850785948697493554/unknown.png) is the lineup used by Wuffa for 3 stars.  
-  
-![Lineup image](https://media.discordapp.net/attachments/693183674887438469/850785948697493554/unknown.png)  
-  
+[Here](https://media.discordapp.net/attachments/693183674887438469/850785948697493554/unknown.png) is the lineup used by Wuffa for 3 stars.
+
+![Lineup image](https://media.discordapp.net/attachments/693183674887438469/850785948697493554/unknown.png)
+
 Much more solid and reliable. The combos don’t cause more damage to be done to the Faces which makes it all
 the better. It helps that Awakened Bahamut existed, so the first Rain D could be killed very quickly.
 
@@ -334,22 +312,22 @@ the better. It helps that Awakened Bahamut existed, so the first Rain D could be
 
 Some other abilities are seen in both cats and enemies:
 
-* Metal trait reduces damage taken to 1. It does not matter whether the cat has Strong Against or Massive
+- Metal trait reduces damage taken to 1. It does not matter whether the cat has Strong Against or Massive
   Damage, the damage will be 1.
-* The continuation of this is Critical Hit, which is the only offensive counter to Metal. The first thing it
+- The continuation of this is Critical Hit, which is the only offensive counter to Metal. The first thing it
   does is to double the damage dealt to the enemy, then secondly, ignore metal trait.
-* Savage Blow is similar to Critical Hits, though the damage multiplier is different. The game's code tells us
+- Savage Blow is similar to Critical Hits, though the damage multiplier is different. The game's code tells us
   that the multiplier can be customized, though every unit with is as of JP 10.6 uses a 3× multiplier.
   Savage Blow also does not bypass the Metal trait.
-* Shockwave mechanics were covered earlier. The attack must hit something before the chance is rolled.
+- Shockwave mechanics were covered earlier. The attack must hit something before the chance is rolled.
   Shockwaves can essentially double the damage dealt to the unit that was hit by the original attack,
   provided they are not knocked back by damage.
-* Base destroyer affects only bases. It multiplies damage dealt by 4.
-* Strengthen has two stats involved. It increases the damage dealt by the unit, after its health reaches a
+- Base destroyer affects only bases. It multiplies damage dealt by 4.
+- Strengthen has two stats involved. It increases the damage dealt by the unit, after its health reaches a
   certain percentage. The multiplier to damage dealt and the health threshold are arbitrary.
-* Weaken also has two stats involved. It reduces the damage dealt by the unit by a certain factor, by a
+- Weaken also has two stats involved. It reduces the damage dealt by the unit by a certain factor, by a
   certain duration. Weaken does not remove Strengthen from a unit, and vice versa.
-* Curse is an ability most commonly found in enemies, though a handful of cats now have it as well. They
+- Curse is an ability most commonly found in enemies, though a handful of cats now have it as well. They
   nullify abilities in a certain manner. For this topic, just know that Strong Against, Massive Damage and
   Resistant all stop functioning when Curse is applied on the cat.
 
@@ -368,8 +346,7 @@ and no time between attacks can attack at a rate faster than their attack rate. 
 their DPS, so the stat is not relevant. Sometimes the assumption doesn’t hold true often enough that the DPS
 value itself is questionable.
 
-Attack Range and Movement Speed
--------------------------------
+## Attack Range and Movement Speed
 
 ---
 
@@ -433,9 +410,9 @@ frame. Note that the distance unit is the same as with attack range.
 
 Is there such a thing as a fractional unit of distance in the game? We're not sure.
 
-Speed has an interesting implication on range. See this classic example:  
+Speed has an interesting implication on range. See this classic example:
 Li'l Nyandam has 551 range while Camelle has 550 range, yet sometimes Li'l Nyandam will fail to outrange
-Camelle, walking to Camelle's range and getting hit.  
+Camelle, walking to Camelle's range and getting hit.
 It's only a theory, but we believe this theory is likely to be true. This phenomenon is caused by how the game
 runs.
 
@@ -447,8 +424,7 @@ Applying this in that example, Li'l Nyandam has a speed of 5, which equals 2 or 
 at 552 or 553 range from Camelle, he will move up and in the next frame, he may be 549 or 550 range away from
 Camelle, and will get hit.
 
-Knockback Mechanics and Endurance
----------------------------------
+## Knockback Mechanics and Endurance
 
 ---
 
@@ -470,17 +446,17 @@ Sniper Cat knockback (also known as flinch) and boss wave knockback. There's als
 
 Here are some extra points on these other sources of knockback:
 
-* Cat Cannon and Sniper Cat knockback distance was estimated to be about 100 range, tested a long time ago by
+- Cat Cannon and Sniper Cat knockback distance was estimated to be about 100 range, tested a long time ago by
   Kaxzer. JonesHtog aka SilumanTomcat did recent tests, and estimated damage knockback to be 325~350 distance,
   and ability knockback to be 155~160 distance. Video of his tests
   [here](https://youtu.be/64-z_stthuQ).
-* Each damage knockback occurs at equal intervals of max health. Damage can be large enough to skip damage
+- Each damage knockback occurs at equal intervals of max health. Damage can be large enough to skip damage
   thresholds, and it will still be one knockback.
-* In relation to ultimate cheesing or some other strategies, it may be good to know what distance and duration
+- In relation to ultimate cheesing or some other strategies, it may be good to know what distance and duration
   of the knockbacks are, though we know generally little about it. We don't need to know that much, it is
   enough to know that the cats with the highest speed stat are capable of clipping through most hitboxes in
   the game.
-* Sometimes, we may use knockback for cats to move in closer to the enemy line, which may allow them to hit
+- Sometimes, we may use knockback for cats to move in closer to the enemy line, which may allow them to hit
   more enemies, rather than just the ones in front. The speed required of the cat to do this is quite high.
 
 Related to damage knockback, sometimes it is inevitable that a long range attacker cannot be protected well
@@ -539,13 +515,13 @@ is strictly better than the other.
 
 Tradeoffs can be seen in abilities too. Comparing Sanzo and Necrodancer:
 
-| Cat | Sanzo | Necro-dancer |
-| --- | --- | --- |
-| Area Attack | Yes | No |
-| Range | 250 | 300 |
-| Attack Rate | 29f | 54f |
-| Ability Chance | 20% | 20% |
-| Ability Duration | 144f | 108f |
+| Cat              | Sanzo | Necro-dancer |
+| ---------------- | ----- | ------------ |
+| Area Attack      | Yes   | No           |
+| Range            | 250   | 300          |
+| Attack Rate      | 29f   | 54f          |
+| Ability Chance   | 20%   | 20%          |
+| Ability Duration | 144f  | 108f         |
 
 They are both used mainly for their crowd control, so health and damage don't matter much, perhaps only in few
 situations health might matter. Not only are the parameters of their ability factors, attack range, type of
@@ -574,8 +550,8 @@ stage that requires completely new methods of beating it.
 I hope you have a good idea of at least the basics now. In a game like Battle Cats, there is rarely much
 complexity, but at times you may be called to think on a deeper level.
 
-Here's a final question for you.  
-[What is happening in this clip?](https://youtu.be/RdrksyfuPag?t=53s)  
+Here's a final question for you.
+[What is happening in this clip?](https://youtu.be/RdrksyfuPag?t=53s)
 [Or this one?](https://youtu.be/VEYqXcLq_E4&t=56s)
 
 ---
@@ -593,5 +569,5 @@ You may also want to refer to the [terminology guide](terminology.html).
 
 ---
 
-**dkafsgdhh**#0809 (original guide redaction)  
+**dkafsgdhh**#0809 (original guide redaction)
 **Waran-Ess**#9801 (minor edits and web conversion)

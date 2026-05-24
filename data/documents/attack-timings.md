@@ -1,37 +1,26 @@
 Attack Timings
 
-
-
-
-
-
-
-
-Attack Timings
-==============
+# Attack Timings
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Introduction](#introduction)
-* [How Most Units Attack](#normal-attack-cycle)
-* [The Rebound Mechanic](#the-rebound-mechanic)
-* [Multi-hit](#multihit)
-* [Terminology](#terminology)
-  + [Foreswing](#foreswing)
-  + [Attack Cooldown](#attack-cooldown)
-  + [Backswing](#backswing)
-  + [Time Between Attacks (TBA)](#time-between-attacks)
-  + [Attack Rate](#attack-rate)
-* [Credits](#credits)
+- [Introduction](#introduction)
+- [How Most Units Attack](#normal-attack-cycle)
+- [The Rebound Mechanic](#the-rebound-mechanic)
+- [Multi-hit](#multihit)
+- [Terminology](#terminology)
+  - [Foreswing](#foreswing)
+  - [Attack Cooldown](#attack-cooldown)
+  - [Backswing](#backswing)
+  - [Time Between Attacks (TBA)](#time-between-attacks)
+  - [Attack Rate](#attack-rate)
+- [Credits](#credits)
 
 ### Introduction
 
@@ -44,10 +33,10 @@ work. I highly recommend you give it a read if you want to understand everything
 If you look at any cat or enemy unit in battle, you can see them attack. In fact, the process of attacking is a
 cycle that repeats itself continuously. This cycle is broken up into several key steps, which are:
 
-* Foreswing
-* Attack happens
-* Backswing
-* Time between attacks (TBA)
+- Foreswing
+- Attack happens
+- Backswing
+- Time between attacks (TBA)
 
 These steps describe how attacking happens visually. However, the system doesn’t work exactly like that.
 
@@ -60,8 +49,6 @@ animation. In reality, backswing and TBA don’t dictate the attack cycle. Attac
 is obeyed all the time. Backswing and TBA added together always have a value equal to or greater than the attack
 cooldown.
 
-
-
 This might be a bit complicated to understand at first; however, for most cat units, this is very simple.
 This guide will start by describing how the system works most of the time, then move on to special cases.
 
@@ -71,9 +58,9 @@ This guide will start by describing how the system works most of the time, then 
 
 We’ll use **Crazed Bahamut** as an example. Here are its stats:
 
-**Foreswing** : 121f (4.03s)  
-**Backswing** : 30f (1s)  
-**Attack cooldown** : 479f (15.97s)  
+**Foreswing** : 121f (4.03s)
+**Backswing** : 30f (1s)
+**Attack cooldown** : 479f (15.97s)
 **Attack rate** : 600f (20s)
 
 You might have noticed that I omitted TBA, and that’s because it does not actually exist as a stat;
@@ -81,11 +68,11 @@ We’ll come back to it later.
 
 Now for the actual steps of the attack cycle:
 
-* Crazed Bahamut starts his attack animation, charging his energy ball. This is his foreswing. If Bahamut gets
+- Crazed Bahamut starts his attack animation, charging his energy ball. This is his foreswing. If Bahamut gets
   interrupted during his foreswing, his attack is reset.
-* After this, damage is dealt. This marks the end of Bahamut’s foreswing and the start of his backswing.
+- After this, damage is dealt. This marks the end of Bahamut’s foreswing and the start of his backswing.
   Most importantly, on this frame, attack cooldown begins counting down.
-* Bahamut is now in TBA (which is really just a fancy term to describe the period of the attack cycle where
+- Bahamut is now in TBA (which is really just a fancy term to describe the period of the attack cycle where
   units are idle and / or move ahead on the battlefield) and stays so until the attack cooldown expires.
 
 Attack cooldown functions independently from backswing. This is why if you interrupt Bahamut during his
@@ -107,9 +94,9 @@ there are exceptions.
 
 **Maglev Cat** will be our unit example for this next concept.
 
-**Foreswing** : 1f (0.03s)  
-**Backswing** : 200f (6.67s)  
-**Attack cooldown** : 0f (0s)  
+**Foreswing** : 1f (0.03s)
+**Backswing** : 200f (6.67s)
+**Attack cooldown** : 0f (0s)
 **Attack rate** : 201f (6.7s)
 
 Maglev is an easy example of a unit with what is generally referred to as a rebound mechanic. As you can see
@@ -128,9 +115,9 @@ interval is variable.
 
 We’ll use **Iron Claw X** for this one.
 
-**Foreswing** : 11f / 15f / 35f (0.37s / 0.5s / 1.17s)  
-**Backswing** : 26f (0.87s)  
-**Attack cooldown** : 145f (4.83s)  
+**Foreswing** : 11f / 15f / 35f (0.37s / 0.5s / 1.17s)
+**Backswing** : 26f (0.87s)
+**Attack cooldown** : 145f (4.83s)
 **Attack rate** : 180f (6s)
 
 Multi-hit units function a bit differently, but aren’t very complicated to figure out when you know how attacks
@@ -143,24 +130,23 @@ attack is reset, regardless of whether he landed his first two hits or not.
 
 Explain what is happening in [this clip](https://youtu.be/VEYqXcLq_E4&t=56s).
 
-Terminology
------------
+## Terminology
 
 ---
 
-**Foreswing / Attack Occurrence**  
+**Foreswing / Attack Occurrence**
 Time between the start of the attack animation and the frame on which damage is dealt.
 
-**Attack Cooldown**  
+**Attack Cooldown**
 Time between the frame on which damage is dealt and the start of the next attack animation.
 
-**Backswing**  
+**Backswing**
 Time between the frame on which damage is dealt and the end of the attack animation.
 
-**Time Between Attacks (TBA)**  
+**Time Between Attacks (TBA)**
 Time between the end of the attack animation and the start of the next attack animation.
 
-**Attack Rate**  
+**Attack Rate**
 Time between the frame on which the attack occurs and the frame on which the next attack occurs. Used to
 calculate theoretical DPS (Damage Per Second).
 

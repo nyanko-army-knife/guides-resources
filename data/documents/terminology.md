@@ -1,65 +1,54 @@
 Terminology
 
-
-
-
-
-
-
-
-Battle Cats Terminology
-=======================
+# Battle Cats Terminology
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Disclaimer](#disclaimer)
-* [General](#general)
-  + [Meatshield](#meatshield)
-  + [Peon](#peon)
-  + [Gacha Unit](#gacha-unit)
-  + [Plus Level](#plus-level)
-  + [Hypermaxing](#hypermaxing)
-  + [Ultramaxing](#ultramaxing)
-  + [Boosting](#boosting)
-  + [Cat Unit Rarities](#rarities)
-  + [Advent](#advent)
-* [Units](#units)
-  + [Distance Units (DU)](#distance-units)
-  + [Hit Points (HP)](#hp)
-  + [Frame](#frame)
-* [Basic Stats](#basic-stats)
-  + [Movement Speed](#movement-speed)
-  + [Damage](#damage)
-  + [Single Target](#single-target)
-  + [Area Attack](#area-attack)
-  + [Trait](#trait)
-  + [Abilities](#abilities-sub)
+- [Disclaimer](#disclaimer)
+- [General](#general)
+  - [Meatshield](#meatshield)
+  - [Peon](#peon)
+  - [Gacha Unit](#gacha-unit)
+  - [Plus Level](#plus-level)
+  - [Hypermaxing](#hypermaxing)
+  - [Ultramaxing](#ultramaxing)
+  - [Boosting](#boosting)
+  - [Cat Unit Rarities](#rarities)
+  - [Advent](#advent)
+- [Units](#units)
+  - [Distance Units (DU)](#distance-units)
+  - [Hit Points (HP)](#hp)
+  - [Frame](#frame)
+- [Basic Stats](#basic-stats)
+  - [Movement Speed](#movement-speed)
+  - [Damage](#damage)
+  - [Single Target](#single-target)
+  - [Area Attack](#area-attack)
+  - [Trait](#trait)
+  - [Abilities](#abilities-sub)
     - [Passive Targeting Abilities](#passive-targeting-abilities)
     - [Passive Universal Abilities](#passive-universal-abilities)
     - [Active Targeting Abilities](#active-targeting-abilities)
     - [Active Universal Abilities](#active-universal-abilities)
-  + [Status Effects](#status-effects)
-  + [Crowd Control](#crowd-control)
-  + [Damage Knockback (Hitback)](#damage-knockback)
-  + [Endurance](#endurance)
-  + [Standing Range](#standing-range)
-  + [Damage Per Second (DPS)](#dps)
-* [Advanced Stats](#advanced-stats)
-  + [Base Damage](#base-damage)
-  + [Base HP](#base-hp)
-  + [Effective Damage](#effective-damage)
-  + [Effective HP](#effective-hp)
-  + [Effective DPS](#effective-dps)
-  + [Range](#range)
+  - [Status Effects](#status-effects)
+  - [Crowd Control](#crowd-control)
+  - [Damage Knockback (Hitback)](#damage-knockback)
+  - [Endurance](#endurance)
+  - [Standing Range](#standing-range)
+  - [Damage Per Second (DPS)](#dps)
+- [Advanced Stats](#advanced-stats)
+  - [Base Damage](#base-damage)
+  - [Base HP](#base-hp)
+  - [Effective Damage](#effective-damage)
+  - [Effective HP](#effective-hp)
+  - [Effective DPS](#effective-dps)
+  - [Range](#range)
     - [Long Range / Long Distance / LD](#long-range)
     - [Omni-strike](#omni-strike)
     - [Maximum Range](#maximum-range)
@@ -72,52 +61,52 @@ Show / Hide contents
     - [Stepping Stone](#stepping-stone)
     - [Frontline](#frontline)
     - [Backline](#backline)
-* [Attack Timings](#attack-timings)
-  + [Foreswing](#foreswing)
-  + [Backswing](#backswing)
-  + [Attack Cooldown](#attack-cooldown)
-  + [Attack Frequency](#attack-frequency)
-* [Advanced Mechanics](#advanced-mechanics)
-  + [Clipping](#clipping)
-  + [Speed Clipping](#speed-clipping)
-  + [Boss](#boss)
-  + [Boss Knockback](#boss-knockback)
-  + [Displacement](#displacement)
-  + [Flinch](#flinch)
-* [Abilities](#abilities)
-  + [Uptime](#uptime)
-  + [Massive Damage](#massive-damage)
-  + [Insane Damage](#insane-damage)
-  + [Strong Against](#strong-against)
-  + [Resistant](#resistant)
-  + [Insanely Tough](#insanely-tough)
-  + [Slow](#slow)
-  + [Freeze](#freeze)
-  + [Weaken](#weaken)
-  + [Knockback](#knockback)
-  + [Critical Hit](#critical-hit)
-  + [Attack Only](#attack-only)
-  + [Base Destroyer](#base-destroyer)
-  + [Metal](#metal)
-  + [Burrow](#burrow)
-  + [Revive](#revive)
-  + [Zombie Killer](#zombie-killer)
-  + [Barrier](#barrier)
-  + [Barrier Breaker](#barrier-breaker)
-  + [Warp](#warp)
-  + [Curse](#curse)
-  + [Double Cash](#double-cash)
-  + [Survive](#survive)
-  + [Savage Blow](#savage-blow)
-  + [Immunity](#immunity)
-  + [Resistance](#resistance)
-  + [Wave Blocker](#wave-blocker)
-  + [Wave](#wave)
-  + [Mini Wave](#mini-wave)
-  + [Surge](#surge)
-  + [Suicide](#suicide)
-  + [Multi-hit](#multi-hit)
-* [Credits](#credits)
+- [Attack Timings](#attack-timings)
+  - [Foreswing](#foreswing)
+  - [Backswing](#backswing)
+  - [Attack Cooldown](#attack-cooldown)
+  - [Attack Frequency](#attack-frequency)
+- [Advanced Mechanics](#advanced-mechanics)
+  - [Clipping](#clipping)
+  - [Speed Clipping](#speed-clipping)
+  - [Boss](#boss)
+  - [Boss Knockback](#boss-knockback)
+  - [Displacement](#displacement)
+  - [Flinch](#flinch)
+- [Abilities](#abilities)
+  - [Uptime](#uptime)
+  - [Massive Damage](#massive-damage)
+  - [Insane Damage](#insane-damage)
+  - [Strong Against](#strong-against)
+  - [Resistant](#resistant)
+  - [Insanely Tough](#insanely-tough)
+  - [Slow](#slow)
+  - [Freeze](#freeze)
+  - [Weaken](#weaken)
+  - [Knockback](#knockback)
+  - [Critical Hit](#critical-hit)
+  - [Attack Only](#attack-only)
+  - [Base Destroyer](#base-destroyer)
+  - [Metal](#metal)
+  - [Burrow](#burrow)
+  - [Revive](#revive)
+  - [Zombie Killer](#zombie-killer)
+  - [Barrier](#barrier)
+  - [Barrier Breaker](#barrier-breaker)
+  - [Warp](#warp)
+  - [Curse](#curse)
+  - [Double Cash](#double-cash)
+  - [Survive](#survive)
+  - [Savage Blow](#savage-blow)
+  - [Immunity](#immunity)
+  - [Resistance](#resistance)
+  - [Wave Blocker](#wave-blocker)
+  - [Wave](#wave)
+  - [Mini Wave](#mini-wave)
+  - [Surge](#surge)
+  - [Suicide](#suicide)
+  - [Multi-hit](#multi-hit)
+- [Credits](#credits)
 
 ##### Disclaimer
 
@@ -125,8 +114,7 @@ Some of the information contained in this guide may not be accurate (specificall
 red). If you are able to confirm the accuracy of these bits of information,
 please inform a Trusted+ user on the r/battlecats Discord.
 
-General
--------
+## General
 
 ---
 
@@ -161,17 +149,17 @@ Raising a cat unit to level 50 through the use of catseyes.
 
 ##### Boosting
 
-Raising a cat unit to a very high level through the use of plus levels.  
+Raising a cat unit to a very high level through the use of plus levels.
 \*This term is frequently used interchangeably with hyper/ultramaxing.
 
 ##### Cat Unit Rarities
 
-* **N:** Normal
-* **EX:** Special
-* **R:** Rare
-* **SR:** Super Rare
-* **UR:** Uber Super Rare
-* **LR:** Legend Rare
+- **N:** Normal
+- **EX:** Special
+- **R:** Rare
+- **SR:** Super Rare
+- **UR:** Uber Super Rare
+- **LR:** Legend Rare
 
 ##### Advent
 
@@ -198,8 +186,7 @@ When one of the bases reaches 0 HP, you either lose or win and the stage is over
 1/30th of a second. Battle Cats runs at 30 frames per second, also referred to as 30 fps. This is the smallest
 time interval possible, and is used when referring to precise timings, such as unit or enemy attack animations.
 
-Basic Stats
------------
+## Basic Stats
 
 ---
 
@@ -291,14 +278,13 @@ The distance in DU towards an enemy at which a unit stops moving and starts atta
 
 ##### Damage Per Second (DPS)
 
-The average damage per second a unit deals against a stationary enemy when uninterrupted.  
+The average damage per second a unit deals against a stationary enemy when uninterrupted.
 Calculated using:
 `Base damage
 /
 (Attack Frequency / 30)`
 
-Advanced Stats
---------------
+## Advanced Stats
 
 ---
 
@@ -371,8 +357,8 @@ Area which an LD unit cannot hit with its regular attack.
 
 ##### Base Targeting Range
 
-*(still got no good name, thought about calling it demolition range but that may also be confusing, so
-something along those lines because base is also confusing)*
+_(still got no good name, thought about calling it demolition range but that may also be confusing, so
+something along those lines because base is also confusing)_
 
 The distance at which a unit stops to attack the enemy base. Usually this is equal to
 [Standing Range](#standing-range). For LD units, this is equal to
@@ -383,7 +369,7 @@ The distance at which a unit stops to attack the enemy base. Usually this is equ
 
 How far ahead of itself a unit can hit relative to its [standing range](#standing-range). Can exceed
 the standing range (Aphro) or be equal / zero (Hacker) but is never less. It is obtained by subtracting the
-unit’s standing range from its maximum reach.  
+unit’s standing range from its maximum reach.
 Here’s an example: Radiant Aphrodite has a standing range of 600, and hits enemy units in range 450~850 in front
 of her, meaning she has a piercing range of **250** (850 – 600) and an [Inner Range](#inner-range)
 of **150** (600 – 450).
@@ -463,8 +449,7 @@ calculate theoretical [DPS](#dps).
 
 **Also known as:** attack interval
 
-Advanced Mechanics
-------------------
+## Advanced Mechanics
 
 ---
 
@@ -512,13 +497,12 @@ underground or knocked back, resulting in interruption of any attack animations 
 
 Very short displacement spanning (how many?) DU over 11f caused by the sniper
 cat powerup. Can be timed by toggling sniper at the right moment, as it shoots once every ~10 seconds provided
-it has a target other than the enemy base.  
+it has a target other than the enemy base.
 The normal cat cannon also inflicts this type of knockback.
 
 **Also known as:** sniper knockback, cannon knockback
 
-Abilities
----------
+## Abilities
 
 ---
 
@@ -742,5 +726,5 @@ For more details on multi-hit timings, refer to [this](attack-timings.html#multi
 
 ---
 
-**TheXientist**#7112 (compiling most of the terms and their definitions)  
+**TheXientist**#7112 (compiling most of the terms and their definitions)
 **Waran-Ess**#9801 (minor edits and web conversion)

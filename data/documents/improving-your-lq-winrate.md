@@ -1,30 +1,19 @@
 Improving your Legend Quest Winrate
 
-
-
-
-
-
-
-
-Improving your Legend Quest Winrate
-===================================
+# Improving your Legend Quest Winrate
 
 ---
-
 
 Click to toggle dark theme
 
 ##### Contents
 
 Show / Hide contents
-  
-  
 
-* [Building the lineup](#building-the-lineup)
-* [Playing the stage](#playing-the-stage)
-* [Afterword](#afterword)
-* [Credits](#credits)
+- [Building the lineup](#building-the-lineup)
+- [Playing the stage](#playing-the-stage)
+- [Afterword](#afterword)
+- [Credits](#credits)
 
 ### Building the lineup
 
@@ -39,10 +28,10 @@ can often get as far as level 20 without a single loss.
 Now, how do you build a lineup in the first place ? An important point is bringing as many **true counters**
 as possible. If we use No More Bad Dreams as an example, you could bring the following units:
 
-* Li’l Eraser, who can cheese the stage
-* Other meatshields (at least 3 more)
-* Cyberpunk or any other potent LD, who can be stacked very easily in the startoff
-* Sanzo / Doctor / Cameraman, as they can work well on their own and/or with a limited number of meatshields.
+- Li’l Eraser, who can cheese the stage
+- Other meatshields (at least 3 more)
+- Cyberpunk or any other potent LD, who can be stacked very easily in the startoff
+- Sanzo / Doctor / Cameraman, as they can work well on their own and/or with a limited number of meatshields.
 
 Avoid heavier units like Ururun or 2nd form Gao, as they need considerable support to actually work on the
 stage. Ubers that can stall the enemies or take them down very fast (Saber, Kai, Mitama, Jeanne) are still good
@@ -50,7 +39,7 @@ to bring however.
 
 Remember to bring the right cannon for the stage, as well; it can make a huge difference.
 
-TL;DR build your lineups like you *know* you’ll lose 8~9 of the units you bring.
+TL;DR build your lineups like you _know_ you’ll lose 8~9 of the units you bring.
 
 ### Playing the stage
 
