@@ -4,8 +4,7 @@ title: Battle Cats Terminology
 
 ##### Disclaimer
 
-Some of the information contained in this guide may not be accurate (specifically anything that is marked in
-red). If you are able to confirm the accuracy of these bits of information,
+Some of the information contained in this guide may not be accurate (specifically anything that is marked in red). If you are able to confirm the accuracy of these bits of information,
 please inform a Trusted+ user on the r/battlecats Discord.
 
 ## General
@@ -18,8 +17,7 @@ A cat unit that is meant to hinder enemy progression through spammability (ex. M
 
 ##### Peon
 
-Refers to weak enemies such as Snache and Those Guys, but can also be used to refer to stronger, non-boss
-enemies, such as Angelic Gory or Shadow Boxer K.
+Refers to weak enemies such as Snache and Those Guys, but can also be used to refer to stronger, non-boss enemies, such as Angelic Gory or Shadow Boxer K.
 
 ##### Gacha Unit
 
@@ -55,8 +53,7 @@ Raising a cat unit to a very high level through the use of plus levels.
 
 ##### Advent
 
-A stage of Deadly difficulty where the player must fight a unique boss to obtain a Rare/Super Rare unit, called
-advent drop or advent cat. Examples include Realm of Carnage, No Plan A and Parade of the Dead.
+A stage of Deadly difficulty where the player must fight a unique boss to obtain a Rare/Super Rare unit, called advent drop or advent cat. Examples include Realm of Carnage, No Plan A and Parade of the Dead.
 
 ### Units
 
@@ -75,8 +72,7 @@ When one of the bases reaches 0 HP, you either lose or win and the stage is over
 
 ##### Frame
 
-1/30th of a second. Battle Cats runs at 30 frames per second, also referred to as 30 fps. This is the smallest
-time interval possible, and is used when referring to precise timings, such as unit or enemy attack animations.
+1/30th of a second. Battle Cats runs at 30 frames per second, also referred to as 30 fps. This is the smallest time interval possible, and is used when referring to precise timings, such as unit or enemy attack animations.
 
 ## Basic Stats
 
@@ -84,8 +80,7 @@ time interval possible, and is used when referring to precise timings, such as u
 
 ##### Movement Speed
 
-Movement speed towards the opposing base when unobstructed in 2 DU/f.
-Can be 0 for enemy units in some rare cases.
+Movement speed towards the opposing base when unobstructed in 2 DU/f. Can be 0 for enemy units in some rare cases.
 
 ##### Damage
 
@@ -101,8 +96,7 @@ Mutually exclusive to Single Target, the unit hits every enemy in range when att
 
 ##### Trait
 
-A (usually visually represented) trait of an enemy that can give them certain abilities and makes them
-vulnerable to trait-targeting abilities. Reserved ONLY to enemies, cat units cannot have traits.
+A (usually visually represented) trait of an enemy that can give them certain abilities and makes them vulnerable to trait-targeting abilities. Reserved ONLY to enemies, cat units cannot have traits.
 
 **Also known as:** color, type
 
@@ -113,8 +107,7 @@ vulnerable to trait-targeting abilities. Reserved ONLY to enemies, cat units can
 ##### Passive Targeting Abilities
 
 Abilities the unit applies when it is affected by an attack from a certain enemy trait
-(e.g. [Resistant Against](#resistant), [Strong Against](#strong-against)),
-merely by existing. Exclusive to cat units.
+(e.g. [Resistant Against](#resistant), [Strong Against](#strong-against)), merely by existing. Exclusive to cat units.
 
 ##### Passive Universal Abilities
 
@@ -129,8 +122,7 @@ Abilities the unit only applies when it hits an attack against a target trait
 ##### Active Universal Abilities
 
 Abilities the unit only applies when it hits an attack against any enemy (e.g [wave](#wave),
-[Critical hit](#critical-hit), [Barrier Breaker](#barrier-breaker),
-[ZKill](#zombie-killer), [double cash](#double-cash)).
+[Critical hit](#critical-hit), [Barrier Breaker](#barrier-breaker), [ZKill](#zombie-killer), [double cash](#double-cash)).
 
 ---
 
@@ -146,7 +138,7 @@ Used to refer to units that inflict a status effect (crowd control units, or als
 
 ##### Damage Knockback (Hitback)
 
-Large backwards [displacement](#displacement) over 345 DU lasting (how many?) f that occurs when a unit takes a specified threshold of damage. Temporarily grants invincibility and removes the unit from the battlefield, allowing fast units to run past it. Every unit has a number greater or equal to 1, 1 being the minimum as every unit gets knocked back upon death. Their distribution is linear, meaning that every KB occurs at the same interval (5,000 HP and 5 KBs results in 1 KB every 1,000 damage taken)
+Large backwards [displacement](#displacement) over 345 DU lasting 21f that occurs when a unit takes a specified threshold of damage. Temporarily grants invincibility and removes the unit from the battlefield, allowing fast units to run past it. Every unit has a number greater or equal to 1, 1 being the minimum as every unit gets knocked back upon death. Their distribution is linear, meaning that every KB occurs at the same interval (5,000 HP and 5 KBs results in 1 KB every 1,000 damage taken)
 
 ##### Endurance
 
@@ -162,8 +154,7 @@ The distance in DU towards an enemy at which a unit stops moving and starts atta
 
 ##### Damage Per Second (DPS)
 
-The average damage per second a unit deals against a stationary enemy when uninterrupted. Calculated using:
-`Base damage / (Attack Frequency / 30)`
+The average damage per second a unit deals against a stationary enemy when uninterrupted. Calculated using: $Base damage / (Attack Frequency / 30)$
 
 ## Advanced Stats
 
@@ -243,8 +234,7 @@ Not to be confused with [Piercing Attack](#piercing-attack).
 
 How close to itself an LD unit can hit enemies (can be zero, or lower, like golfer). It is obtained by subtracting the unit’s minimum reach from its standing range. See the above explanation for an example.
 
-See also [Piercing Range](#piercing-range), [Long Range](#long-range),
-[minimum range](#minimum-range).
+See also [Piercing Range](#piercing-range), [Long Range](#long-range), [minimum range](#minimum-range).
 
 ##### Piercing Attack
 
