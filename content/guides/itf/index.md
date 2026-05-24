@@ -1,6 +1,7 @@
 ---
 title: ItF + Early SoL guide
 ---
+
 ##### Disclaimers
 
 - This guide primarily focuses on Into the Future, but most of what is here can also be applied to early-mid
@@ -288,7 +289,7 @@ Since Crazed Cats cost so much XP to level up, you’ll need to grind for some.
 Simply progressing through ItF and grinding treasures grants you a decent amount of XP, but if you want to farm
 some more, the best place for it is the XP stage. It appears twice every day and is available all day during
 weekends. There’s also XP Megablitz, but it’s probably too hard for you this early in the game. Another option
-is playing Legend Stages for XP (refer to the [When should I start ItF?](#when-to-start-itf) section).
+is playing Legend Stages for XP (refer to the [When should I start ItF?](#When%20should%20I%20start%20ItF?) section).
 
 Lucas made an entire video on the topic and it is highly recommended to check it out, but here are some of the
 important points:
@@ -349,7 +350,7 @@ TFs that aren’t necessary for ItF, and are therefore at a lower priority.
 ---
 
 Focusing on ItF is not a bad idea, but you might also want to try your hand at Stories of Legend
-(see [When should I start ItF?](#when-to-start-itf)) and some event stages.
+(see [When should I start ItF?](#When%20should%20I%20start%20ItF?) and some event stages.
 
 If you’re in ItF and find that Bahamut isn’t enough for you, you should know that SoL subchapter 18, Jail Break
 Tunnel, has a cat unit drop: Ururun Wolf. She’s similar to Bahamut, but trades raw damage per hit for much
@@ -377,42 +378,42 @@ his original beginner’s guide, some guidemakers, the link to the subreddit’s
 
 ##### Communities
 
-**[The official Battle Cats subreddit](http://www.reddit.com/r/battlecats/)**
-**[The subreddit's Discord server](https://discord.gg/battlecats)**
+**[The official Battle Cats subreddit](http://www.reddit.com/r/battlecats/)** \
+**[The subreddit's Discord server](https://discord.gg/battlecats)** \
 **[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**
 
 ##### Stats & Information
 
-**[The official Battle Cats wiki](http://www.battle-cats.wikia.com)**
-**[Mygamatoto](https://mygamatoto.com/)**
+**[The official Battle Cats wiki](http://www.battle-cats.wikia.com)** \
+**[Mygamatoto](https://mygamatoto.com/)** \
 **[Spica](https://battlecats-db.com/)**
 
 ##### Guidemakers
 
 (the best known and most reliable)
 
-**[Wuffa](https://www.youtube.com/user/nurseluka)**
-**[Lucas](https://www.youtube.com/user/Gameandwatch97)**
-**[yohane](https://www.youtube.com/user/misterhappy444)**
-**[Anthony](https://www.youtube.com/channel/UCtNXKH6K6wHCAHbZS4tq-RQ)**
+**[Wuffa](https://www.youtube.com/user/nurseluka)** \
+**[Lucas](https://www.youtube.com/user/Gameandwatch97)** \
+**[yohane](https://www.youtube.com/user/misterhappy444)** \
+**[Anthony](https://www.youtube.com/channel/UCtNXKH6K6wHCAHbZS4tq-RQ)** \
 **[Jones](https://www.youtube.com/user/SilumanTomcat)**
 
 ##### Extra guidemakers
 
 (not as notable as the aforementioned ones, but can still be good to check out)
 
-**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**
-**[Jack](https://www.youtube.com/channel/UCp63pm4faWdHzamCFkNimwQ)**
-**[Coby](https://www.youtube.com/channel/UC-bPqQtL-6x5LUkJChRoi9g)**
-**[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)**
-**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**
+**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)** \
+**[Jack](https://www.youtube.com/channel/UCp63pm4faWdHzamCFkNimwQ)** \
+**[Coby](https://www.youtube.com/channel/UC-bPqQtL-6x5LUkJChRoi9g)** \
+**[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)** \
+**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)** \
 **[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**
 
 ##### Lucas videos
 
-**[Beginner's Guide](https://www.youtube.com/watch?v=9ATc_PTYVzA)**
-**[Farming and managing XP](https://www.youtube.com/watch?v=UVHgxje56IU)**
-**[Stage schematics](https://www.youtube.com/watch?v=OL6gVLaZmcc)**
+**[Beginner's Guide](https://www.youtube.com/watch?v=9ATc_PTYVzA)** \
+**[Farming and managing XP](https://www.youtube.com/watch?v=UVHgxje56IU)** \
+**[Stage schematics](https://www.youtube.com/watch?v=OL6gVLaZmcc)** \
 **[Important ranges](https://www.youtube.com/watch?v=3hxh3Xoa8h8)**
 
 ### Credits

@@ -1,6 +1,7 @@
 ---
 title: Battle Cats Terminology
 ---
+
 ##### Disclaimer
 
 Some of the information contained in this guide may not be accurate (specifically anything that is marked in
@@ -60,6 +61,7 @@ advent drop or advent cat. Examples include Realm of Carnage, No Plan A and Para
 ### Units
 
 ---
+
 ##### Distance Units (DU)
 
 Distance on the battlefield.
@@ -497,5 +499,5 @@ For more details on multi-hit timings, refer to [this](attack-timings.html#multi
 
 ---
 
-**TheXientist**#7112 (compiling most of the terms and their definitions)
+**TheXientist**#7112 (compiling most of the terms and their definitions) \
 **Waran-Ess**#9801 (minor edits and web conversion)

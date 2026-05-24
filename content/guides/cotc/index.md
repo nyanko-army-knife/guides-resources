@@ -3,7 +3,7 @@ title: A Guide to Cats of the Cosmos
 ---
 ##### Disclaimer
 
-This guide is an unofficial sequel to the [Into the Future guide](itf.html). However,
+This guide is an unofficial sequel to the [Into the Future guide](itf). However,
 this guide does not cover Crazed/Manic units or SoL in detail, focusing on Cats of the Cosmos (CotC) only. It is
 recommended to read the ItF guide first if you haven't already, as it contains a good amount of useful
 information, namely treasure mechanics.

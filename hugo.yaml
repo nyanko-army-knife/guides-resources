@@ -49,4 +49,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/nyanko-army-knife/guides-resources/edit/main/content"
