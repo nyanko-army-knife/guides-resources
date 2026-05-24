@@ -257,9 +257,9 @@ Here's a final question for you. [What is happening in this clip?](https://youtu
 
 ### Thanks for reading!
 
-Like was mentioned earlier, there exists [a condensed version](guides/attack-timings/index.md) of this guide, which focuses on attack timings.
+Like was mentioned earlier, there exists [a condensed version](../attack-timings) of this guide, which focuses on attack timings.
 
-You may also want to refer to the [terminology guide](guides/terminology/index.md).
+You may also want to refer to the [terminology guide](../terminology).
 
 ### Credits
 
