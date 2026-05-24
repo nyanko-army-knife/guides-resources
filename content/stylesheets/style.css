@@ -1,0 +1,234 @@
+@media screen and (max-width: 2200px) {
+    img {
+        max-width: 800px;
+    }
+
+    .graph {
+        max-width: 1300px;
+    }
+}
+@media screen and (max-width: 1600px) {
+    img {
+        max-width: 600px;
+    }
+
+    .graph {
+        max-width: 1000px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    #mainContent {
+        padding-left: 30px;
+        padding-right: 30px;
+
+        margin: 0 auto 0 auto;
+    }
+
+    img,
+    .graph {
+        max-width: 500px;
+    }
+
+    .callout img {
+        max-width: 400px;
+    }
+}
+@media screen and (max-width: 600px) {
+    img,
+    .graph {
+        max-width: 400px;
+    }
+
+    .callout img {
+        max-width: 350px;
+    }
+}
+@media screen and (max-width: 450px) {
+    img {
+        max-width: 275px;
+    }
+
+    .callout img,
+    .graph {
+        max-width: 250px;
+    }
+
+    .graph {
+        max-width: 250px;
+    }
+}
+@media screen and (max-width: 300px) {
+    #mainContent {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    img,
+    .graph {
+        max-width: 200px;
+    }
+
+    .callout img {
+        max-width: 160px;
+    }
+}
+
+body * {
+    text-align: justify;
+}
+
+#mainContent {
+    padding-top: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3, h4, h5 {
+    padding-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #626262;
+    text-align: center;
+}
+
+table:not(.combo-table) {
+    margin: 20px auto;
+}
+
+th,
+td:first-child {
+    font-weight: bold;
+}
+
+th, td {
+    padding: 6px;
+}
+
+.table-of-contents {
+    padding: 10px;
+    border: 1px solid;
+    max-width: 500px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#mainContent a:hover {
+    text-decoration: underline;
+}
+
+.list-spacer {
+    list-style-type: none;
+}
+
+#mainContent li:not(:first-child, .table-of-contents *) {
+    padding-top: 5px;
+}
+
+.combo-table {
+    margin: 20px 0 20px 0;
+}
+
+.black-cell {
+    background: black;
+    border-color: black;
+}
+
+#lq-odds td:not(:first-child, .black-cell) {
+    background: #B4A7D6;
+    color: black;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 8px;
+}
+
+.callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+
+.callout.callout-primary {
+    border-left-color: #0d6efd;
+}
+
+.callout.callout-success {
+    border-left-color: #198754;
+}
+
+.callout.callout-warning {
+    border-left-color: #ffc107;
+}
+
+.callout.callout-danger {
+    border-left-color: #dc3545;
+}
+
+.callout.callout-info {
+    border-left-color: #0dcaf0;
+}
+
+.callout.callout-purple {
+    border-left-color: #a016ff;
+}
+
+.text-purple {
+    color: #a016ff
+}
+
+:is(.callout, .alert) :is(h2, h3, h4, h5) {
+    padding-top: 0;
+}
+
+.lineup {  
+    border: 1px solid #978865;
+    display: flex;
+    width: 420px;
+    flex-flow: wrap;
+    padding: 6px;
+    background-color: #e7d099;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.lineup br {
+    width: 100%;
+}
+
+.lineup .imageholder {
+    position: relative;
+    width: 80px;
+    padding: 3px;
+}
+
+.lineup img {
+    max-width: 100%;
+    outline: 3px solid black;
+    outline-offset: -3px;
+}
+
+.lineup .imageholder .bottom-left {
+    padding: 0;
+    position: absolute;
+    bottom: -3px;
+    right: 7px;
+    paint-order: stroke fill;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    transform: scale(1, 0.85);
+    font-weight: 1000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 157);
+    font-size: 25px;
+}
