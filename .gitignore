@@ -1,0 +1,4 @@
+*.html
+.obsidian
+data/stylesheets
+data/script

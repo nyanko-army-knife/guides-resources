@@ -1,0 +1,99 @@
+Battle Cats Account Recovery Guide
+
+
+
+
+
+
+
+
+Battle Cats Account Recovery Guide
+==================================
+
+---
+
+
+Click to toggle dark theme
+
+##### Contents
+
+Show / Hide contents
+  
+  
+
+* [Finding your inquiry code](#step-1)
+* [Emailing PONOS](#step-2)
+* [Entering your transfer codes](#step-3)
+* [Credits](#credits)
+
+  
+
+### Step 1: Finding your inquiry code
+
+---
+
+Your inquiry code is absolutely necessary for PONOS to retrieve your save data. If you haven’t yet, write this
+down or screenshot it to make sure you can find it in case your save goes missing. The inquiry code is located
+[in the top left of the main menu screen](https://media.discordapp.net/attachments/693183674887438469/863850176086671380/inquiry-code.png).
+
+![Inquiry code image example](https://media.discordapp.net/attachments/693183674887438469/863850176086671380/inquiry-code.png)  
+  
+
+### Step 2: Emailing PONOS support
+
+---
+
+The next step is to request PONOS to recover your save. You will need to send an email to
+[support\_en@bc01.ponos.net](mailto:support_en@bc01.ponos.net) for the English version of the game.
+In this email, you should list your inquiry code, the time since you last logged in, and your estimated user
+rank and catfood amount. This will give PONOS support all the information they should need to recover your save.
+Once the email is sent, you should get a response within 1-4 business days. If you didn’t provide enough
+information, the support member may ask you to list your user rank and catfood amount. To avoid having to wait
+longer for a second response, it is recommended that you include all of the information possible in your first
+email.
+
+##### Additional version support
+
+* Battle Cats JP - [support\_jp@bc01.ponos.net](mailto:support_jp@bc01.ponos.net)
+* Battle Cats TW - [support\_tw@bc01.ponos.net](mailto:support_tw@bc01.ponos.net)
+* Battle Cats KR - [support\_ko@bc01.ponos.net](mailto:support_ko@bc01.ponos.net)
+
+### Step 3 - Entering your transfer codes
+
+---
+
+Once PONOS recovers your save data, they will send you
+[an email that looks like this](https://media.discordapp.net/attachments/693183674887438469/863852600780259328/unknown.png).
+  
+  
+![PONOS email image example](https://media.discordapp.net/attachments/693183674887438469/863852600780259328/unknown.png)  
+  
+Note the "Transfer Code" and "Confirmation Code" at the bottom. These codes are how you will return your save
+data to your Battle Cats app. Here is
+[a video](https://youtu.be/rGwj6KFrCTU)
+showing how codes can be entered into the Battle Cats app.  
+*Note: The video uses a fresh account as an example.*
+
+  
+
+Step-by-step guide:
+
+1. From the main menu, select Settings > Data Transfer
+2. Select "Resume Data Transfer"
+3. Type in your transfer and confirmation codes
+4. Select "Resume Transfer"
+5. Select "Return to Title Screen"
+6. The game will now load normally.
+
+**Note that because PONOS does not automatically back up game data, your progress may be slightly behind
+where you left off.** However, this usually will only set you back a day or two at most.
+In many cases, your game progress will not be affected at all.
+
+---
+
+### Credits
+
+---
+
+**totally\_anonymous**#0405 (original guide redaction)  
+**Waran-Ess**#9801 (web conversion)
