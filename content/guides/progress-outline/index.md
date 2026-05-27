@@ -1,6 +1,7 @@
 ---
 title: Progress Outline
 ---
+
 This document contains a rough division of parts of the game into Early, Mid, Late, End and Post game activities.
 
 Every player will have a different experience: do not expect this to apply equally to everyone. This is based on the rough difficulty of things if you do not have any broken ubers and play under normal conditions. If you have fest exclusives or use any kind of exploits, you can probably ignore this entirely. Things in each phase are not listed in the order you should complete them: instead, you should complete them in parallel, progressing more in each as you can, and feel like it, or when the content is available.
@@ -12,7 +13,7 @@ _"I just started the game and am learning the basics!"_
 During this phase, you should be aiming to:
 
 - Complete Empire of Cats, Chapters 1, 2 and 3: Unlock Bahamut Cat
-    - Obtain 100% treasures in each of these chapters
+  - Obtain 100% treasures in each of these chapters
 
 ## Early Game
 
@@ -21,7 +22,7 @@ _"Bahamut is my new best friend!"_
 During this phase, you should be aiming to:
 
 - Complete Into the Future, Chapters 1, 2 and 3: Unlock Awakened Bahamut
-    - Obtain 100% treasures in each of these chapters (+ Empire of Cats if you haven't already)
+  - Obtain 100% treasures in each of these chapters (+ Empire of Cats if you haven't already)
 - Clear all Zombie Outbreaks in EoC 1, 2 and 3
 - Complete Stories of Legend up to Subchapter 18: Unlock Ururun Wolf
 
@@ -70,7 +71,7 @@ _"Oh Sweet Summer Child, you thought Mid Game was hard?"_
 During this phase, you should be aiming to:
 
 - Cats of the Cosmos, Chapter 3
-	- Obtain 100% treasures in CotC 3
+  - Obtain 100% treasures in CotC 3
 - Clear all Zombie Outbreaks in CotC 1
 - Uncanny Legends up to around subchapter 21: Unlock Dogumaru and Urs & Fenrir
 
@@ -137,4 +138,4 @@ These boundaries will change a bit with time, so if something needs updating, yo
 
 **ThanksFëanor**#3087 (original guide redaction) \
 **Waran-Ess**#9801 (minor edits and web conversion) \
-**Xan**#9127 (revisionary edits) 
+**Xan**#9127 (revisionary edits)

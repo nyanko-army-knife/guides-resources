@@ -1,6 +1,7 @@
 ---
 title: Attack Timings
 ---
+
 ## Introduction
 
 Huge thanks to dkaf for writing the original document on attacks; this condensed version is mostly based on his work. I highly recommend you give it a read if you want to understand everything better, which you can do [at the almost everything about attacks guide](../almost-everything-about-attacks/index.md).
@@ -21,6 +22,7 @@ The proper attack cycle is:
 What is **Attack Cooldown?** It’s the time between the actual attack and the start of the next attack animation. In reality, backswing and TBA don’t dictate the attack cycle. Attack cooldown, on the other hand, is obeyed all the time. Backswing and TBA added together always have a value equal to or greater than the attack cooldown.
 
 This might be a bit complicated to understand at first; however, for most cat units, this is very simple. This guide will start by describing how the system works most of the time, then move on to special cases.
+
 ## How Most Units Attack
 
 We’ll use **Crazed Bahamut** as an example. Here are its stats:
@@ -40,9 +42,10 @@ Now for the actual steps of the attack cycle:
 
 Attack cooldown functions independently from backswing. This is why if you interrupt Bahamut during his backswing (or on the very frame damage is dealt), he will instantly go into TBA, skipping the rest of his backswing. Attack cooldown cannot be interrupted once it starts counting down, therefore the attack rate is unchanged even if Bahamut’s animation is interrupted early, as long as damage was dealt.
 
-This is also apparent when looking at the stats. $Foreswing + AttackCooldown = AttackRate$  ($121f + 479f = 600f$). Backswing is absent from the equation: as stated previously, backswing works independently from other stats and does not affect any in-game calculations.
+This is also apparent when looking at the stats. $Foreswing + AttackCooldown = AttackRate$ ($121f + 479f = 600f$). Backswing is absent from the equation: as stated previously, backswing works independently from other stats and does not affect any in-game calculations.
 
 This is how most units in the game attack: Bahamut, Eraser, Dragon, Amaterasu, etc. However, as with anything, there are exceptions.
+
 ## The Rebound Mechanic
 
 **Maglev Cat** will be our unit example for this next concept.
@@ -55,6 +58,7 @@ This is how most units in the game attack: Bahamut, Eraser, Dragon, Amaterasu, e
 Maglev is an easy example of a unit with what is generally referred to as a rebound mechanic. As you can see from its stats, Maglev has instant foreswing, substantial backswing and an attack cooldown of zero. As explained earlier, when a unit’s animation gets interrupted, it skips backswing and goes straight to the idling phase of the attack cycle, or TBA. However, since Maglev has no delay between its attacks, interrupting his backswing will instantly reset the cycle, and he will rush forward to attack again.
 
 In other words, Maglev’s backswing is longer than its attack cooldown, meaning that the latter does not dictate his attack rate under normal circumstances (but the former does); this makes it so his actual attack interval is variable.
+
 ## Multi-hit
 
 We’ll use **Iron Claw X** for this one.
@@ -90,7 +94,7 @@ Time between the frame on which the attack occurs and the frame on which the nex
 ## Thanks for reading!
 
 For a more complete terminology guide, make sure to check out [this document](../terminology/index.md).
- You can also read dkaf's original guide on attacks [here](almost-everything-about-attacks.html).
+You can also read dkaf's original guide on attacks [here](almost-everything-about-attacks.html).
 
 ## Credits
 

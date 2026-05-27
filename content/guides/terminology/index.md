@@ -1,8 +1,6 @@
----
 title: Battle Cats Terminology
----
 
-##### Disclaimer
+## Disclaimer
 
 Some of the information contained in this guide may not be accurate (specifically anything that is marked in red). If you are able to confirm the accuracy of these bits of information,
 please inform a Trusted+ user on the r/battlecats Discord.
@@ -55,9 +53,7 @@ Raising a cat unit to a very high level through the use of plus levels.
 
 A stage of Deadly difficulty where the player must fight a unique boss to obtain a Rare/Super Rare unit, called advent drop or advent cat. Examples include Realm of Carnage, No Plan A and Parade of the Dead.
 
-### Units
-
----
+## Units
 
 ##### Distance Units (DU)
 
@@ -67,7 +63,7 @@ Distance on the battlefield.
 
 ##### Hit Points (HP)
 
-Self explanatory. Every entity on the battlefield has hit points and dies when 0 is reached.
+Self explanatory. Every entity on the battlefield has hit points nd dies when 0 is reached.
 When one of the bases reaches 0 HP, you either lose or win and the stage is over.
 
 ##### Frame
@@ -75,8 +71,6 @@ When one of the bases reaches 0 HP, you either lose or win and the stage is over
 1/30th of a second. Battle Cats runs at 30 frames per second, also referred to as 30 fps. This is the smallest time interval possible, and is used when referring to precise timings, such as unit or enemy attack animations.
 
 ## Basic Stats
-
----
 
 ##### Movement Speed
 
@@ -100,9 +94,7 @@ A (usually visually represented) trait of an enemy that can give them certain ab
 
 **Also known as:** color, type
 
-#### Abilities
-
----
+### Abilities
 
 ##### Passive Targeting Abilities
 
@@ -123,8 +115,6 @@ Abilities the unit only applies when it hits an attack against a target trait
 
 Abilities the unit only applies when it hits an attack against any enemy (e.g [wave](#wave),
 [Critical hit](#critical-hit), [Barrier Breaker](#barrier-breaker), [ZKill](#zombie-killer), [double cash](#double-cash)).
-
----
 
 ##### Status Effects
 
@@ -158,8 +148,6 @@ The average damage per second a unit deals against a stationary enemy when unint
 
 ## Advanced Stats
 
----
-
 ##### Base Damage
 
 The damage the unit deals on a given attack hit without [abilities](#abilities).
@@ -182,9 +170,7 @@ HP against a specified target with respect to passive abilities.
 
 DPS with respect to abilities. Effective DPS can be influenced by Trait targeting abilities (e.g. Massive Damage, Strong Against, etc.) or general abilities (e.g. Critical Hit, Savage Blow, Wave, Surge). Effective DPS can also be influenced by accuracy (amount of attacks that actually hit their target), although accuracy can only be estimated and never reliably measured.
 
-#### Range
-
----
+### Range
 
 ##### Long Range / Long Distance / LD
 
@@ -256,9 +242,7 @@ Enemies that have a high standing range and stay behind the frontline; usually u
 
 ### Attack Timings
 
----
-
-For a more thorough explanation of attack timings, be sure to refer to [this document](attack-timings.html).
+For a more thorough explanation of attack timings, be sure to refer to [attack timings](../attack-timings/index.md).
 
 ##### Foreswing
 
@@ -285,8 +269,6 @@ Time between the frame on which the attack occurs and the frame on which the nex
 **Also known as:** attack interval
 
 ## Advanced Mechanics
-
----
 
 ##### Clipping
 
@@ -320,8 +302,6 @@ Very short displacement spanning (how many?) DU over 11f caused by the sniper ca
 **Also known as:** sniper knockback, cannon knockback
 
 ## Abilities
-
----
 
 ##### Uptime
 
@@ -486,8 +466,6 @@ Units with this ability will attack multiple times in one animation. This implie
 For more details on multi-hit timings, refer to [this](attack-timings.html#multihit).
 
 ### Credits
-
----
 
 **TheXientist**#7112 (compiling most of the terms and their definitions) \
 **Waran-Ess**#9801 (minor edits and web conversion)

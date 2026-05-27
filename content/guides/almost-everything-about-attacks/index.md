@@ -1,6 +1,7 @@
 ---
 title: Almost Everything about Attacks
 ---
+
 ## Disclaimer
 
 **This resource is several years old and does not represent current knowledge on the game.** This is most apparent in the section that covers movement speed.
@@ -95,7 +96,6 @@ We have **Omnistrike** as well. Borrowing from the concept from LD, Omnistrike i
 Omnistrike will always be Area Attack, but LD can be single target, and it will apply the rules of single target on what enemy it hits.
 
 ## Damage, Damage-Altering Abilities and DPS
-
 
 The **damage** a cat or enemy does is fixed at a base level. A cat's damage is decided by its lvl1 damage, and every level increases the damage by some percentage of the lvl1 damage. An enemy's damage is decided as a base stat. Enemies can be given strength magnifications to increase their damage proportionately.
 

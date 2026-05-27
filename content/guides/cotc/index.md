@@ -1,6 +1,7 @@
 ---
 title: Cats of the Cosmos
 ---
+
 ## Disclaimer
 
 This guide is an unofficial sequel to the [ItF guide](../itf/index.md). However, this guide does not cover Crazed/Manic units or SoL in detail, focusing on Cats of the Cosmos (CotC) only. It is recommended to read the ItF guide first if you haven't already, as it contains a good amount of useful information, namely treasure mechanics.
@@ -158,7 +159,7 @@ Be sure to check out [the ItF guide](../itf/index.md), as well as other links in
 ### Communities
 
 **[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)** \
-**[The subreddit's Discord server](https://discord.gg/battlecats)** 
+**[The subreddit's Discord server](https://discord.gg/battlecats)**
 
 ### Stats & Information
 
