@@ -2,140 +2,211 @@
 title: Progress Outline
 ---
 
-This document contains a rough division of parts of the game into Early, Mid, Late, End and Post game activities.
+**This page has a (very rough) division of the game’s progression phases. 
 
-Every player will have a different experience: do not expect this to apply equally to everyone. This is based on the rough difficulty of things if you do not have any broken ubers and play under normal conditions. If you have fest exclusives or use any kind of exploits, you can probably ignore this entirely. Things in each phase are not listed in the order you should complete them: instead, you should complete them in parallel, progressing more in each as you can, and feel like it, or when the content is available.
+**Note that all players will experience the game equally due to gacha RNG; do not expect this to apply equally to everyone. This is based on the rough difficulty of things if you do not have any extremely broken Ubers and play under normal conditions. If you use any kind of exploits or own Fest exclusives, you can essentially ignore this in its entirety. Things in phases are not listed in the order to be done; instead you should try to complete them in parallel, progressing more through each equally when you can or when you feel like it.**
 
 ## Tutorial
 
-_"I just started the game and am learning the basics!"_
+_"I just started the game! I need to learn the basics of playing!"_
 
-During this phase, you should be aiming to:
+During this phase, you should be aim to:
 
-- Complete Empire of Cats, Chapters 1, 2 and 3: Unlock Bahamut Cat
-  - Obtain 100% treasures in each of these chapters
+- Complete Empire of Cats Chapters 1-3
+ - Obtain all Superior treasures in each chapter
+- Start exploring early Stories of Legend 
+- Clear Catclaw Championships Ranks 1-4
+
+Alongside those, you should also:
+- Try to obtain your very first Crazed Cat
 
 ## Early Game
 
-_"Bahamut is my new best friend!"_
+_"So when do I get Courier?"_
 
-During this phase, you should be aiming to:
+During this phase, you should aim to:
 
-- Complete Into the Future, Chapters 1, 2 and 3: Unlock Awakened Bahamut
-  - Obtain 100% treasures in each of these chapters (+ Empire of Cats if you haven't already)
+- Complete Into the Future Chapters 1-3
+ - Obtain all Superior treasures in each subchapter
+- Clear up to Stories of Legend Chapter 18 and unlock Ururun Wolf as well as Enigma stages
 - Clear all Zombie Outbreaks in EoC 1, 2 and 3
-- Complete Stories of Legend up to Subchapter 18: Unlock Ururun Wolf
+- Clear Catclaw Championships Ranks 5-7, as well as clear Tests 1 and 2 of Rank 8
 
-Alongside this, you should be able to:
 
-- Collect the Crazed Cats
-- Defeat the Black, Red, White and Angel Cyclones
-- Unlock Normal Cat True Forms
-- Reach User Rank 1600+ to unlock Lv30 Cats and Gacha True Forms
-- Unlock the True Forms of Max priority Rare and Super Rare units
-- Progress up to around Floor 20 of Heavenly Tower
-- Begin to clear early Aku stages such as Empress Research 1
-- Clear Areas 1~4 of Behemoth Culling stages
+Alongside those, you should also:
 
-## Mid Game
+- Obtain all of the Crazed Cats
+- Defeat the Dark, Red, White, Divine, Metal, and Cosmic Cyclones
+- Tackle the Behemoth Culling stages up to Woodlands Area 4 / Badlands Area 2
+- Start to attempt early Aku stages such as Empress’s Research
+- Unlock your first Normal Cat True Forms
+- Start to clear Awakening Stages to unlock the Cat Food purchasable Special True Forms
+- Reach or approach 1600 User Rank to unlock level 30 units and Gacha True Forms
+- Obtain high priority Gacha True Forms
 
-_"How did I ever live without Awakened Bahamut and Crazed Cats?"_
 
-During this phase, you should be aiming to:
+## Early-Mid Game
 
-- Complete Cats of the Cosmos, Chapters 1 and 2
-  - Obtain 100% treasures in each of these chapters
-- Clear all Zombie Outbreaks in ITF 1, 2 and 3
-- Complete Stories of Legend up to Subchapter 49: Unlock various Legends
+_"So how are you supposed to beat Special Only stages?"_
 
-Alongside this, you should be able to:
+During this phase, you should aim to:
 
-- Defeat the Manic Stages to True Form your Crazed Cats
-- Start to obtain true forms of some Li’l Cats
-- Defeat the Cosmic, Super Cosmic, Zombie, Perfect and Metal and Aku Cyclones
-- Defeat most of the Deadly Advents
-- Start clearing some SoL 2-, 3-, and 4-crowns subchapters
-- Unlock the True Forms of High and Medium priority Rare and Super Rare units
-- Unlock talents for Top and High Priority non-Uber units
-- Hypermax Top and High Priority non-Uber units
-- Reach User Rank 3650+ to unlock Level 30 Crazed Cats
-- Progress up to around Floor 29 of Heavenly Tower
-- Begin to play The Aku Realms after clearing more Aku stages
-- Clear Areas 5~10 of Behemoth Culling stages
-- Start obtaining Behemoth Stones (and Ancient Eggs), as well as unlocking some Behemoth Slayer units' True Forms
+- Complete Cats of the Cosmos Chapters 1-2
+ - Obtain all Superior treasures in each chapter
+- Clear Valkyrie Cat’s Trial
+- Clear up to Stories of Legend Chapter 28 and unlock Li’l Nyandam as well as Red Riding Mina
+- Clear Catclaw Championships Rank 8, as well as clear Tests 1 and 2 of Rank 9
+- Clear all Zombie Outbreaks in Into the Future 1, 2, and 3
+- Unlock The Aku Realms and clear up to Mount Aku
+
+
+Alongside those, you should also:
+
+- Obtain all the Manic Cats
+- Unlock all True Forms for Cat Food purchasable Specials
+- Continue to go through Hidden Forest of Gapra and Ashvini Desert, as well as make progress into Jinfore Volcano
+- Defeat the Super Cosmic, Zombie, Perfect, and Aku Cyclones
+- Clear the Wrath and Revenge stages for the previous Cyclones and obtain the True Forms of their drop rewards
+- Begin to make your way through the Tier 1 Advents
+- Unlock most important Rare and Super Rare True Forms
+- Begin to unlock Uber True Forms
+- Obtain Talents for your most important Gacha units
+- Reach or approach 3650 User Rank to unlock level 30 Crazed Cats
+- Begin to attempt Empress’s Excavation and Empress’s Report
+- Begin to use Catseyes to get your most important units to level 40
+
+
+## Mid Game 
+
+_"First we Baha, then we Blast. Let's Baha Blast!"_
+
+During this phase, you should aim to:
+- Complete Cats of the Cosmos Chapters 3
+ - Obtain all Superior treasures 
+- Clear Bahamut Cat’s Trial
+- Clear Stories of Legend and An Ancient Curse
+- Clear Catclaw Championships Rank 9
+- Clear all Zombie Outbreaks in Cats of the Cosmos Chapter 1
+
+Alongside these, you should also:
+- Obtain all the Li’l Cats’s True Forms
+- Continue to go through all three Behemoth maps and unlock up to Ancient Egg: N106
+- Defeat the Primeval Cyclone
+- Clear the Wrath and Revenge stages for the previous Cyclones and obtain the True Forms of their drop rewards
+- Defeat Puffsley and start to make your way through the Tier 2 Advents as well as Prelude to Ruin
+- Obtain Slime Cat’s True Form
+- Unlock more Uber True Forms
+- Continue to obtain Talents, including Bahamut Cat’s Explosion
+- Begin to use Catseyes to get your most important units to level 50, and somewhat notable units to level 40
+- Defeat Filibuster Obstructa’s Invasion stage
+
+## Late-Mid Game
+
+_"But I thought I was already in lategame..."_
+
+During this phase, you should aim to:
+- Clear up to Uncanny Legends Chapter 21 and unlock Dogumaru as well as Urs & Fenrir, and unlock Hunter’s Map III
+- Clear Catclaw Championships Rank 10 and 11
+- Clear all Zombie Outbreaks in Cats of the Cosmos Chapter 2 
+- Clear The Aku Realms 
+- Clear 2 and 3 Crown SoL, and make progress into 4 Crown SoL
+
+Alongside those, you should also:
+
+- Continue to go through all three Behemoth maps and unlock up to Ancient Egg: N108
+- Clear the Wrath and Revenge stages for the previous Cyclone and obtaining its drop reward’s True Forms
+- Clear the Wrath and Revenge stage for most Tier 2 Advents
+- Begin to make your way through the Brutal Advents
+- Begin to attempt Abyssal Stages
+- Complete Li’l Cat’s Trial
+- Complete Empress’s Reports and clear up to Excavation 3
+- Continue to obtain Talents
+- Have most of your key units at level 50
+- Be able to make a serious attempt at clearing Legend Quest
+- Be able to clear the latest Colosseum on 2 Crown difficulty
+- Be able to clear the Heavenly Tower and up to Floor 40 of the Infernal Tower
+
+## Early-Late Game
+
+_"Give me liberty, give me fire. Give me Dark Catseyes or I retire."_
+
+During this phase, you should aim to:
+
+- Clear up to Uncanny Legend Chapter 43 and unlock Elder Mask Doron as well as Elder Beast Naala
+- Clear all Zombie Outbreaks in Cats of the Cosmos Chapter 3
+- Clear 4 Crown SoL and unlock Idi
+
+Alongside those, you should also:
+
+- Clear the Behemoth Culling maps
+- Continue to make your way through the Brutal Advents
+- Continue to clear Abyssal Stages
+- Clear Empress’s Excavation 4
+- Continue to obtain Talents
+- Begin to clear the Malevolant stages
+- Be able to clear Legend Quest
+- Obtain your first Ultra Form
+- Be able to clear Colossal Gauntlets
+- Be able to clear Floor 50 of the Infernal Tower
+
 
 ## Late Game
 
-_"Oh Sweet Summer Child, you thought Mid Game was hard?"_
+_"I can call myself qualified enough to make tierlists now!"_
 
-During this phase, you should be aiming to:
+During this phase, you should aim to:
 
-- Cats of the Cosmos, Chapter 3
-  - Obtain 100% treasures in CotC 3
-- Clear all Zombie Outbreaks in CotC 1
-- Uncanny Legends up to around subchapter 21: Unlock Dogumaru and Urs & Fenrir
+- Clear Uncanny Legends and obtain Great Ape Luza
+- Clear A Whole New World
+- Begin to make your way through Crowned UL
+- Clear Catclaw Championships Rank 12
 
-Alongside this, you should be able to:
+Alongside those, you should also:
 
-- Complete your collection of Manic and Li’l True Forms
-- Defeat the Relic Cyclone
-- Complete Growing Strange and getting the important Elder Catfruit True Forms
-- Complete Deadly Advent Wrath and Revenge Stages
-- Begin doing Merciless Advent Stages
-- Complete 2- and 3- crowns SoL, and making good headway into 4-crowns
-- Unlock some talents for Medium priority non-Uber units, along with Top and High priority Ubers (if any)
-- Ultramax Top, High and Medium priority non-Uber units
-- Progress up to around Floor 40 of Heavenly Tower
-- Possibly complete Legend Quest (starting with many stars)
-- Challenge but perhaps not complete the Baron (aka Gauntlet) Stages
-- Complete The Aku Realms and defeat Jagando
-- Clear the highest current Area of Behemoth Culling stages
-- Unlock most important Behemoth Slayer True Forms
+- Clear Empress’s Excavation 5
+- Clear the Malevolant stages and try Clan of the Malevolants
+- Clear the other Abyssal stages
+- Obtain Idi’s True Form
+- Clear Filibuster’s Zombie Invasion
+
 
 ## End Game
 
-_"When will Ponos release new content?"_
+_"Only a few more days until datamine drops..."_
 
-During this phase, you should be aiming to:
+During this phase, you should aim to:
 
-- Complete Uncanny Legends up to Subchapter 49: Unlock various Legends
+- Clear Zero Legends Chapter 31 and unlock Master of Mind Soractes, Master of Logic Newton, and Master of Evolution Darvin
+- Clear 2-4 Crown UL and unlock Dr. Nova
 
-Alongside this, you should be able to:
+Alongside those, you should also:
 
-- Finish 4-crowns SoL and obtain Idi
-- Start clearing some UL 2-, 3-, and 4-crowns subchapters
-- Complete most new content as it arrives (Merciless Advent Wrath/Revenge, etc)
-- Reach User Rank 9999 for +90 Normal Cats
-- Unlock talents for all Medium Priority non-Uber units, and some Medium Priority Ubers
-- Ultramax all Low priority and up non-Uber units
-- Progress up to Floor 50 of Heavenly Tower and Floor 40 of Infernal Tower
-- Complete Legend Quest comfortably (starting with near-max crowns)
-- Comfortably reach at least 10% Rank in Dojos
-- Make a serious attempt at finishing Baron Stages
-- Complete Mining Epic and unlocking the important Epic Behemoth Stone True Forms
+- Unlock True Forms for most Ancient eggs
+- Unlock further Uber Talents, including Ultra Talents if you so choose to
+- Clear all Brutal Advents
+
 
 ## Post Game
 
-_"Why am I still playing?"_
+_"No stage too stale, no magnificarion to high, no will to continue, no voice to cry criticy. Born of behemoth stone and baron, you shall play the stages where the light doesn't shine. You are the only player. You are the Angry Bird."_
 
-During this phase, you should be aiming to:
+During this phase, you should aim to:
 
-- Complete Zero Legends up to the most recently released subchapter
-- Complete Uncanny Legends at every current difficulty
+- Clear whatever content is added to the game on release
 
-Alongside this, you should be able to:
+Alongside that, you should also:
 
-- Beat the Baron Stage to farm Talent Orbs from their continuation stages
-- Clear whatever stage on release
-- Reach User Rank 15000 for 20+80 Superfeline and unlocking Superfeline's True Form
-- Reach at least around Floor 75 / 5% rank in Labyrinths
-
+- Be able to clear the Underground Labyrinth
 ## Thanks for reading!
 
-These boundaries will change a bit with time, so if something needs updating, you think something should be added or moved, or you otherwise vastly disagree with the content, you may contact @ThanksFëanor#3087 on the r/battlecats Discord server.
+These boundaries will change as more content is added, so if something needs updating, you think something should be added or moved, or you otherwise vastly disagree with the content, you may contact @goomister29 on the r/battlecats Discord server.
 
 ## Credits
 
-**ThanksFëanor**#3087 (original guide redaction) \
-**Waran-Ess**#9801 (minor edits and web conversion) \
-**Xan**#9127 (revisionary edits)
+**thanksfeanor** (original guide redaction) \
+**waran.ess** (minor edits and web conversion) \
+**xanthopathy** (revisionary edits) \
+**lee_jinger_zhred** (updates) \
+**goomister29** (updates and proofreading)
+
+
