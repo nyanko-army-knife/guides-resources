@@ -218,15 +218,15 @@
     - term: Uptime
       definition: The duration of a unit’s [status effect](#status-effect) ability relative to its attack rate. For example, if a unit attacks every 10 seconds and slows enemies for 5 seconds, its ability uptime is 50%.
     - term: Massive Damage
-      definition: Deals 3× ~ 4× damage against the [target enemy type](#trait), depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+      definition: Deals 3× ~ 4× damage against the [target enemy type](#trait), depending on treasures. Treasures don't exist for White, Relic, Aku, and all event traits. Exclusive to cat units.
     - term: Insane Damage
-      definition: Deals 5× ~ 6× damage against the target enemy type, depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+      definition: Deals 5× ~ 6× damage against the target enemy type, depending on treasures. Treasures don't exist for White, Relic, Aku, and all event traits. Exclusive to cat units.
     - term: Strong Against
-      definition: Takes 0.5× ~ 0.4× damage and deals 1.5× ~ 1.8× damage against the target trait, depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+      definition: Takes 0.5× ~ 0.4× damage and deals 1.5× ~ 1.8× damage against the target trait, depending on treasures. Treasures don't exist for White, Relic, Aku, and all event traits. Exclusive to cat units.
     - term: Resistant
-      definition: Takes 1/4th or 1/5th damage from target type depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+      definition: Takes 1/4th or 1/5th damage from target type depending on treasures. Treasures don't exist for White, Relic, Aku, and all event traits. Exclusive to cat units.
     - term: Insanely Tough
-      definition: Takes 1/6th or 1/7th damage from target type depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+      definition: Takes 1/6th or 1/7th damage from target type depending on treasures. Treasures don't exist for White, Relic, Aku, and all event traits. Exclusive to cat units.
     - term: Slow
       definition: Reduces an enemy's movement speed to 0.5 for a specified amount of time.
     - term: Freeze
