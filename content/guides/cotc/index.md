@@ -102,6 +102,7 @@ Also, beating CotC 3 allows you to actually try to beat Bahamut Cat's Trial. Bah
 * Last Round: Dusk (Merciless) (one of the possible Proving Grounds stages, which gives two random Catseyes)
 * Rank-Up Test 3 (Rank 9) (a Catclaw Championship stage that gives 5 Rare Tickets, but more importantly unlocks the harder Ranks, which drop Dark Catseyes)
 * Floor 43 (a Heavenly Tower floor that gates you from fighting Master Uril, a solid anti-Relic CC unit)
+
 And lots more stages! Simply put, don't delay CotC. 
 
 ## SoL Mythic Cats
@@ -115,7 +116,7 @@ There are five Mythics you can obtain from doing SoL: Ururun, Li'l Nyandam, Mina
 
 By the time you do CotC, you should have or should be thinking about obtaining the True Forms of your Crazed Cats. They're all balanced around True Forms of gacha units and Ururun, and for some of them you might want to consider Talents as well. Here's a quick summary of each stage.
 
-* **Manic Mohawk (Deathhawk)**: Similar to the Crazed Cat stage, but now has a Master A as well as stronger peons. Try to get Cyberpunk Cat for this one. Methods of LD like Mina, Housewife Cat, and Medalist are also invaluable to hit the Master A reliably. 
+- **Manic Mohawk (Deathhawk)**: Similar to the Crazed Cat stage, but now has a Master A as well as stronger peons. Try to get Cyberpunk Cat for this one. Methods of LD like Mina, Housewife Cat, and Medalist are also invaluable to hit the Master A reliably. 
 - **Manic Eraser (Vulcanizer)**: Endurance stage, again. Have five meatshields for this stage, as well as Cyberpunk and Ururun. Spammable midrangers like Luxury Bath, Pizza, or the Dragons also help a ton here. Again, it's not extremely difficult, but the amount of health on Manic Eraser will take a while to whittle down. 
 - **Manic Dark (Unjust War)**: By far the hardest Manic stage. Manic Dark's Freeze is much stronger this time, and there's still hordes of dangerous Red enemies including a Nyandam in the back and a J.K. Bun Bun which is extremely dangerous. Do this one last. 
 - **Manic Macho Legs (Muscle Party)**: Octopus deletes this entire stage. If you don't have Octopus, stack up midrangers like Pizza and Courier and don't meatshield. 
@@ -228,8 +229,8 @@ Still hungry for more help? Check the following section below.
 **[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)** \
 **[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)** \
 **[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)** \
-**[ee82](https://www.youtube.com/channel/UCBQGAk7rTAiroJ17nJo7hiw)**
-**[goomister29]([goomister - YouTube](https://www.youtube.com/@goomister29))
+**[ee82](https://www.youtube.com/channel/UCBQGAk7rTAiroJ17nJo7hiw)** \
+**[goomister](https://www.youtube.com/@goomister29)** \
 ### Credits
 
 **goomister29** (original guide creation)
