@@ -5,8 +5,8 @@ You can find the old ones online [here](https://thanksfeanor.pythonanywhere.com/
 
 ### Current roadmap
 
-The project is considered complete.
+The project is considered incomplete.
 
 #### Contact
 
-If you have a feature suggestion/request, find a problem with the existing pages (e.g. typos) or want to contribute to this project, you can contact a Trusted+ user on the r/battlecats Discord server. Alternatively, you can contact @ThanksFëanor#3087 directly.
+Contact @draconacht on Discord for issues regarding the website, and contact @goomister29 on Discord for issues regarding information within the guides itself. 
