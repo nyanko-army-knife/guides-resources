@@ -41,7 +41,7 @@ Your second priority is to save your valuable units for as long as possible. Com
 
 Your third priority, which becomes more prevalent the more units you have and the further you aim to go, is to get rid of all the bad units and units which require heavy support early on. Even by Labyrinth standards, many units are extremely weak. Be these collabs, seasonal, or monthly units, these units are what you want to be bulking your lineup with. This also applies to units that would require heavy support to function, like Filibuster, since Labyrinth's format means that you might not always have the units to make them work. As a side note, Ubers are a rarity that you'll end up with a huge amount of compared to other rarities, so you should try to thin out your Uber collection sooner rather than later. 
 
-![labyrinthguide](labyrinthguide.png)
+![labyguide](labyguide.png)
 
 ## Credits
 
