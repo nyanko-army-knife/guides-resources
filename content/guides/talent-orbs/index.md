@@ -1,4 +1,6 @@
-**
+---
+title: Talent Orbs Guide
+---
 
 ## What are Talent Orbs?
 
@@ -86,32 +88,32 @@ Once you max out the orbs in Top Priority, these are the next Orbs you'll want t
 
 * **Production Cost Down:** Decreases the cost of every 2nd unit. This is a strictly worse Cash Back, but it is much better than most of the orbs below it. You can interchange this with Cash Back, however, since their effects are almost essentially the same. Notably, units with Survive are a bit better running Cost Down because their Survive will prevent them from dying easily compared to units like Riceball. In particular, Ultra Kasa Jizo benefits from this Orb greatly, due to his high survivability, spammability, and guaranteed Survive. 
 * **Single Surge Counter**: Every 2nd unit creates a Counter-Surge the first time it is hit by a Surge Attack.The high reliance on levels for this Orb and its case scenarios is extremely limited, but it allows you to practically demolish any Surge Base stage as well as hit extremely hard on Surge-based stages. This is still the best orb for units like Can Can and Balrog though, given how the other orbs aren’t all too useful for them.
-## Starred UL Only
+### Starred UL Only
 
 I think you can understand what this Orb is supposed to be for.
 
 * **Boost Uncanny Legends**: Increases the unit’s health and damage in Uncanny Legends. Equipping this Orb on any competent unit like Awakened Bahamut will allow you to tear through Starred UL quickly and incredibly easily. However, once you fully clear UL this Orb is completely useless except for if you want to do weird challenge runs for whatever reason. Especially with the high amount of powercreep UL has received through free units like Bahamut, Nova, and Newton, you should have enough powerful Ubers if you are able to do well on these Dojos to beat UL without much issue. However, this Orb is an option if you're ever truly stuck.
 
-## Niche
+### Niche
 
 These Orbs have little application and are mainly for fringe cases.
 
 * **Dodge Attack (All)**: Grants every 2nd unit a chance to Dodge all attacks. Given how unreliable and short the Dodge is, your best application for this Orb is probably a Talented Li’l Eraser for Oldstrich, who attacks very fast. On anything else, you would rather want an actual Orb instead. 
 
-## Hyperniche 
+### Hyperniche 
 
 Just skip these Orbs unless you want to prepare for a very specific interaction.
 
 * **Mini-Deathsurge**: Grants every 2nd unit a level 1 Mini-Deathsurge that triggers when it dies. The Death Surge itself spawns really close at a set range, meaning that it'll miss very often and almost never get value for damage. However, the Mini-Deathsurge does carry CCs from the original unit, so units like Gato Amigo and Ultra Kaguya can get some value. At best, I would recommend getting a D orb for Kaguya/Gato Amigo if the Dojo selection is particularly poor, and then never bother with this one again, since all levelling up this Orb does is increase its damage.
 
-## Uber Dependant
+### Uber Dependant
 
 Only obtain and level these Orbs up if you want specific case scenarios covered. 
 
 * **Resist Waves**: Reduces Wave damage. With a S-rank Resist Waves Orb and an Uber with Resist Waves, you can get a fully Wave Immune unit. For example, you can make units like Jiangshi or Balrog Wave Immune. However, you may want to consider obtaining something else instead if you don’t care much about Wave stages. You also need an S orb for a full immunity which takes an awful lot of time, and even if the 95% damage reduction from Waves appeals to you (from an A Orb + the Wave Resist Talent on the unit being maxed out + a level 20 Iron Wall Style), it's still a lot of investment to make one unit effectively immortal against Waves.
 * **Resist Surge**: Reduces Surge damage. The main unit you would want to consider for this one would be Ultra Kasa Jizo. However, the same flaws with Wave Resist also apply here. 
 
-## Garbage
+### Garbage
 
 Don't get these Orbs.
 
