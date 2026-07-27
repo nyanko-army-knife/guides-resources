@@ -138,5 +138,5 @@ Don't get these Orbs.
 
 # Credits
 
-**goomister29** - Writer
+**goomister29** - Writer \
 **lee_jinger_zhred**, **axiomsl5** - Proofreaders
