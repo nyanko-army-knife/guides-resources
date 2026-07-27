@@ -45,8 +45,8 @@ Your third priority, which becomes more prevalent the more units you have and th
 
 ## Credits
 
-**lanxcapo** (original guide creation)
-**??????** (Labyrinth loss chart creation)
-**hungerybalgor** (Labyrinth guide image creation)
+**lanxcapo** (original guide creation) \
+**??????** (Labyrinth loss chart creation) \
+**hungerybalgor** (Labyrinth guide image creation) \
 **goomister29** (updates and web conversion)
 
