@@ -1,51 +1,46 @@
----
-title: Aku Realms
----
 
 ## Introduction
 
-In v10.8, Ponos added the Aku Realms and its related content to the game. It acts as a bonus chapter for Empire of Cats, with the Aku Altar as its primary gimmick. Much like zombie outbreaks, stages in the Aku Realms also show up at random and refresh after a fixed three-hour window. The “Aku” enemy trait was officially introduced to the player, and was featured as the main obstacle in the Aku Realms.
+In Version 10.8, PONOS added the Aku Realms and its related content to the game. It acts as a bonus chapter for Empire of Cats, with the Aku Altar as its primary gimmick. Much like Zombie Outbreaks, stages in the Aku Realms also show up at random and refresh after a fixed three-hour window. The “Aku” enemy trait was also officially introduced into the game, and is featured as the main obstacle in the Aku Realms.
 
-## What is "Aku Altar"?
+## What is the "Aku Altar"?
 
-The Aku Altar is a specific kind of animated base, most often found in Aku-infested stages. If the Aku Altar is featured in a stage, a restriction is put on the level for all units. The level of your units are capped at the level of the Aku Altar Seal (Plus levels are disabled). For example, if the current Aku Altar Seal level is 10, your lv20 Crazed Tank and lv30+2 Ramen Cat will both only have lv10 stats for the stage. Your lv8 Crazed Cat’s stats will remain lv8.
+The Aku Altar is a specific kind of animated base, most often found in Aku-dominated stages. If the Aku Altar is featured in a stage, a restriction is put on the level for all units. The level of your units are capped at the level of the Aku Altar Seal, with all plus levels being suppressed. For example, if the current Aku Altar Seal level is 10, your level 20 Crazed Tank and level 30+2 Ramen Cat will both only have their effective level 10 stats for the stage. The Altar only caps levels, so a level 8 Crazed Lizard will keep its level 8 stats.
 
-Aku Alter Seal level always starts at 1\. The only way to reverse the effect of the seal, is to progress the Aku Realms. Each stage clear will lift the seal level by 1\. Only after conquering the entire chapter will the Aku Altar be fully disabled.
-
+The Aku Altar's Seal level always starts at 1. The only way to reverse the effect of the seal is to progress through the Aku Realms. Every unique stage cleared will increase the seal's level by 1. After clearing all of the Aku Realms, the Aku Altar will be disabled across all stages.
 
 ![aku_altar](aku_altar.png)
-_*Example of a stage featuring an active Aku Altar_
-## How to Access
+_*Example of a stage featuring an active Aku Altar_.
 
-To gain access to the Aku Realms, you must first clear the three maps from the Empress Research mission: **Arcane Confluence**, **Servant of Darkness**, **Demon’s Park**. They only show up during specific time periods of the day and week. You can only do one stage of each map per day. Upon clearing the aforementioned three maps, **Wicked Cat**, **Wicked Tank**, and **Wicked Axe** will be unlocked respectively.
+## Accessing the Aku Realms
 
-|                                 |                                                                                                                     |
-| :------------------------------ | :------------------------------------------------------------------------------------------------------------------ |
-| Arcane Confluence/Wicked Cat    | Monday, Friday: 08:00\~10:00 Tuesday, Saturday: 12:00\~14:00 Wednesday, Sunday: 19:00\~21:00 Thursday: 22:00\~24:00 |
-| Servant of Darkness/Wicked Tank | Monday, Friday: 12:00\~14:00 Tuesday, Saturday: 19:00\~21:00 Wednesday, Sunday: 22:00\~24:00 Thursday: 08:00\~10:00 |
-| Demon’s Park/Wicked Axe         | Monday, Friday: 19:00\~21:00 Tuesday, Saturday: 22:00\~24:00 Wednesday, Sunday: 08:00\~10:00 Thursday: 12:00\~14:00 |
+To gain access to the Aku Realms, you must first clear the three maps from the Empress Research's mission: **Arcane Confluence**, **Servant of Darkness**, and **Demon’s Park**. They only show up during specific time periods of the day and week. You can only do one stage of each map per day. Upon clearing the aforementioned three maps, **Wicked Cat**, **Wicked Tank**, and **Wicked Axe** will be unlocked respectively.
 
-\*These maps cannot be replayed after the first clear
+|                                 |                                                                                                                              |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
+| Arcane Confluence/Wicked Cat    | Monday, Friday: 08:00\~10:00<br>Tuesday, Saturday: 12:00\~14:00<br>Wednesday, Sunday: 19:00\~21:00<br>Thursday: 22:00\~24:00 |
+| Servant of Darkness/Wicked Tank | Monday, Friday: 12:00\~14:00<br>Tuesday, Saturday: 19:00\~21:00<br>Wednesday, Sunday: 22:00\~24:00<br>Thursday: 08:00\~10:00 |
+| Demon’s Park/Wicked Axe         | Monday, Friday: 19:00\~21:00<br>Tuesday, Saturday: 22:00\~24:00<br>Wednesday, Sunday: 08:00\~10:00<br>Thursday: 12:00\~14:00 |
 
-Once you have cleared all three of the wicked cat maps, the final map Unleashing the Cats shows up. There is no time limit and it will disappear after the first clear as well.
+All of these maps cannot be replayed once completed. 
 
-Doing all of this will yield you 300 catfood total from missions (excluding the 30 catfood you get for clearing each map), and more importantly, grant you access to the Aku Realms.
+Once you have cleared all three of the Wicked Cat maps, the final map, Unleashing the Cats, will appear. There is no time limit for this map, and it will disappear once completed.
+
+Doing all of this will yield you 300 Cat Food total from missions (excluding the 30 Cat Food you get for clearing each map), and more importantly, grant you access to the Aku Realms.
 
 ## The Benefits
 
-So why should you care about the Aku Realms?
-
 ### Benefits for Unlocking Aku Realms
 
-First of all, alongside Aku Realms, you also gain access to the **Empress’ Report** and the **Empress’ Excavation** missions. The former rewards you with battle items, Catamins, Legend Catseyes, Aku Fruit Seeds, and Platinum Shards for completion. The latter rewards you with various Ancient Eggs.
+First of all, alongside Aku Realms, you also gain access to the **Empress’ Report** and the **Empress’ Excavation** missions. The former rewards you with battle items, Catamins, Legend Catseyes, Aku Catfruit Seeds, and Platinum Shards for completion. The latter rewards you with various Ancient Eggs.
 
 The eggs you get from Empress’ Excavation include N001 (Haniwa Cat), N003 (Cat Cactus), N004 (Supercar Cat), N005 (Hitman Cat), and N006 (Fallen Bear Cat).
 
 ![egg_units](egg_units.png)
 
-Additionally, **Growing Evil** and **XP Bonanza\!** will be unlocked. Growing Evil is the primary map for Aku fruit farming whereas XP Bonanza is currently the most efficient XP farming map in the game. However, both of these maps feature the Aku Altar. It is advised to tackle these stages only after you have progressed a decent amount of the main Aku Realms.
+Additionally, **Growing Evil** and **XP Bonanza\!** will be unlocked. Growing Evil is the primary map for Aku Catfruit farming, whereas XP Bonanza is currently the most efficient XP farming map in the game. However, both of these maps feature the Aku Altar. It is advised to tackle these stages only after you have progressed a decent amount of the main Aku Realms.
 
-Moreover, the Uncanny Legend sub-chapter **Imminent Disaster** requires the players to have completed Unleashing the Cats. In other words, unlocking Aku Realms is **mandatory** for the progression of the game.
+Moreover, the Uncanny Legend sub-chapter **Imminent Disaster** requires the players to have completed Unleashing the Cats. In other words, unlocking Aku Realms is **mandatory** for progressing the game.
 
 ### Benefits for Progressing and Completing Aku Realms
 
@@ -57,44 +52,50 @@ Several challenging stages become much more manageable for the players once the 
 
 ### When Should You Progress the Aku Realms?
 
-A player is free to start doing the content of Aku Realms whenever they obtain access to it. Averagely speaking, you should have beaten Into the Future Ch1&2 and acquired some crazed cats by the time you undertake the first stage of Aku Realms.
+A player is free to start doing the content of Aku Realms whenever they obtain access to it. Averagely speaking, you should have beaten Into the Future chapters 1 and 2 and acquired some Crazed Cats by the time you undertake the first stage of Aku Realms.
 
-Do the stages from time to time, just like how you do zombie outbreaks. If a stage poses too much of a threat for you, do other stages to raise the seal level first; If even higher seal level doesn’t help, get the mandatory treasures or units.
+Do the stages from time to time, just like how you do Zombie Outbreaks. If a stage poses too much of a threat for you, do other stages to raise the seal level first; If even having a higher seal level doesn't help out, get more Treasures or just stronger units.
 
-As for the final stretch of Aku Realms, you should have beaten Cats of the Cosmos. Late Sol\~Early UL is the desired time period for finishing Aku Realms.
-
+For the final stretch of the Aku Realms, you should have Cats of the Cosmos fully completed. The final stages of the Aku Realms are balanced around late SoL or early UL level units. 
 ### Preparation and Units
 
-The first 30 or so stages remain relatively low-stake in terms of difficulty. The following units/things are highly recommended if you want to go through these stages effortlessly:
+The first 30 or so stages are pretty low in difficulty if you have prepared well. The following things are recommended to be completed in order to minimize the amount of trouble you have with the Aku Realms early on.
 
-- 100% Empire of Cats & Into the Future treasures
-- Awakened Bahamut Cat
-- Ururun Wolf, and Courier Cat
-- Most or all of the Crazed cats
-- Max/High priority True Forms of gacha rares & super rares (Cameraman, Ramen, Catasaurus, Can can, Pizza, Seafarer, Octopus, Fishman, etc)
-- Bomber Cat
+- Having all Superior Treasures from all EoC and ItF chapters
+- Clearing ItF 3 and unlocking Talents and Awakened Bahamut
+- Clearing SoL 18 to unlock access to Ururun Wolf
+- Courier Cat
+- Most or all of the Crazed Cats
+- True Forms of your most important gacha Rares and Super Rares, like Cameraman, Ramen, Catasaurus, Can Can, Pizza, Seafarer, Octopus, and Fishman
+- Bombercat
 
-Starting from Mount Aku, the difficulty begins to pick up. The following units/things are highly recommended if you wish to confront the new challenge:
+Starting from Mount Aku, the difficulty begins to pick up. You should have these obtained or completed by the time you defeat Mount Aku.
 
-- Cats of the Cosmos chapter 1 & 2 treasures
-- Most or all of Manic cats
-- Cyclone units (Waitress, Catyphoon, etc)
-- Aku Researcher
-- Advent units (Maglev, Slime, etc)
-- All Cat cannons except Curseblast (mostly Holyblast and Breakerblast)
+- Treasures from CotC 1 and 2
+- Most or all of the Manic Cats
+- High priority Talents (Can Can Money Up + Speed, Pizza Wave, Housewife Savage Blow, etc)
+- The more difficult Cyclone units obtained (Waitress, Hurricat)
+- Aku Researcher, from The Great Diablo
+- Some Advent units (Maglev, Zamboney, Slime, etc)
+- All Cat Cannons up to Breakerblast unlocked
 
-The final few stages, including Jagando Invasion, are easily the hardest Aku Realms have to offer. The following units/things are highly recommended if you want to put an end to High Priest Mamon’s reign once in for all:
+The final few stages, including Mount Aku's Invasion, are easily the hardest stages The Aku Realms have to offer. The following units/things are highly recommended if you want to put an end to High Priest Mamon’s reign once in for all:
 
-- 100% Cats of the Cosmos treasures
-- Max/High priority Talents (Bahamut explosion, Can can double bounty & speed, Catasaurus critical hit, Pizza wave attack, Housewife savage blow, etc)
-- Cat Researcher
-- True Form of Advent units (Bullet train, Jelly Dumpling, Macho Crystal, etc)
-- Boulder Cat (Metal Macho can serve as a Pre-UL alternative)
+- Treasures from CotC 3
+- Your most important units boosted to 40 (Can Can, Slime, Ubers, etc)
+- Cat Researcher (not necessary for Aku Realms completion, but makes dealing with the hardest stages significantly easier without good Shield Piercing Ubers)
+- True Forms of the Advent units (Bullet Train, Jelly Dumpling, Macho Crystal Cat, etc)
+- Boulder Cat (Metal Cat is a suitable alternative if you have not completed SoL yet)
 
 ### What You _Don’t_ Need
 
-- Anti-Aku Ubers: Most players’ first perception about Aku enemies is that they are tough, late-game enemies. “To even have a fighting chance you need at least one anti-Aku Uber rare.” This is not true. While the Aku enemies can be tough, they are no more than what a standard player can handle. You’ll be fine with just your generalist units for the most part.
-- Specialized Anti-Aku Meatshield: Similarly, players might believe only specialized anti-Aku meatshields can deal with the pushing power of Aku enemies. You don’t need to spend your precious resources on Bellydancer talents or Cactus, nor do you need to rush Invasion of the Swamplord early on for Maize cat. Your regular meatshields, and Boulder for the last few stages, are more than viable to stall the enemies in Aku Realms.
-- Additional Shield Piercers: Aku enemies are fearsome for their tough, durable shields. Even more dreadful if they regenerate. Because of this, many players make hasty decisions to spend hefty resources on extra shield piercers that they don’t need. Li’l Macho Leg talents, Barrel, Supercar, to name a few. In practice, most of the Aku shields can be bruteforced, or reasonably only require Aku researcher as the sole shield piercer.
-- Surge Immune Units: Aku enemies are often associated with heavy surge spam stages. However, surges that appear in Aku Realms are quite scarce. Surge immune units are hardly ever mandatory for these stages.
-- Plus Level Boosts: Remember, Aku Altar disables plus levels. Your normal cats only have lv20 stats at best.
+- Anti-Aku Ubers: Most players’ first perception about Aku enemies is that they are tough, late-game enemies. You may think you need some kind of anti-Aku Uber to do The Aku Realms, when in fact you really don't. They can be tough, but are no more difficult than what the game expects you to have. For the most part, generalist units will work fine.
+- Specialized Anti-Aku meatshields: Similarly, you may think that you need specialized anti-Aku meatshields to help stall Akus. You do not need units like Bellydancer's Target Aku, Cactus Cat, or Maize Cat, given that the Manic meatshields can stall them fine. (Although you'll want Boulder for the last few stages.)
+- More Shield Piercers: Some of the more notable Aku enemies, like Fallen Bear, Le'Behemoth, or Jagando himself have gigantic Aku Shields. Because of this, many players make the decision to get units like Shield Piercing on Li'l Macho Legs, or get lategame options like Barrel Cat or Supercar to deal with the Aku Realms. In practice, many Aku Shields are able to be brute forced, and for the most difficult stages Aku Research is all you really need, although he can be frustrating to use without his True Form. 
+- Surge Immune units: Akus are often associated with Surge spam stages. However, there are very little Surge spam stages present within The Aku Realms, and what stages exist are able to be brute forced. 
+- Additional plus level boosts: Remember that The Aku Altar disables plus levels on your units, so your Normal Cats will be stuck with level 20 units, effectively making them useless. 
+
+## Credits
+
+**lee_jinger_zhred** (original guide creation) \
+**goomister29** (proofreading)
