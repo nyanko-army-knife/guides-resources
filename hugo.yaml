@@ -39,6 +39,9 @@ menu:
       weight: 2
 
 params:
+  meta:
+    favicon: false
+
   navbar:
     displayTitle: true
     displayLogo: false
