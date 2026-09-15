@@ -142,20 +142,22 @@ Random Catseyes can be Legend Catseyes. There are up to 23 Legend Catseyes you c
 
 Because Legend Quest is so random, you can't afford to be sloppy when making your lineups. Take the time to make proper teams, even on the earlier stages; if you get 9 level 1 units and one 75¢ meatshield, you could easily lose to a weak Bun Bun or Master A, even with a full wallet. Of course, you usually win on the 2nd attempt, but early defeats still use up unnecessary Crowns. With good lineups and decent luck, you can often get as far as level 20 without a single loss.
 
-Now, how do you build a lineup in the first place ? An important point is bringing as many **true counters** as possible. If we use No More Bad Dreams as an example, you could bring the following units:
+**Pick many true counters:** As many as possible. If we use No More Bad Dreams as an example, you could bring the following units:
 
 - Li’l Eraser, who can cheese the stage
 - Other meatshields (at least 3 more)
 - Cyberpunk or any other potent LD, who can be stacked very easily in the startoff
 - Sanzo / Doctor / Cameraman, as they can work well on their own and/or with a limited number of meatshields.
 
-You should take care to avoid units like Ururun or Ultima Galaxy Cosmo, as they need a lot of support that you may not have. Ubers able to stall the enemies or nuke them quickly, such as Kai, Mitama, or Jeanne, are good to bring, however. Also remember to run the correct Cat Cannon for the stage, as it can make a huge difference. Not much point going into a full Zombie stage and not running Holy Blast, for example. 
+You should take care to avoid units like Ururun or Ultima Galaxy Cosmo, as they need a lot of support that you may not have. Ubers able to stall the enemies or nuke them quickly, such as Kai, Mitama, or Jeanne, are good to bring, however. Also remember to run the correct Cat Cannon for the stage, as it can make a huge difference. Not much point going into a full Zombie stage and not running Holy Blast, for example.
 
-Another important thing to remember is **knowing the stage** Make sure to know not only the enemies (which the game gives you anyways), but also their spawn times, magnifications, and in general a sense of how the stage plays out. Knowing a basic strategy will save you quite a number of Crowns. 
+**Know the stage:** Make sure to know not only the enemies (which the game gives you anyways), but also their spawn times, magnifications, and in general a sense of how the stage plays out. Knowing a basic strategy will save you quite a number of Crowns.
 
-The next step is **making the most of what you get**. Immediately when you enter a stage, pause the game and check your units. Try to figure out what got swapped with what, and how you will use them. Look up your units if you have to, especially if they're obscure collab units; while a lot of collab units have basically zero stats and are thus cash drains, some units can actually deal good damage or tank good damge for their cost. A good execution can turn a lineup with nine swapped units into a winning lineups, especially if none of your units are lacking in levels. This is also why you should never reset straight away if your lineup is bad enough, except if you know for sure there's no way to win (ex: not having any Critters or anti-Metals on Bionic Seaweed, or getting a bunch of meatshields and Sanzo on Procrastinator Parade). 
+**Make the best of what you get:** Immediately when you enter a stage, pause the game and check your units. Try to figure out what got swapped with what, and how you will use them. Look up your units if you have to, especially if they're obscure collab units; while a lot of collab units have basically zero stats and are thus cash drains, some units can actually deal good damage or tank good damge for their cost.
 
-Lastly, **get a level 8 Worker Cat and a full wallet if possible**. All those mid-cost mid-cooldown level 1 units can work as supplementary stallers, meatshielding for whatever attackers you may have on the field, and you’ll need money to summon them consistently.
+A good execution can turn a lineup with nine swapped units into a winning lineups, especially if none of your units are lacking in levels. This is also why you should never reset straight away if your lineup is bad enough, except if you know for sure there's no way to win (ex: not having any Critters or anti-Metals on Bionic Seaweed, or getting a bunch of meatshields and Sanzo on Procrastinator Parade).
+
+**Maximise wallet level and cash ASAP:** All those mid-cost mid-cooldown level 1 units can work as supplementary stallers, meatshielding for whatever attackers you may have on the field, and you’ll need money to summon them consistently.
 
 Even with all this considered, it’s still very much possible to lose on your first, second, or even third try on most of the harder stages. The same advice still applies for subsequent attempts however, and it’s not very common to spend more than 3 attempts on a stage, unless it requires specific units or is hard to beat without a full dedicated lineup (No Return Flights, Shiver Junction, The Holy Exploit, Cubist Crimes, etc.)
 

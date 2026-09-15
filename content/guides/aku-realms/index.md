@@ -1,3 +1,6 @@
+---
+title: Aku Realms
+---
 
 ## Introduction
 
@@ -10,7 +13,7 @@ The Aku Altar is a specific kind of animated base, most often found in Aku-domin
 The Aku Altar's Seal level always starts at 1. The only way to reverse the effect of the seal is to progress through the Aku Realms. Every unique stage cleared will increase the seal's level by 1. After clearing all of the Aku Realms, the Aku Altar will be disabled across all stages.
 
 ![aku_altar](aku_altar.png)
-_*Example of a stage featuring an active Aku Altar_.
+_\*Example of a stage featuring an active Aku Altar_.
 
 ## Accessing the Aku Realms
 
@@ -22,7 +25,7 @@ To gain access to the Aku Realms, you must first clear the three maps from the E
 | Servant of Darkness/Wicked Tank | Monday, Friday: 12:00\~14:00<br>Tuesday, Saturday: 19:00\~21:00<br>Wednesday, Sunday: 22:00\~24:00<br>Thursday: 08:00\~10:00 |
 | Demon’s Park/Wicked Axe         | Monday, Friday: 19:00\~21:00<br>Tuesday, Saturday: 22:00\~24:00<br>Wednesday, Sunday: 08:00\~10:00<br>Thursday: 12:00\~14:00 |
 
-All of these maps cannot be replayed once completed. 
+All of these maps cannot be replayed once completed.
 
 Once you have cleared all three of the Wicked Cat maps, the final map, Unleashing the Cats, will appear. There is no time limit for this map, and it will disappear once completed.
 
@@ -56,7 +59,8 @@ A player is free to start doing the content of Aku Realms whenever they obtain a
 
 Do the stages from time to time, just like how you do Zombie Outbreaks. If a stage poses too much of a threat for you, do other stages to raise the seal level first; If even having a higher seal level doesn't help out, get more Treasures or just stronger units.
 
-For the final stretch of the Aku Realms, you should have Cats of the Cosmos fully completed. The final stages of the Aku Realms are balanced around late SoL or early UL level units. 
+For the final stretch of the Aku Realms, you should have Cats of the Cosmos fully completed. The final stages of the Aku Realms are balanced around late SoL or early UL level units.
+
 ### Preparation and Units
 
 The first 30 or so stages are pretty low in difficulty if you have prepared well. The following things are recommended to be completed in order to minimize the amount of trouble you have with the Aku Realms early on.
@@ -89,11 +93,11 @@ The final few stages, including Mount Aku's Invasion, are easily the hardest sta
 
 ### What You _Don’t_ Need
 
-- Anti-Aku Ubers: Most players’ first perception about Aku enemies is that they are tough, late-game enemies. You may think you need some kind of anti-Aku Uber to do The Aku Realms, when in fact you really don't. They can be tough, but are no more difficult than what the game expects you to have. For the most part, generalist units will work fine.
-- Specialized Anti-Aku meatshields: Similarly, you may think that you need specialized anti-Aku meatshields to help stall Akus. You do not need units like Bellydancer's Target Aku, Cactus Cat, or Maize Cat, given that the Manic meatshields can stall them fine. (Although you'll want Boulder for the last few stages.)
-- More Shield Piercers: Some of the more notable Aku enemies, like Fallen Bear, Le'Behemoth, or Jagando himself have gigantic Aku Shields. Because of this, many players make the decision to get units like Shield Piercing on Li'l Macho Legs, or get lategame options like Barrel Cat or Supercar to deal with the Aku Realms. In practice, many Aku Shields are able to be brute forced, and for the most difficult stages Aku Research is all you really need, although he can be frustrating to use without his True Form. 
-- Surge Immune units: Akus are often associated with Surge spam stages. However, there are very little Surge spam stages present within The Aku Realms, and what stages exist are able to be brute forced. 
-- Additional plus level boosts: Remember that The Aku Altar disables plus levels on your units, so your Normal Cats will be stuck with level 20 units, effectively making them useless. 
+- **Anti-Aku Ubers:** Most players’ first perception about Aku enemies is that they are tough, late-game enemies. You may think you need some kind of anti-Aku Uber to do The Aku Realms, when in fact you really don't. They can be tough, but are no more difficult than what the game expects you to have. For the most part, generalist units will work fine.
+- **Specialized Anti-Aku meatshields:** Similarly, you may think that you need specialized anti-Aku meatshields to help stall Akus. You do not need units like Bellydancer's Target Aku, Cactus Cat, or Maize Cat, given that the Manic meatshields can stall them fine. (Although you'll want Boulder for the last few stages.)
+- **More Shield Piercers:** Some of the more notable Aku enemies, like Fallen Bear, Le'Behemoth, or Jagando himself have gigantic Aku Shields. Because of this, many players make the decision to get units like Shield Piercing on Li'l Macho Legs, or get lategame options like Barrel Cat or Supercar to deal with the Aku Realms. In practice, many Aku Shields are able to be brute forced, and for the most difficult stages Aku Research is all you really need, although he can be frustrating to use without his True Form.
+- **Surge Immune units:** Akus are often associated with Surge spam stages. However, there are very little Surge spam stages present within The Aku Realms, and what stages exist are able to be brute forced.
+- **Additional plus level boosts:** Remember that The Aku Altar disables plus levels on your units, so your Normal Cats will be stuck with level 20 units, effectively making them useless.
 
 ## Credits
 
