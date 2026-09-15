@@ -209,6 +209,6 @@ Thanks for reading!
 [yohane's Z-Material farm list, including rush strategies](https://www.youtube.com/watch?v=XroZ2S7fcGw)
 ## Credits
 
-**goomister29** (original guide creations) \
+**goomister29** (original guide creations) 
 
 **drhenrymillerz** (helping compile optimal Z-Material farm stages)
