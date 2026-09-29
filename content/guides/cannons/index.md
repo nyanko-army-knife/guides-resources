@@ -140,7 +140,7 @@ This can be useful to get better rushdowns onto these enemies to kill them quick
 - Get Thunderbolt to level 20.
 - Get Holy Blast to level 20.
 - Get Thunderbolt to level 30.
-- Get Holy Blast to level 20.
+- Get Holy Blast to level 30.
 - Get your Cat Base Defense to level 30.
 
 After this, upgrade the rest of the cannons at your own pleasure.
