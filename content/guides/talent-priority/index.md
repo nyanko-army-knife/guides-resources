@@ -35,7 +35,7 @@ If a unit is listed as having (Talent 1) (Cost of Talent 1), (Talent 2) (Cost of
 
 **Can Can Cat** - Move Speed Up (125 NP): Makes Can Can a lot faster, allowing it to reach the frontline much faster. This, alongside Extra Bounties, makes Can Can a really good unit. While Move Speed Up is technically less important than Extra Bounties, the Speed increase is such a massive improvement on Can Can that this should be obtained as soon as possible.
 
-**Pizza Cat** - Wave Attack (165 NP): While its proc rate is a bit low, if it lands Pizza gains double damage and pierce, which is extremely strong when fighting hordes of Dark enemies. Dark is already a very aggressive Trait, so giving Pizza this Talent will considerably assist you for tough Dark stages like DNA & DHA. Also helps his generalist damage considerably. This Talent is very strong for SoL given its tendency to spam enemies, as well as for XP grinding for stages like XP Colosseum or Merciless XP.
+**Pizza Cat** - Wave Attack (165 NP): While its proc rate is a bit low, if it lands Pizza gains double damage and pierce, which is extremely strong when fighting hordes of Dark enemies. Dark is already a very aggressive Trait, so giving Pizza this Talent will considerably assist you for tough Dark stages. Also helps his generalist damage considerably. This Talent is very strong for SoL given its tendency to spam enemies, as well as for XP grinding for stages like XP Colosseum or Merciless XP.
 - You can delay this Talent if you own anti-Dark units like Kanna or Keiji. In particular, Kasa Jizo being essentially a second Pizza means that having him in your account will allow you to delay this Talent for a while.
 
 **Housewife Cat** - Savage Blow (165 NP): Turns Housewife from a random Long Distance unit into a very competent LD attacker, making her a strong generalist option. Housewife’s anti-Zombie niche is also greatly improved, as a Savage Blow can cripple Zombies greatly. As a result, alongside Shigong, Housewife is almost always enough for ItF Outbreaks or Zombie SoL stages. Housewife's unique role in having LD, good damage, Zombie Killer, and Savage Blows additionally is fairly difficult to replicate with Ubers, and as such getting Savage Blow is recommended even if you have good anti-Zombie Ubers.
@@ -289,3 +289,7 @@ Heavy Assault C.A.T - Weaken Immunity, Resist Slow: C.A.T. doesn’t really care
 **Seafarer Cat** - Warp Immunity: Seafarer wants to be Warped because it grants him more chances to reposition.
 
 **The Kitty of Liberty** - Knockback vs. Alien, Warp Blocker: KoL only has one knockback, so being Warped is actually good for it. See Bath Cat’s section for an explanation of Knockback.
+
+## Credits
+**The Helper Team** (voting on placements)
+**goomister29** (writing explanations)
