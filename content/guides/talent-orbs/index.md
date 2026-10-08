@@ -1,5 +1,5 @@
 ---
-title: Talent Orbs Guide
+title: Talent Orbs
 ---
 
 ## What are Talent Orbs?
