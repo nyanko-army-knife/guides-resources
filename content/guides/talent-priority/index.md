@@ -18,11 +18,11 @@ title: Talent Priority
 
 Everything here assumes that you do not own certain Ubers that may greatly affect a Talent’s placement. Even Talents such as Pizza Cat’s Wave can be put aside for a bit if you own Kasa Jizo, for example. For the most part, the high priority Talents, especially the Top Priority Talents, remain true regardless of your Ubers, but after the High Priority Talents you may want to send a list of your Ubers if you don’t know what to Talent next. While we have tried to include notes in these descriptions regarding if you can move down Talents based on your personal unit collection, this can’t account for everything, so always ask if you’re not sure.
 
-If you did not get a certain Talent for a unit that has a certain priority, don’t get any other of their Talents either.
+If you did not get a certain Talent for a unit that has a certain priority, don’t get their other, lower priority Talents either. 
 
 Talents are not sorted between priorities, with the exception of Top Priority since you cannot obtain Bahamut’s Talents fresh out of ItF3.
 
-If a unit is listed as having `(Talent 1) (Cost of Talent 1), (Talent 2) (Cost of Talent 2)`, this means that both of these Talents are simply on the same level of priority. If a unit is listed as having `(Talent 1) (Cost of Talent 1) + (Talent 2) (Cost of Talent 2)`, you need to purchase all of that unit’s Talents in order to make them viable. Only buying 1/2 or 2/3 of those Talents won’t be enough to make that unit good enough to use.
+If a unit is listed as having `(Talent 1) (Cost of Talent 1), (Talent 2) (Cost of Talent 2)`, this means that both of these Talents are simply on the same level of priority. If a unit is listed as having `(Talent 1) (Cost of Talent 1) + (Talent 2) (Cost of Talent 2)`, you need to purchase all of that unit’s Talents in order to make them viable. Only buying some of those Talents won’t be enough to make that unit good enough to use.
 
 ## Talent Priority Explanations
 
@@ -30,7 +30,7 @@ If a unit is listed as having `(Talent 1) (Cost of Talent 1), (Talent 2) (Cost o
 
 _Easily the best Talents in the game. Whenever you unlock them, get them._
 
-**Can Can Cat** - Extra Bounties (75 NP): Extra Bounties is an insane Talent which makes Can Can a truly versatile unit, being able to gather huge amounts of cash early from supporting peons. With this Talent, Can Can becomes one of the strongest units in the entire game and a key component in your lineup throughout the mid to end game, due to how broken Extra Bounties is as an ability. Just killing a Doge Dark, for example, funds you enough money to deploy an Uber or Bahamut, allowing you to rapidly level up your Worker Cat.
+**Can Can Cat** - Extra Bounties (75 NP): Extra Bounties is an insane Talent which makes Can Can a truly versatile unit, being able to gather huge amounts of cash early from supporting peons. With this Talent, Can Can becomes one of the strongest units in the entire game and a key component in your lineup throughout the mid to end game, due to how broken Extra Bounties is as an ability. Just killing a Doge Dark, for example, funds you enough money to deploy an Uber or Bahamut, or level up your Worker Cat. 
 
 **Awakened Bahamut Cat** - Explosion (235 NP): Turns Awakened Bahamut from good to broken. This Talent gives Bahamut double damage and pierce, making him one of the strongest units in the game outright. Just a single Bahamut hit against base hit stages allows him to cripple the boss that he attacks against, any peons alongside it, and any supporting enemies that may be present within the stage itself. Bahamut is almost always going to get value when deployed, due to how much damage 100k is to a surrounding area, even if he dies in one hit. Bahamut's Explosion also takes the art of Bahamut Chaining and elevates it to new heights; enemies that wouldn't have been damage knockbacked by one Bahamut hit will now, opening up the avenues of Bahamut chaining to enemies like Puffsley's Comet or Yulala. As a result, a Talented Bahamut is able to completely trivialize SoL, 1* UL, Starred UL, as well as numerous Advent stages and Tower floors. Given that ZL (and Starred ZL) is balanced around Bahamut’s Explosion, your main focus for the midgame should be trying to beat Bahamut Cat’s Trial to try and get access to Bahamut’s Talents. The 235 NP this Talent costs is the best NP you will ever spend in the entire game.
 
@@ -66,11 +66,11 @@ _These Talents are really good, but a bit pricey. Try to focus on these talents 
 
 **Can Can Cat** - Attack Buff (125 NP): Can Can is so good that boosting its Attack by 20% helps a lot, especially for dealing with higher magged peons or for more difficult stages in UL.
 
-**Cyberpunk Cat** - Slow (125 NP): Doubles his Slow uptime, and is very helpful for more endurance based stages like many of the Manic stages, or even SoL stages if you’re struggling like Heaven’s Oasis or Procrastinator Parade, although there’s little real application before you clear An Ancient Curse. Once you do, Cyberpunk becomes very viable for Advents, such as With Sympathy where an endurance-based approach allows you to use Bahamut to solo the St. Dober, all of Xenobeast Bunnaglios's stages, or tough UL/ZL stages.
+**Cyberpunk Cat** - Slow (125 NP): Doubles his Slow uptime, and is very helpful for more endurance based stages like many of the Manic stages, or even SoL stages if you’re struggling like Heaven’s Oasis or Procrastinator Parade, although most of his application really comes after you clear An Ancient Curse. Once you do, Cyberpunk becomes very viable for harder Advents, such as With Sympathy where an endurance-based approach allows you to use Bahamut to solo the St. Dober, all of Xenobeast Bunnaglios's stages, or tough UL/ZL stages.
 
 > You can delay this Talent if you own CC units with a wide target variety like Assassilan Pasalan, Chronos, or Mitama.
 
-**Seafarer Cat** - Freeze (125 NP): Increases his chance of Freezing Aliens by 20%, which makes Seafarer a much more consistent unit to use. Very helpful for CotC in particular, but is useful throughout the whole game.
+**Seafarer Cat** - Freeze (125 NP): Increases his chance of Freezing Aliens by 20%, which makes Seafarer a much more consistent unit to use. Very helpful for CotC and Puffer Planet in particular, but is useful throughout the whole game.
 
 > You can delay this Talent if you have extremely powerful anti-Alien Ubers like Celestial Child Luna.
 
@@ -90,7 +90,7 @@ _Low Tier Talents are more useful for content towards the end of the game. Some 
 
 > You can skip this Talent if you’re not concerned about Metal stages, or if you already have strong Critters like Edgemaster Staal or Paladin Cat.
 
-**Sanzo Cat** - Target Angel (50 NP), Slow (Level 1 Only, 5 NP), Survive (95 NP): While Sanzo’s Target Angel isn’t as high priority of a Talent as it was a few years ago, it is still very helpful to deal with melee Angel enemies like St. Dober, one of the hardest pushing Angels in the game or Boraphim. In particular, With Sympathy can be very difficult without a proper method to deal with St. Dober, and given that clearing the stage gives you the very helpful Bubble Cat, it is important to have Sanzo if you don’t have powerful Uber options to deal with the stage. Also very helpful for Heavenly Tower Floor 42. Slow adds 0.4 more seconds of Slow to Sanzo, which is a pretty good improvement for 5 NP. Survive increases Sanzo’s survivability pretty drastically, allowing him to get more attacks after he dies to things like St. Dober’s Surge.
+**Sanzo Cat** - Target Angel (50 NP), Slow (Level 1 Only, 5 NP), Survive (95 NP): While Sanzo’s Target Angel isn’t as high priority of a Talent as it was a few years ago, it is still very helpful to deal with melee Angel enemies like St. Dober, one of the hardest pushing Angels in the game or Boraphim. In particular, With Sympathy can be very difficult without a proper method to deal with St. Dober, and given that clearing the stage gives you the very helpful Bubble Cat, it is important to have Sanzo if you don’t have powerful Uber options to deal with the stage. Also very helpful for Heavenly Tower Floor 42. Slow adds 0.4 more seconds of Slow to Sanzo, which is a pretty good improvement for 5 NP. Survive increases Sanzo’s survivability pretty drastically, allowing him to get more attacks after he dies to things like St. Dober’s Surge. However, compared to Slow and Target Angel, Survive is much less important to grab. The main application of Survive is if you really need the extra survivability on Sanzo, or if you constantly use him. 
 
 > You can delay Target Angel (and, by extension, the other Talents) if you already have powerful anti-Angel CC options like God-Emperor Daliasan, Himeyuri, or Mitama, or if you have units that can brute force St. Dober such as Ultra Kasa Jizo or Thunder Jack.
 
@@ -130,7 +130,7 @@ _Low Tier Talents are more useful for content towards the end of the game. Some 
 
 > You can skip both Talents if you already have very powerful anti-Dark nuker Ubers like Ultra Kasa Jizo or Adventurer Kanna. 
 
-**Housewife Cat** - Attack Buff (125 NP): Housewife is a very solid ranged unit, and getting her Attack Talent improves her performance by quite a lot.
+**Housewife Cat** - Attack Buff (125 NP): Housewife is a very solid ranged unit and Zombie Killer, and getting her Attack Talent improves her performance by quite a lot.
 
 > You can skip this Talent if you already don’t often use Housewife.
 
@@ -144,7 +144,9 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Dancer Cat** - Defense Buff (125 NP): While giving Dancer 80% more health is good, Dancer’s main appeal is his damage and not his bulk.
 
-**Li’l King Dragon Cat** - Surge Immunity (75 NP) + Survive (165 NP), Attack Buff (125 NP), Mini-Wave (165 NP): Allows Li’l King Dragon to become a very strong Surge Immunity backliner for stages such as Ashes Just Ahead, Omens, or Ghost King Finale, especially alongside a talented Jiangshi. However, this is a lot of NP to spend on a Surge Immune unit. Can be moved down if you already own strong Surge Immune options. Do not get these Talents if your LKD is not at least level 80. The common consensus for LKD’s Talent Priority is to get Surge Immunity and Survive together, then get Attack Buff, then save Mini-Wave for last.
+**Li’l King Dragon Cat** - Surge Immunity (75 NP) + Survive (165 NP), Attack Buff (125 NP), Mini-Wave (165 NP): Allows Li’l King Dragon to become a very strong Surge Immunity backliner for stages such as Ashes Just Ahead, Omens, or Ghost King Finale, especially alongside a talented Jiangshi. However, this is a lot of NP to spend on a Surge Immune unit. LKD also requires a bunch of dupes from Lucky Ticket farming to be usable generally. Do not get these Talents if your LKD is not at least level 80. The common consensus for LKD’s Talent Priority is to get Surge Immunity and Survive together, then get Attack Buff, then save Mini-Wave for last. Health Buff is pretty whatever and won't be useful most of the time. You can use LKD as soon as you get both Surge Immunity and Survive, but giving him more damage is very good, especially if you don't have too many LKD dupes. 
+
+> Do not get LKD's Talents if you already have really good anti-Surge units.
 
 **Awakened Bahamut Cat** - Move Speed Up (175 NP), Slow Immunity (100 NP): While minor, Bahamut being able to speed towards the frontline is always helpful for rush strategies. Notably, this creates an interaction on Birth of True Man where if Bahamut hits the base, Luza’s hits both miss, allowing Bahamut and your rushers to demolish Luza before Hazuku comes. This also creates a very minor interaction where Bahamut is just able to get in a hit before Lowkey or Papaou attacks it. Slow Immunity is mainly QOL, though if you don’t have any Ubers a Slow Immune Bahamut does completely destroy Prisoner’s Progress by being able to tank a Daboo hit and dishing out insane amounts of damage against Daboo. Other than that, Slow Immunity is mainly for if you mess up a timing and send Bahamut into an enemy like Croakley.
 
@@ -156,13 +158,13 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Roe Cat** - Defense Buff (125 NP), Cost Down (125 NP): Defense Buff is pretty relevant on Roe who already has a great base health stat, but during the endgame Roe is mostly outclassed by Rapper in most scenarios to where there are little relevant stages left for it to shine. Cost Down is subject to the same issues as Pizza’s Cost Down Talent mentioned above.
 
-**Cyberpunk Cat** - Cost Down (125 NP): Just makes Cyberpunk cheaper. It's nice for if you're doing stages where you're hardpressed for cash and you'll be sending out more than one Cyberpunk throughout the course of the battle, but saving 750c per Cyberpunk usually won't be making a ton of difference.
+**Cyberpunk Cat** - Cost Down (125 NP): Just makes Cyberpunk cheaper. It's nice for if you're doing stages where you're hardpressed for cash and you'll be sending out more than one Cyberpunk throughout the course of the battle, but saving 750c per Cyberpunk usually won't be making a ton of difference in a battle.
 
 **Octopus Cat** - Defense Buff (125 NP): The same thing about Roe’s Defense Buff Talent also applies here. In addition, Wave enemies are hyperbuffed during endgame and usually end up killing Octopus very quickly.
 
-**Fishman Cat** - Defense Buff (125 NP): More health on Fishman is never a bad thing, though he doesn’t really gain that much health given his base HP.
+**Fishman Cat** - Defense Buff (125 NP): More health on Fishman is never a bad thing, though he doesn’t really gain that much health given his mid base HP.
 
-**Fiend Cat** - Resistant (75 NP), Target Angel (75 NP): Gives Fiend much higher health against its target traits, and Knockback vs. Angel is a surprisingly useful benefit for Fiend to have. These Talents are very nice, but aren’t needed for most stages.
+**Fiend Cat** - Resistant (75 NP), Target Angel (75 NP): Gives Fiend much higher health against its target traits, and Knockback vs. Angel is a surprisingly useful benefit for Fiend to have to push away Angel backliners like Sunfish Jones or Angelic Sleipnir. These Talents are very nice, but aren’t needed for most stages.
 
 ### No Priority
 
@@ -174,9 +176,9 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Skelecat** - Weaken, Resist Slow, Recover Speed Up, Defense Buff, Attack Buff
 
-**Heavy Assault C.A.T** - Weaken Immunity, Resist Slow: C.A.T. doesn’t really care about Kurocroc’s Weaken since it’ll usually just kill it in two hits, and for Dark Dober you can just send more C.A.Ts to replace one that just got Weakened.
+**Heavy Assault C.A.T** - Weaken Immunity, Resist Slow: C.A.T. doesn’t really care about Kurocroc’s Weaken due to C.A.T.'s role as a rusher, and for Dark Dober you can just send more C.A.T.s to replace ones that just got Weakened.
 
-**Gato Amigo** - Knockback, Resist Freeze, Resist Slow, Defense Buff
+**Gato Amigo** - Knockback, Resist Freeze, Resist Slow, Defense Buff: Knockback isn't detrimental as a Talent more so than it is just useless, given that it's very unlikely a Gato Amigo will be able to reach an enemy and Knockback it. 
 
 **Ultimate Bondage Cat** - Freeze, Dodge Attack, Slow Immunity, Defense Buff, Attack Buff: You do not need this for Poultrio. 
 
@@ -184,7 +186,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Dancer Cat** - Surge Attack: Too expensive for what it does, and misses too often.
 
-**Beefcake Cat** - Attack Buff, Surge Immunity, Resist Slow, Defense Buff, Attack Buff
+**Beefcake Cat** - Attack Buff, Surge Immunity, Resist Slow, Defense Buff, Attack Buff: Beefcake suffers from a lack of stats leaving it outclassed in the anti-Surge DPS department, and as a general attacker Beefcake is just worse than Cyborg. 
 
 **Loincloth Cat** - Barrier Breaker, Warp Immunity, Weaken Alien, Defense Buff, Attack Buff
 
@@ -192,9 +194,9 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Hyper Mr.** - Knockback vs. Zombie, Freeze Immunity, Warp Immunity, Defense Buff, Attack Buff
 
-**Li’l Mohawk Cat** - Critical Hit, Wave Immunity, Slow Immunity, Defense Buff, Attack Buff: There are two Wave Immune meatshields who don’t need NP in Glittering Macho and Carpenter Cat. While Glittering Macho needs a Gold Fruit and is rare, Carpenter comes from the easiest Brutal in the game and is also a good meatshield for Floating and Red. Obtaining both makes Li'l Mohawk's Wave Immunity Talent unneeded.
+**Li’l Mohawk Cat** - Critical, Wave Immunity, Slow Immunity, Defense Buff, Attack Buff: There are two Wave Immune meatshields who don’t need NP in Glittering Macho and Carpenter Cat. While Glittering Macho needs a Gold Fruit and is rare, Carpenter comes from the easiest Brutal in the game and is also a good meatshield for Floating and Red. Obtaining either of them makes Li'l Mohawk's Wave Immunity Talent unneeded.
 
-**Li’l Eraser Cat** - Resist Toxic, Dodge vs. Zombie, Defense Buff, Attack Buff: Li’l Eraser isn’t needed for Oldstritch since Shigong usually walls it fine enough, so there’s no need to boost Li’l Eraser or get Talents for it that improve its survivability. For 4* UL, you have Riceball, Rock, and Jiangshi already as well.
+**Li’l Eraser Cat** - Resist Toxic, Dodge vs. Zombie, Defense Buff, Attack Buff: Li’l Eraser isn’t needed for Oldstrich since Shigong usually walls it fine enough, so there’s no need to boost Li’l Eraser or get Talents for it that improve its survivability. For 4* UL, you have Riceball, Rock, and Jiangshi already as general meatshields.
 
 **Li’l Dark Cat** - Target Aku, Freeze, Resist Surge, Defense Buff, Attack Buff
 
@@ -204,7 +206,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Li’l Flying Cat** - Target Relic, Curse Immunity, Curse, Defense Buff, Attack Buff
 
-**Li’l Island Cat** - Target Aku, Wave Attack, Resist Curse, Defense Buff, Attack Buff
+**Li’l Island Cat** - Target Aku, Wave Attack, Resist Curse, Defense Buff, Attack Buff: Li'l Island is commonly used in "one-lineup" No Gacha challenges, but that requires a lot of Li'l Fish dupes as well as getting a lot of Li'l Island's Talents. Li'l Island as a unit isn't too strong even with Talents, so there isn't much point to getting it. 
 
 **Li’l King Dragon Cat** - Defense Buff
 
@@ -214,11 +216,11 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Cat God the Golden** - Weaken, Dodge, Curse Immunity, Defense Buff, Attack Buff
 
-**Metafilibuster** - Massive Damage, Freeze, Recover Speed Up, Defense Buff, Attack Buff: Remains impractical to use and costs too much NP.
+**Metafilibuster** - Massive Damage, Freeze, Recover Speed Up, Defense Buff, Attack Buff: Remains impractical to use and costs too much NP to make useful.
 
 **Jiangshi Cat** - Resist Slow, Resist Wave, Defense Buff, Attack Buff: Jiangshi’s endurance is already pretty bad, and in most stages Jiangshi will be taking enough damage to trigger its Survive immediately, so increasing Jiangshi’s health doesn’t do much.
 
-**Chill Cat** - Resist Weaken, Defense Buff, Attack Buff, Cost Down: Chill Cost Down could be theoretically considered for Puffer Planet, but there are better options available, and even with Cost Down many of Chill’s issues still remain.
+**Chill Cat** - Resist Weaken, Defense Buff, Attack Buff, Cost Down: Chill Cost Down could be theoretically considered for Puffer Planet, but there are better options available, and even with Cost Down Chill is still a bad unit who suffers from cost, damage, and range issues.
 
 **Cyborg Cat** - Survive, Toxic Immunity, Resist Freeze, Defense Buff, Attack Buff: Cyborg’s foreswing is fast enough to kill Zollows even untalented, so Toxic Immune doesn’t do much. Cyborg also naturally gets outclassed as the game progresses, so you shouldn’t buy Cyborg’s stat talents.
 
@@ -242,7 +244,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Elemental Duelist Cat** - Resist Weaken, Target Angel, Defense Buff, Attack Buff, Recover Speed Up
 
-**Rodeo Cat** - Target Relic, Resist Curse, Defense Buff, Attack Buff, Recover Speed Up: The only reason to ever get Rodeo is to beat Primeval Cyclone, and even then Professor Cat Jobs (or anti-Relic Uber spam) does the same thing. Once you get Modern Cat, Rodeo becomes useless due to its lack of range.
+**Rodeo Cat** - Target Relic, Resist Curse, Defense Buff, Attack Buff, Recover Speed Up: The only reason to ever get Rodeo is to beat Primeval Cyclone, and even then Professor Cat Jobs or Medusa/Naga Cat (or anti-Relic Uber spam) does the same thing. Once you beat Primeval Cyclone for the first time, Rodeo becomes useless due to its poor matchups against Relics. 
 
 **Acrobat Cats** - Surge Attack, Wave Immunity, Resist Freeze, Defense Buff, Attack Buff
 
@@ -258,7 +260,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Weedwhacker Cat** - Target Aku, Resist Surge, Resist Slow, Defense Buff, Attack Buff
 
-**Ectoweight Ca**t - Target Alien, Resist Weaken, Savage Blow, Defense Buff, Attack Buff
+**Ectoweight Cat** - Target Alien, Resist Weaken, Savage Blow, Defense Buff, Attack Buff
 
 **Catellite** - Curse Immunity, Resist Knockback, Defense Buff, Attack Buff: Crept by Jetpack by the time you consider stat Talents, and Catellite even with Curse Immunity Talents is still not good for Alien/Relic mixed stages. 
 
@@ -300,7 +302,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Artist Orthos CC** - Knockback, Slow Immunity, Mini-Surge, Defense Buff, Attack Buff
 
-**Citizen Mola** - Weaken vs. All, Freeze vs. All, Slow vs. All, Knockback vs. All, Curse vs. All
+**Citizen Mola** - Weaken vs. All, Freeze vs. All, Slow vs. All, Knockback vs. All, Curse vs. All: Way too expensive, way too inconsistent, and has very little real stages where he can be used. 
 
 ### Do Not Unlock
 
@@ -310,7 +312,7 @@ _These Talents are straight up bad and will make your units worse. Do not get th
 
 **Chill Cat** - Knockback: Knockbacking Aliens is really bad, for two reasons. The first is that given Chill is a unit that works best when spammed, having one Chill Knockback its target (like with Star Peng) will cause the rest to miss. In addition, Alien enemies are usually supported by strong backliners, so when the frontline is Knockbacked, your Chill stack will walk up and then be nuked by a powerful backliner hit.
 
-**Sanzo Cat** - Weaken: While Weaken on Sanzo seems like a good additional CC alongside Slow, Sanzo’s Weaken only weakens enemies to 75%, which is much less potent compared to other Weaken units, who weaken to 50% or lower. Sanzo’s Weaken carries the risk of overwriting stronger Weakens from Ubers or other units with its own less potent Weaken.
+**Sanzo Cat** - Weaken: While Weaken on Sanzo seems like a good additional CC alongside Slow, Sanzo’s Weaken only weakens enemies to 70%, which is much less potent compared to other Weaken units, who weaken to 50% or lower. Sanzo’s Weaken carries the risk of overwriting stronger Weakens from Ubers or other units with its own less potent Weaken.
 
 **Robocat** - Knockback Immunity - Reduces the amount of repositions it can get.
 
