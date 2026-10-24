@@ -8,6 +8,7 @@ title: Talent Priority
 
 ## General Tips
 
+- Always max out Talents before you move on to another Talent. 
 - NP is precious and difficult to obtain! Don’t spend NP on random Talents on random units you’ll never use.
 - In general, the priority levels exist for a reason. Get most or all Talents in a priority level before moving onto the next one.
 - Rare and Super Rare Talents are not only cheaper, but are usually much more effective compared to Uber Talents. Focus on them first.
@@ -120,7 +121,7 @@ _Low Tier Talents are more useful for content towards the end of the game. Some 
 
 > You can skip this Talent if you don’t find Floating + Relics to be a difficult combination, if you own Esoteric Uril, or if you have powerful anti-Floating Ubers like God-Emperor Daliasan, Supernova Cosmo, or Raclesa.
 
-**Fishman Cat** - Move Speed Up (125 NP), Attack Buff (125 NP) - Moves faster now, allowing him to get to the frontlines faster as well as helping out for rush strategies. While this Talent does mess up his Othom and Bun Bun interactions to where they’re not perfectly consistent anymore, Othom is not relevant most of the time and Bun Bun at the end of the day is still best countered by Crowd Control. Attack Buff is an Attack Buff Talent, although it does take priority over a speedy Fishman.
+**Fishman Cat** - Move Speed Up (125 NP), Attack Buff (125 NP): Moves faster now, allowing him to get to the frontlines faster as well as helping out for rush strategies. While this Talent does mess up his Othom and Bun Bun interactions to where they’re not perfectly consistent anymore, Othom is not relevant most of the time and Bun Bun at the end of the day is still best countered by Crowd Control. Attack Buff is an Attack Buff Talent, although it does take priority over a speedy Fishman.
 
 **Juliet the Maiko** - Freeze (Level 1 Only, 10 NP): Most of Juliet’s Freeze improvement from her Freeze Up Talent comes from its first level, which can be very handy for stages like Floor 26 or against St. Dober in general. It’s not a complete substitute for Sanzo Target Angel on With Sympathy, but it comes very close.
 
@@ -284,7 +285,7 @@ _You should probably be pivoting into buying Uber Talents by this point in the g
 
 **Tathagata Cat** - Weaken, Slow, Defense Buff, Attack Buff, Move Speed Up
 
-**Juliet the Maiko** - Resist Knockback, Attack Buff, Defense Buff, Move Speed Up
+**Juliet the Maiko** - Attack Buff, Defense Buff, Move Speed Up
 
 **Pizza Cat** - Slow: Doesn’t actually do anything, and it’s too inconsistent and expensive to rely on even as a secondary CC.
 
@@ -312,13 +313,17 @@ _These Talents are straight up bad and will make your units worse. Do not get th
 
 **Chill Cat** - Knockback: Knockbacking Aliens is really bad, for two reasons. The first is that given Chill is a unit that works best when spammed, having one Chill Knockback its target (like with Star Peng) will cause the rest to miss. In addition, Alien enemies are usually supported by strong backliners, so when the frontline is Knockbacked, your Chill stack will walk up and then be nuked by a powerful backliner hit.
 
+**Catasaurus** - Resist Knockback: Catasaurus getting Knockbacked is beneficial for him due to his poor health. 
+
 **Sanzo Cat** - Weaken: While Weaken on Sanzo seems like a good additional CC alongside Slow, Sanzo’s Weaken only weakens enemies to 70%, which is much less potent compared to other Weaken units, who weaken to 50% or lower. Sanzo’s Weaken carries the risk of overwriting stronger Weakens from Ubers or other units with its own less potent Weaken.
 
-**Robocat** - Knockback Immunity - Reduces the amount of repositions it can get.
+**Robocat** - Knockback Immunity: Reduces the amount of repositions it can get.
 
 **Catellite** - Barrier Breaker: Prevents stacking of units on UltraBaaBaa, such as on Requiem for Angels.
 
 **Luxury Bath Cat** - Knockback: See Chill Cat’s section. Knockback is worse on Bath and The Kitty of Liberty given that they are single target units.
+
+**Juliet the Maiko** - Resist Knockback: Juliet getting Knockbacked is beneficial for her due to her poor health. 
 
 **Slapstick Cats** - Knockback Immunity: Messes its interaction up with M. Ost, causing it to take damage knockbacks instead of getting free repositions.
 
