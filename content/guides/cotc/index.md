@@ -49,7 +49,8 @@ CotC doesn't have Timed Score rewards. Instead, almost every level in CotC featu
 | Ababwa, Titan, Skelling                                                                  | Only 1200¢ or more                   |
 | Gorigori, Broton, Crimson Star, All CotC Outbreak stages                                 | 10 Cat Limit                         |
 | Black Hole                                                                               | No Normals/Super Rares, 10 Cat Limit |
-| These Restrictions do not change between CotC chapters, for better or for worse.         |                                      |
+
+These Restrictions do not change between CotC chapters, for better or for worse.
 
 CotC Outbreaks are also a thing. They are also really difficult. Just postpone them until you're fully done CotC.
 
@@ -67,7 +68,7 @@ CotC Outbreaks are also a thing. They are also really difficult. Just postpone t
 #### Magnifications
 
 - Starred Aliens: 100%
-- Others: Around ItF 2
+- Others: Around ItF 2 / SoL 18
 
 ### CotC II
 
@@ -91,7 +92,7 @@ CotC Outbreaks are also a thing. They are also really difficult. Just postpone t
 - 150 Cat Food
 - 1 Platinum Ticket
 - 5 million XP (for obtaining all Treasures)
-- Access to Filibuster Invasion, which grants you Filibuster Cat X upon completion
+- Access to Filibuster Invasion, which grants you Filibuster Cat X upon completion (bad unit)
 
 #### Magnifications
 
@@ -112,7 +113,7 @@ While this is more of an opinion than something you should precisely follow, her
 - SoL 31 - 37
 - CotC Ch. 3
 
-Older guides may have recommended clearing SoL before doing CotC 2 and 3. You really don't need to do this, the main reason being that beating CotC 3 before SoL unlocks a ton of stages, and that level 50 units aren't needed for CotC 3. Even if you really want level 50 units for CotC 3, getting all the Catseyes for level 50 units is a pain to do fresh out of UL 1.
+Older guides may have recommended clearing SoL before doing CotC 2 and 3. You really don't need to do this, the main reason being that beating CotC 3 before SoL unlocks a ton of stages, and that level 50 units aren't needed for CotC 3. Even if you really want level 50 units for CotC 3, getting all the Catseyes for level 50 units is a pain to do fresh out of UL 1. 
 
 Also, beating CotC 3 gives you access to Bahamut Cat's Trial. Bahamut's Talents are extremely good for reasons that are covered in the [Talent Priority](../talent-priority/index.md) guide, so there's not much point to talk about them here. Just know that Bahamut's Explosion is very good and deletes a good chunk of the game. Other stages that require CotC 3 completion include but are not limited to:
 
@@ -169,9 +170,9 @@ Regarding the True Forms themselves, most of these gain stat buffs except for Ca
 
 ## User Rank, Catseyes, and Talents
 
-The only notable User Rank number you really need to hit after 1600 is 3650, for level 30 Crazed Cats. This is pretty significant, though, so try to build up User Rank while going through CotC. After 1600 User Rank, you will also unlock Catseyes. These are resources which allow you to increase the level cap of your non-Normal units up to level 40, or level 50 once you have beaten An Ancient Curse. Some units, like Metal Cat, cannot have Catseyes used on them, while the Mythic Cats cannot be upgraded to 40 using Catseyes until An Ancient Curse is beaten. Most of mid-SOL and COTC 2-3 are balanced around level 40 units, so try to grind for Catseyes, and don't waste your Catseyes on random units.
+The only notable User Rank number you really need to hit after 1600 is 3650, for level 30 Crazed Cats. This is pretty significant, though, so try to build up User Rank while going through CotC. After 1600 User Rank, you will also unlock Catseyes. These are resources which allow you to increase the level cap of your non-Normal units up to level 40, or level 50 once you have beaten An Ancient Curse. Some units, like Metal Cat and the Normal Cats, cannot have Catseyes used on them, while the Mythic Cats cannot be upgraded to 40 using Catseyes until An Ancient Curse is beaten. Most of mid-SOL and COTC 2-3 are balanced around level 40 units, so try to grind for Catseyes, and don't waste your Catseyes on random units.
 
-Catseyes can be farmed in a variety of ways, but the best ways to get Catseyes are from GAMATOTO and doing Proving Grounds, which appears on weekends. Only the final Proving Grounds map can drop Catseyes, and those are balanced around CotC 3 completion/learly UL anyways. For GAMATOTO, just keep running GAMATOTO on areas with two Catseyes (if available), or if that's not available put him to do expeditions on single Catseye areas.
+Catseyes can be farmed in a variety of ways, but the best ways to get Catseyes are from GAMATOTO and doing Proving Grounds, which appears on weekends. Only the final Proving Grounds map can drop Catseyes, and those are balanced around CotC 3 completion/learly UL anyways. For GAMATOTO, just keep running GAMATOTO on areas with two Catseyes (if available), or if that's not available make him do expeditions on single Catseye areas.
 
 Another gamechanger is the addition of Talents once you complete ItF 3. Talents can be purchased by exchanging duplicate gacha rolls for NP as opposed to XP. NP can then be used to buy Talents for select units with True Forms. NP is really valuable since there's not many consistent ways to farm it until you reach endgame, so try to follow a guide (like this website's Talent Priority guide) before you spend your NP. As another general rule of thumb, try to focus on Rare/Super Rare Talents before even thinking about Uber Talents.
 
@@ -179,7 +180,7 @@ Another gamechanger is the addition of Talents once you complete ItF 3. Talents 
 
 As mentioned before, the best way to clear the Special Only stages is to have access to a wide variety of Special units. The main ones you might want to go for are the True Forms of purchasable Special Cats, Crazed Moneko, and Li'l Macho Legs.
 
-While most of the purchasable Special Cats are still bad with their True Form, their stats are acceptable enough for Special Only stages. Their Awakening Stages do have a strict schedule, only appearing for two days per month, so you'll want to clear them when they appear. The main ones you might want to go for are the True Forms for Sumo Cat, Dom Cat, and Kung Fu Cat (Riceball Cat, Dark Lazer, and Dancer Cat respectively). Fortunately, none of the Awakening maps are particularly hard, being around Crazed difficulty at the most. If you know how to meatshield and stack Dragon Cats, you should be mostly good. Also try to have Ururun before doing them.
+While most of the purchasable Special Cats are still bad with their True Form, their stats are acceptable enough for Special Only stages. Their Awakening Stages do have a strict schedule, only appearing for two days per month, so you'll want to clear them when they appear. The main ones you might want to go for are the True Forms for Sumo Cat, Zombie Cat, Dom Cat, and Kung Fu Cat (Riceball Cat, Skelecat, Dark Lazer, and Dancer Cat respectively). Fortunately, none of the Awakening maps are particularly hard, being around Crazed difficulty at the most. If you know how to meatshield and stack Dragon Cats, you should be mostly good. Also try to have Ururun before doing them.
 
 Crazed Moneko is a Special unit with a 100% chance to land Critical hits. There are Metal stages in CotC with the Special Only restriction, so picking up Crazed Moneko is a good idea so that you don't have to rely on Moneko. Her stage only appears on the 28th of the month, and to make matters worse it is a little bit difficult (for early game standards). Try to have at least ItF 3 cleared and have some gacha True Forms before attempting her whole map.
 
@@ -187,7 +188,7 @@ The Li'l Cats also have True Forms, and each one needs their respective Awakenin
 
 When CotC doesn't have a Treasure Fest, there's not much point to progressing since you'll have to go back for Treasures anyways. Instead, try playing some more SoL. Not only to get the Mythic Cats from SoL, but to also get better at the game. SoL has some interesting stages within it, and they can be very challenging if you aren't able to strategize properly. Do them for XP, to get better, and because you need to do SoL anyways.
 
-While you're doing CotC, you should try and challenge more Cyclones, as well as start to do some Advent stages. The main Cyclones you should try to beat are the Cosmic, Super Cosmic, and Zombie Cyclones, as well as the Perfect Cyclone if you haven't already. In particular, Zyclone drops Cheerleader, a unit similar to Crazed Moneko but with even higher damage, and Perfect Cyclone gives Catornado, a fast critter with rapid attacks good for clearing out fields of weak Metals.
+While you're doing CotC, you should try and challenge more Cyclones, as well as start to do some Advent stages. The main Cyclones you should try to beat are the Cosmic, Super Cosmic, and Zombie Cyclones, as well as the Perfect Cyclone if you haven't already. In particular, Zyclone drops Cheerleader, a unit similar to Crazed Moneko but with even higher damage, and Perfect Cyclone gives Catornado, a fast critter with rapid attacks good for clearing out fields of weak Metals. The Super Cosmic Cyclone is a Starred Alien, but its initial stage is only balanced around CotC 1 Crystals, so you can do it very easily after beating CotC 1. 
 
 Advents are a bit more challenging, as many of them have bosses a lot different to what you might've faced beforehand. All of the bosses have extremely high range, meaning you have to adjust your strategies to factor in speed and defense as well as opposed to stacking strategies. Here's a quick look at all of the Advent stages you'd realistically be able to complete while in CotC and mid-SoL:
 
